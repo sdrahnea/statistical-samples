@@ -4,12 +4,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.udc</groupId>
-    <artifactId>spring-boot-jpa-mysql-primefaces-template</artifactId>
+    <artifactId>statistics</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>spring-boot-jpa-mysql-primefaces-template</name>
-    <description>spring-boot-jpa-mysql-primefaces-template</description>
+    <name>statistics</name>
+    <description>statistics</description>
     <parent>
         <groupId>org.joinfaces</groupId>
         <artifactId>jsf-spring-boot-parent</artifactId>

@@ -9,9 +9,9 @@ import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
  */
 @SpringBootApplication
 @EnableJpaRepositories
-public class SpringBootJpaMySqlPrimefacesTemplateApplication {
+public class StatisticsApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SpringBootJpaMySqlPrimefacesTemplateApplication.class, args);
+        SpringApplication.run(StatisticsApplication.class, args);
     }
 }
