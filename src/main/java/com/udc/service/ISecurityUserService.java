@@ -1,4 +1,4 @@
-package com.udc.services;
+package com.udc.service;
 
 import org.springframework.security.core.userdetails.User;
 import org.springframework.security.core.userdetails.UserDetailsService;

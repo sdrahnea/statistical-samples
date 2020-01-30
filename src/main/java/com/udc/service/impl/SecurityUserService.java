@@ -1,7 +1,7 @@
-package com.udc.services.impl;
+package com.udc.service.impl;
 
 import com.udc.model.security.SecurityUser;
-import com.udc.repositories.SecurityUserDto;
+import com.udc.repository.SecurityUserDto;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.core.userdetails.User;
 import org.springframework.security.core.userdetails.UserDetails;

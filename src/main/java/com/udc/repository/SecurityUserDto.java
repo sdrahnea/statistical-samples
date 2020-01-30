@@ -1,4 +1,4 @@
-package com.udc.repositories;
+package com.udc.repository;
 
 import com.udc.model.security.SecurityUser;
 import org.springframework.data.jpa.repository.JpaRepository;
