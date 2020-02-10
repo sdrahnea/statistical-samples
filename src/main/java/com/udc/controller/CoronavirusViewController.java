@@ -59,6 +59,11 @@ public class CoronavirusViewController {
         datetimes.add("2 February 2020");
         datetimes.add("3 February 2020");
         datetimes.add("4 February 2020");
+        datetimes.add("5 February 2020");
+        datetimes.add("6 February 2020");
+        datetimes.add("7 February 2020");
+        datetimes.add("8 February 2020");
+        datetimes.add("9 February 2020");
 
         List<Coronavirus> data = populateInfo();
 
@@ -373,6 +378,146 @@ public class CoronavirusViewController {
         list.add(new Coronavirus(tempData, "Finland", 1));
         list.add(new Coronavirus(tempData, "Spain", 1));
         list.add(new Coronavirus(tempData, "Sweden", 1));
+
+        //  5 February 2020
+        tempData = "5 February 2020";
+        list.add(new Coronavirus(tempData, "China", 24363));
+        list.add(new Coronavirus(tempData, "Japan", 33));
+        list.add(new Coronavirus(tempData, "Thailand", 25));
+        list.add(new Coronavirus(tempData, "Singapore", 24));
+        list.add(new Coronavirus(tempData, "Republic of Korea", 18));
+        list.add(new Coronavirus(tempData, "Australia", 13));
+        list.add(new Coronavirus(tempData, "Germany", 12));
+        list.add(new Coronavirus(tempData, "USA", 11));
+        list.add(new Coronavirus(tempData, "Malaysia", 10));
+        list.add(new Coronavirus(tempData, "Vietnam ", 10));
+        list.add(new Coronavirus(tempData, "French Republic", 6));
+        list.add(new Coronavirus(tempData, "Canada", 5));
+        list.add(new Coronavirus(tempData, "United Arab Emirates", 5));
+        list.add(new Coronavirus(tempData, "Philippines", 3));
+        list.add(new Coronavirus(tempData, "Russian Federation", 2));
+        list.add(new Coronavirus(tempData, "Italy", 2));
+        list.add(new Coronavirus(tempData, "United Kingdom", 2));
+        list.add(new Coronavirus(tempData, "India", 2));
+        list.add(new Coronavirus(tempData, "Nepal", 1));
+        list.add(new Coronavirus(tempData, "Cambodia", 1));
+        list.add(new Coronavirus(tempData, "Sri Lanka", 1));
+        list.add(new Coronavirus(tempData, "Finland", 1));
+        list.add(new Coronavirus(tempData, "Spain", 1));
+        list.add(new Coronavirus(tempData, "Sweden", 1));
+        list.add(new Coronavirus(tempData, "Belgium", 1));
+
+        //  6 February 2020
+        tempData = "6 February 2020";
+        list.add(new Coronavirus(tempData, "China", 28060));
+        list.add(new Coronavirus(tempData, "Singapore", 28));
+        list.add(new Coronavirus(tempData, "Japan", 25));
+        list.add(new Coronavirus(tempData, "Thailand", 25));
+        list.add(new Coronavirus(tempData, "Republic of Korea", 23));
+        list.add(new Coronavirus(tempData, "Australia", 14));
+        list.add(new Coronavirus(tempData, "Germany", 12));
+        list.add(new Coronavirus(tempData, "Malaysia", 12));
+        list.add(new Coronavirus(tempData, "USA", 12));
+        list.add(new Coronavirus(tempData, "Vietnam ", 10));
+        list.add(new Coronavirus(tempData, "French Republic", 6));
+        list.add(new Coronavirus(tempData, "Canada", 5));
+        list.add(new Coronavirus(tempData, "United Arab Emirates", 5));
+        list.add(new Coronavirus(tempData, "Philippines", 3));
+        list.add(new Coronavirus(tempData, "Russian Federation", 2));
+        list.add(new Coronavirus(tempData, "Italy", 2));
+        list.add(new Coronavirus(tempData, "United Kingdom", 2));
+        list.add(new Coronavirus(tempData, "India", 2));
+        list.add(new Coronavirus(tempData, "Nepal", 1));
+        list.add(new Coronavirus(tempData, "Cambodia", 1));
+        list.add(new Coronavirus(tempData, "Sri Lanka", 1));
+        list.add(new Coronavirus(tempData, "Finland", 1));
+        list.add(new Coronavirus(tempData, "Spain", 1));
+        list.add(new Coronavirus(tempData, "Sweden", 1));
+        list.add(new Coronavirus(tempData, "Belgium", 1));
+
+        //  7 February 2020
+        tempData = "7 February 2020";
+        list.add(new Coronavirus(tempData, "China", 31211));
+        list.add(new Coronavirus(tempData, "Singapore", 30));
+        list.add(new Coronavirus(tempData, "Japan", 25));
+        list.add(new Coronavirus(tempData, "Thailand", 25));
+        list.add(new Coronavirus(tempData, "Republic of Korea", 24));
+        list.add(new Coronavirus(tempData, "Australia", 15));
+        list.add(new Coronavirus(tempData, "Malaysia", 14));
+        list.add(new Coronavirus(tempData, "Germany", 13));
+        list.add(new Coronavirus(tempData, "USA", 12));
+        list.add(new Coronavirus(tempData, "Vietnam ", 12));
+        list.add(new Coronavirus(tempData, "French Republic", 6));
+        list.add(new Coronavirus(tempData, "Canada", 5));
+        list.add(new Coronavirus(tempData, "United Arab Emirates", 5));
+        list.add(new Coronavirus(tempData, "Philippines", 3));
+        list.add(new Coronavirus(tempData, "United Kingdom", 3));
+        list.add(new Coronavirus(tempData, "Italy", 3));
+        list.add(new Coronavirus(tempData, "Russian Federation", 2));
+        list.add(new Coronavirus(tempData, "India", 2));
+        list.add(new Coronavirus(tempData, "Nepal", 1));
+        list.add(new Coronavirus(tempData, "Cambodia", 1));
+        list.add(new Coronavirus(tempData, "Sri Lanka", 1));
+        list.add(new Coronavirus(tempData, "Finland", 1));
+        list.add(new Coronavirus(tempData, "Spain", 1));
+        list.add(new Coronavirus(tempData, "Sweden", 1));
+        list.add(new Coronavirus(tempData, "Belgium", 1));
+
+        //  8 February 2020
+        tempData = "8 February 2020";
+        list.add(new Coronavirus(tempData, "China", 34598));
+        list.add(new Coronavirus(tempData, "Singapore", 33));
+        list.add(new Coronavirus(tempData, "Thailand", 32));
+        list.add(new Coronavirus(tempData, "Japan", 25));
+        list.add(new Coronavirus(tempData, "Republic of Korea", 24));
+        list.add(new Coronavirus(tempData, "Australia", 15));
+        list.add(new Coronavirus(tempData, "Malaysia", 15));
+        list.add(new Coronavirus(tempData, "Germany", 14));
+        list.add(new Coronavirus(tempData, "Vietnam ", 13));
+        list.add(new Coronavirus(tempData, "USA", 12));
+        list.add(new Coronavirus(tempData, "United Arab Emirates", 7));
+        list.add(new Coronavirus(tempData, "French Republic", 6));
+        list.add(new Coronavirus(tempData, "Canada", 5));
+        list.add(new Coronavirus(tempData, "Philippines", 3));
+        list.add(new Coronavirus(tempData, "United Kingdom", 3));
+        list.add(new Coronavirus(tempData, "Italy", 3));
+        list.add(new Coronavirus(tempData, "Russian Federation", 2));
+        list.add(new Coronavirus(tempData, "India", 2));
+        list.add(new Coronavirus(tempData, "Nepal", 1));
+        list.add(new Coronavirus(tempData, "Cambodia", 1));
+        list.add(new Coronavirus(tempData, "Sri Lanka", 1));
+        list.add(new Coronavirus(tempData, "Finland", 1));
+        list.add(new Coronavirus(tempData, "Spain", 1));
+        list.add(new Coronavirus(tempData, "Sweden", 1));
+        list.add(new Coronavirus(tempData, "Belgium", 1));
+
+        //  9 February 2020
+        tempData = "9 February 2020";
+        list.add(new Coronavirus(tempData, "China", 37251));
+        list.add(new Coronavirus(tempData, "Singapore", 40));
+        list.add(new Coronavirus(tempData, "Thailand", 32));
+        list.add(new Coronavirus(tempData, "Republic of Korea", 27));
+        list.add(new Coronavirus(tempData, "Japan", 26));
+        list.add(new Coronavirus(tempData, "Malaysia", 17));
+        list.add(new Coronavirus(tempData, "Australia", 15));
+        list.add(new Coronavirus(tempData, "Germany", 14));
+        list.add(new Coronavirus(tempData, "Vietnam ", 14));
+        list.add(new Coronavirus(tempData, "USA", 12));
+        list.add(new Coronavirus(tempData, "United Arab Emirates", 7));
+        list.add(new Coronavirus(tempData, "France", 11));
+        list.add(new Coronavirus(tempData, "Canada", 5));
+        list.add(new Coronavirus(tempData, "Philippines", 3));
+        list.add(new Coronavirus(tempData, "United Kingdom", 3));
+        list.add(new Coronavirus(tempData, "Italy", 3));
+        list.add(new Coronavirus(tempData, "Russian Federation", 2));
+        list.add(new Coronavirus(tempData, "India", 2));
+        list.add(new Coronavirus(tempData, "Nepal", 1));
+        list.add(new Coronavirus(tempData, "Cambodia", 1));
+        list.add(new Coronavirus(tempData, "Sri Lanka", 1));
+        list.add(new Coronavirus(tempData, "Finland", 1));
+        list.add(new Coronavirus(tempData, "Spain", 1));
+        list.add(new Coronavirus(tempData, "Sweden", 1));
+        list.add(new Coronavirus(tempData, "Belgium", 1));
 
         return list;
     }
