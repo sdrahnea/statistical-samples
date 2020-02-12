@@ -1,8 +1,10 @@
 # statistical-samples application
 
-This is template of the application which use the following frameworks: javasql, spring framework, spring boot, spring jpa, hibernate, primefaces and MySQL as database. 
+This is an application which provide charts based on information from sources. The goal is to provide charts.
+We use the following frameworks: java, sql, spring framework, spring boot, spring jpa, hibernate, primefaces and MySQL as database. 
 
 ## Summary
+* Sources
 * Getting Started (Prerequisites, Installing)
 * Running the tests
 * Deployment
@@ -14,6 +16,18 @@ This is template of the application which use the following frameworks: javasql,
 * License
 * Donation
 
+
+## Sources, data and charts
+All information is added or is created from open sources from Internet. The charts are created based on information.
+
+### Novel Coronavirus (2019-nCoV) dynamic charts
+ * https://youtu.be/JUt5QQiVEVk
+ * https://youtu.be/STkwBkQbaqg
+ * https://youtu.be/-PogMHu6xOw
+ * https://youtu.be/zCJgr8h7bbM
+ * https://youtu.be/Mni1TtJYjRE
+ * https://youtu.be/KJYBLNqgufg
+### Corruption Perceptions Index (in progress)
 
 ## Getting Started
 
