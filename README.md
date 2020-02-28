@@ -21,6 +21,7 @@ We use the following frameworks: java, sql, spring framework, spring boot, sprin
 All information is added or is created from open sources from Internet. The charts are created based on information.
 
 ### Novel Coronavirus (2019-nCoV) dynamic charts
+ * https://youtu.be/By7QJZtnnOw 
  * https://youtu.be/JUt5QQiVEVk
  * https://youtu.be/STkwBkQbaqg
  * https://youtu.be/-PogMHu6xOw
