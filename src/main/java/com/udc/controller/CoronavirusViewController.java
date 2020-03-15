@@ -1273,6 +1273,11 @@ public class CoronavirusViewController {
         list.addAll(getDataMarch07());
         list.addAll(getDataMarch08());
         list.addAll(getDataMarch09());
+        list.addAll(getDataMarch10());
+        list.addAll(getDataMarch11());
+        list.addAll(getDataMarch12());
+        list.addAll(getDataMarch13());
+        list.addAll(getDataMarch14());
 
         return list;
     }
@@ -1281,6 +1286,736 @@ public class CoronavirusViewController {
         return list.stream()
                 .sorted(Comparator.comparingLong(Coronavirus::getCases))
                 .collect(Collectors.toList());
+    }
+
+    private List<Coronavirus> getDataMarch14() {
+        String tempData = "14 March 2020";
+        List<Coronavirus> list = new LinkedList<>();
+
+//        Western Pacific Region
+        list.add(new Coronavirus(tempData, "China", 81021));
+        list.add(new Coronavirus(tempData, "Republic of Korea", 8086));
+        list.add(new Coronavirus(tempData, "Japan", 716));
+        list.add(new Coronavirus(tempData, "Singapore", 200));
+        list.add(new Coronavirus(tempData, "Australia", 197));
+        list.add(new Coronavirus(tempData, "Malaysia", 197));
+        list.add(new Coronavirus(tempData, "Philippines", 64));
+        list.add(new Coronavirus(tempData, "Vietnam ", 48));
+        list.add(new Coronavirus(tempData, "Brunei Darussalam", 25));
+        list.add(new Coronavirus(tempData, "Cambodia", 7));
+        list.add(new Coronavirus(tempData, "New Zealand", 6));
+        list.add(new Coronavirus(tempData, "Mongolia", 1));
+
+//        Territories*
+        list.add(new Coronavirus(tempData, "French Polynesia", 1));
+
+//        European Region
+        list.add(new Coronavirus(tempData, "Italy", 17660));
+        list.add(new Coronavirus(tempData, "Spain", 4231));
+        list.add(new Coronavirus(tempData, "France", 3640));
+        list.add(new Coronavirus(tempData, "Germany", 3062));
+        list.add(new Coronavirus(tempData, "Switzerland", 1125));
+        list.add(new Coronavirus(tempData, "Netherlands", 804));
+        list.add(new Coronavirus(tempData, "United Kingdom", 802));
+        list.add(new Coronavirus(tempData, "Denmark", 801));
+        list.add(new Coronavirus(tempData, "Sweden", 775));
+        list.add(new Coronavirus(tempData, "Norway", 750));
+        list.add(new Coronavirus(tempData, "Belgium", 599));
+        list.add(new Coronavirus(tempData, "Austria", 504));
+        list.add(new Coronavirus(tempData, "Czechia", 150));
+        list.add(new Coronavirus(tempData, "Slovenia", 141));
+        list.add(new Coronavirus(tempData, "Portugal", 112));
+        list.add(new Coronavirus(tempData, "Finland", 109));
+        list.add(new Coronavirus(tempData, "Israel", 100));
+        list.add(new Coronavirus(tempData, "Greece", 98));
+        list.add(new Coronavirus(tempData, "Ireland", 90));
+        list.add(new Coronavirus(tempData, "Estonia", 79));
+        list.add(new Coronavirus(tempData, "San Marino", 66));
+        list.add(new Coronavirus(tempData, "Romania", 64));
+        list.add(new Coronavirus(tempData, "Poland", 64));
+        list.add(new Coronavirus(tempData, "Iceland", 61));
+        list.add(new Coronavirus(tempData, "Luxembourg", 38));
+        list.add(new Coronavirus(tempData, "Russia Federation", 34));
+        list.add(new Coronavirus(tempData, "Albania", 33));
+        list.add(new Coronavirus(tempData, "Serbia", 31));
+        list.add(new Coronavirus(tempData, "Slovakia", 30));
+        list.add(new Coronavirus(tempData, "Croatia", 27));
+        list.add(new Coronavirus(tempData, "Georgia", 25));
+        list.add(new Coronavirus(tempData, "Belarus", 21));
+        list.add(new Coronavirus(tempData, "Hungary", 19));
+        list.add(new Coronavirus(tempData, "Latvia", 16));
+        list.add(new Coronavirus(tempData, "Cyprus", 14));
+        list.add(new Coronavirus(tempData, "Malta", 12));
+        list.add(new Coronavirus(tempData, "Azerbaijan", 11));
+        list.add(new Coronavirus(tempData, "Bosnia and Herzegovina", 11));
+        list.add(new Coronavirus(tempData, "North Macedonia", 9));
+        list.add(new Coronavirus(tempData, "Armenia", 8));
+        list.add(new Coronavirus(tempData, "Republic of Moldova", 8));
+        list.add(new Coronavirus(tempData, "Bulgaria", 7));
+        list.add(new Coronavirus(tempData, "Lithuania", 6));
+        list.add(new Coronavirus(tempData, "Turkey", 5));
+        list.add(new Coronavirus(tempData, "Liechtenstein", 4));
+        list.add(new Coronavirus(tempData, "Ukraine", 3));
+        list.add(new Coronavirus(tempData, "Andorra", 2));
+        list.add(new Coronavirus(tempData, "Monaco", 2));
+        list.add(new Coronavirus(tempData, "Holy See", 1));
+
+//        Territories*
+        list.add(new Coronavirus(tempData, "Faroe Islands", 3));
+        list.add(new Coronavirus(tempData, "Gibraltar", 1));
+        list.add(new Coronavirus(tempData, "Guernsey", 1));
+        list.add(new Coronavirus(tempData, "Jersey", 2));
+
+//        South-East Asia Region
+        list.add(new Coronavirus(tempData, "India", 82));
+        list.add(new Coronavirus(tempData, "Thailand", 75));
+        list.add(new Coronavirus(tempData, "Indonesia", 69));
+        list.add(new Coronavirus(tempData, "Maldives", 9));
+        list.add(new Coronavirus(tempData, "Sri Lanka", 6));
+        list.add(new Coronavirus(tempData, "Bangladesh", 3));
+        list.add(new Coronavirus(tempData, "Bhutan", 1));
+        list.add(new Coronavirus(tempData, "Nepal", 1));
+
+//        Eastern Mediterranean Region
+        list.add(new Coronavirus(tempData, "Iran", 11364));
+        list.add(new Coronavirus(tempData, "Qatar", 262));
+        list.add(new Coronavirus(tempData, "Bahrain", 210));
+        list.add(new Coronavirus(tempData, "Kuwait", 100));
+        list.add(new Coronavirus(tempData, "Egypt", 93));
+        list.add(new Coronavirus(tempData, "Iraq", 93));
+        list.add(new Coronavirus(tempData, "United Arab Emirates", 85));
+        list.add(new Coronavirus(tempData, "Lebanon", 77));
+        list.add(new Coronavirus(tempData, "Saudi Arabia", 62));
+        list.add(new Coronavirus(tempData, "Pakistan", 21));
+        list.add(new Coronavirus(tempData, "Oman", 19));
+        list.add(new Coronavirus(tempData, "Tunisia", 16));
+        list.add(new Coronavirus(tempData, "Afghanistan", 7));
+        list.add(new Coronavirus(tempData, "Morocco", 7));
+        list.add(new Coronavirus(tempData, "Jordan", 1));
+        list.add(new Coronavirus(tempData, "Sudan", 1));
+        list.add(new Coronavirus(tempData, "Palestina", 35));
+
+//        Region of the Americas
+        list.add(new Coronavirus(tempData, "USA", 1678));
+        list.add(new Coronavirus(tempData, "Canada", 176));
+        list.add(new Coronavirus(tempData, "Brazil", 98));
+        list.add(new Coronavirus(tempData, "Chile", 43));
+        list.add(new Coronavirus(tempData, "Argentina", 34));
+        list.add(new Coronavirus(tempData, "Peru", 28));
+        list.add(new Coronavirus(tempData, "Panama", 27));
+        list.add(new Coronavirus(tempData, "Mexico", 26));
+        list.add(new Coronavirus(tempData, "Costa Rica", 23));
+        list.add(new Coronavirus(tempData, "Ecuator", 23));
+        list.add(new Coronavirus(tempData, "Columbia", 16));
+        list.add(new Coronavirus(tempData, "Jamaica", 7));
+        list.add(new Coronavirus(tempData, "Guyana", 6));
+        list.add(new Coronavirus(tempData, "Paraguay", 6));
+        list.add(new Coronavirus(tempData, "Dominican Republic", 5));
+        list.add(new Coronavirus(tempData, "Cuba", 4));
+        list.add(new Coronavirus(tempData, "Bolivia", 3));
+        list.add(new Coronavirus(tempData, "Puerto Rica", 3));
+        list.add(new Coronavirus(tempData, "Honduras", 2));
+        list.add(new Coronavirus(tempData, "Venezuela", 2));
+        list.add(new Coronavirus(tempData, "Antigua and Barbuda", 1));
+        list.add(new Coronavirus(tempData, "Guadelupa", 1));
+        list.add(new Coronavirus(tempData, "Saint Vincent and the Grenadies", 1));
+        list.add(new Coronavirus(tempData, "Trinidad and Tobago", 1));
+
+//        Territories**
+        list.add(new Coronavirus(tempData, "French Guiana", 6));
+        list.add(new Coronavirus(tempData, "Martinique", 6));
+        list.add(new Coronavirus(tempData, "Saint Martin", 2));
+        list.add(new Coronavirus(tempData, "Saint Barthelemy", 1));
+        list.add(new Coronavirus(tempData, "Cayman Islands", 1));
+
+//        African Region
+        list.add(new Coronavirus(tempData, "Algeria", 26));
+        list.add(new Coronavirus(tempData, "South Africa", 17));
+        list.add(new Coronavirus(tempData, "Senegal", 10));
+        list.add(new Coronavirus(tempData, "Burkina Faso", 2));
+        list.add(new Coronavirus(tempData, "Cameroon", 2));
+        list.add(new Coronavirus(tempData, "Democratic Republic of Congo", 2));
+        list.add(new Coronavirus(tempData, "Nigeria", 2));
+        list.add(new Coronavirus(tempData, "Cote d'Ivoire", 1));
+        list.add(new Coronavirus(tempData, "Ethiapia", 1));
+        list.add(new Coronavirus(tempData, "Gabon", 1));
+        list.add(new Coronavirus(tempData, "Ghana", 1));
+        list.add(new Coronavirus(tempData, "Guinea", 1));
+        list.add(new Coronavirus(tempData, "Kenya", 1));
+        list.add(new Coronavirus(tempData, "Togo", 1));
+
+//        Territories **
+        list.add(new Coronavirus(tempData, "Reunion", 5));
+
+//        International conveyance
+        list.add(new Coronavirus(tempData, "International conveyance", 697));
+
+        return list;
+    }
+
+    private List<Coronavirus> getDataMarch13() {
+        String tempData = "13 March 2020";
+        List<Coronavirus> list = new LinkedList<>();
+
+//        Western Pacific Region
+        list.add(new Coronavirus(tempData, "China", 80991));
+        list.add(new Coronavirus(tempData, "Republic of Korea", 7979));
+        list.add(new Coronavirus(tempData, "Japan", 675));
+        list.add(new Coronavirus(tempData, "Singapore", 187));
+        list.add(new Coronavirus(tempData, "Australia", 140));
+        list.add(new Coronavirus(tempData, "Malaysia", 129));
+        list.add(new Coronavirus(tempData, "Philippines", 52));
+        list.add(new Coronavirus(tempData, "Vietnam ", 39));
+        list.add(new Coronavirus(tempData, "Brunei Darussalam", 12));
+        list.add(new Coronavirus(tempData, "New Zealand", 5));
+        list.add(new Coronavirus(tempData, "Cambodia", 5));
+        list.add(new Coronavirus(tempData, "Mongolia", 1));
+
+//        Territories*
+        list.add(new Coronavirus(tempData, "French Polynesia", 1));
+
+//        European Region
+        list.add(new Coronavirus(tempData, "Italy", 15113));
+        list.add(new Coronavirus(tempData, "Spain", 2965));
+        list.add(new Coronavirus(tempData, "France", 2860));
+        list.add(new Coronavirus(tempData, "Germany", 2369));
+        list.add(new Coronavirus(tempData, "Switzerland", 858));
+        list.add(new Coronavirus(tempData, "Denmark", 674));
+        list.add(new Coronavirus(tempData, "Sweden", 620));
+        list.add(new Coronavirus(tempData, "Netherlands", 614));
+        list.add(new Coronavirus(tempData, "United Kingdom", 594));
+        list.add(new Coronavirus(tempData, "Austria", 361));
+        list.add(new Coronavirus(tempData, "Belgium", 314));
+        list.add(new Coronavirus(tempData, "Norway", 489));
+        list.add(new Coronavirus(tempData, "Czechia", 116));
+        list.add(new Coronavirus(tempData, "Finland", 109));
+        list.add(new Coronavirus(tempData, "Greece", 98));
+        list.add(new Coronavirus(tempData, "Israel", 75));
+        list.add(new Coronavirus(tempData, "Ireland", 70));
+        list.add(new Coronavirus(tempData, "San Marino", 63));
+        list.add(new Coronavirus(tempData, "Iceland", 61));
+        list.add(new Coronavirus(tempData, "Slovenia", 57));
+        list.add(new Coronavirus(tempData, "Poland", 49));
+        list.add(new Coronavirus(tempData, "Romania", 48));
+        list.add(new Coronavirus(tempData, "Portugal", 41));
+        list.add(new Coronavirus(tempData, "Russia Federation", 34));
+        list.add(new Coronavirus(tempData, "Georgia", 25));
+        list.add(new Coronavirus(tempData, "Albania", 23));
+        list.add(new Coronavirus(tempData, "Slovakia", 21));
+        list.add(new Coronavirus(tempData, "Serbia", 19));
+        list.add(new Coronavirus(tempData, "Luxembourg", 17));
+        list.add(new Coronavirus(tempData, "Croatia", 16));
+        list.add(new Coronavirus(tempData, "Hungary", 16));
+        list.add(new Coronavirus(tempData, "Latvia", 16));
+        list.add(new Coronavirus(tempData, "Estonia", 13));
+        list.add(new Coronavirus(tempData, "Belarus", 12));
+        list.add(new Coronavirus(tempData, "Azerbaijan", 11));
+        list.add(new Coronavirus(tempData, "Bulgaria", 7));
+        list.add(new Coronavirus(tempData, "North Macedonia", 7));
+        list.add(new Coronavirus(tempData, "Cyprus", 6));
+        list.add(new Coronavirus(tempData, "Malta", 6));
+        list.add(new Coronavirus(tempData, "Bosnia and Herzegovina", 4));
+        list.add(new Coronavirus(tempData, "Liechtenstein", 4));
+        list.add(new Coronavirus(tempData, "Republic of Moldova", 4));
+        list.add(new Coronavirus(tempData, "Lithuania", 3));
+        list.add(new Coronavirus(tempData, "Ukraine", 3));
+        list.add(new Coronavirus(tempData, "Andorra", 1));
+        list.add(new Coronavirus(tempData, "Armenia", 1));
+        list.add(new Coronavirus(tempData, "Holy See", 1));
+        list.add(new Coronavirus(tempData, "Monaco", 1));
+        list.add(new Coronavirus(tempData, "Turkey", 1));
+
+//        Territories*
+        list.add(new Coronavirus(tempData, "Faroe Islands", 2));
+        list.add(new Coronavirus(tempData, "Gibraltar", 1));
+        list.add(new Coronavirus(tempData, "Guernsey", 1));
+        list.add(new Coronavirus(tempData, "Jersey", 2));
+
+//        South-East Asia Region
+        list.add(new Coronavirus(tempData, "Thailand", 75));
+        list.add(new Coronavirus(tempData, "India", 74));
+        list.add(new Coronavirus(tempData, "Indonesia", 34));
+        list.add(new Coronavirus(tempData, "Maldives", 8));
+        list.add(new Coronavirus(tempData, "Sri Lanka", 3));
+        list.add(new Coronavirus(tempData, "Bangladesh", 3));
+        list.add(new Coronavirus(tempData, "Bhutan", 1));
+        list.add(new Coronavirus(tempData, "Nepal", 1));
+
+//        Territories**
+        list.add(new Coronavirus(tempData, "Nepal", 3));
+
+//        Eastern Mediterranean Region
+        list.add(new Coronavirus(tempData, "Iran", 10075));
+        list.add(new Coronavirus(tempData, "Qatar", 262));
+        list.add(new Coronavirus(tempData, "Bahrain", 195));
+        list.add(new Coronavirus(tempData, "United Arab Emirates", 85));
+        list.add(new Coronavirus(tempData, "Kuwait", 80));
+        list.add(new Coronavirus(tempData, "Iraq", 70));
+        list.add(new Coronavirus(tempData, "Egypt", 67));
+        list.add(new Coronavirus(tempData, "Lebanon", 66));
+        list.add(new Coronavirus(tempData, "Saudi Arabia", 21));
+        list.add(new Coronavirus(tempData, "Pakistan", 2));
+        list.add(new Coronavirus(tempData, "Oman", 18));
+        list.add(new Coronavirus(tempData, "Afghanistan", 7));
+        list.add(new Coronavirus(tempData, "Tunisia", 7));
+        list.add(new Coronavirus(tempData, "Morocco", 6));
+        list.add(new Coronavirus(tempData, "Jordan", 1));
+        list.add(new Coronavirus(tempData, "Palestina", 31));
+
+//        Region of the Americas
+        list.add(new Coronavirus(tempData, "USA", 1264));
+        list.add(new Coronavirus(tempData, "Canada", 138));
+        list.add(new Coronavirus(tempData, "Brazil", 77));
+        list.add(new Coronavirus(tempData, "Chile", 33));
+        list.add(new Coronavirus(tempData, "Argentina", 31));
+        list.add(new Coronavirus(tempData, "Costa Rica", 22));
+        list.add(new Coronavirus(tempData, "Peru", 22));
+        list.add(new Coronavirus(tempData, "Ecuator", 17));
+        list.add(new Coronavirus(tempData, "Panama", 14));
+        list.add(new Coronavirus(tempData, "Mexico", 12));
+        list.add(new Coronavirus(tempData, "Columbia", 9));
+        list.add(new Coronavirus(tempData, "Dominican Republic", 5));
+        list.add(new Coronavirus(tempData, "Paraguay", 5));
+        list.add(new Coronavirus(tempData, "Bolivia", 3));
+        list.add(new Coronavirus(tempData, "Cuba", 3));
+        list.add(new Coronavirus(tempData, "Honduras", 2));
+        list.add(new Coronavirus(tempData, "Guyana", 1));
+        list.add(new Coronavirus(tempData, "Jamaica", 1));
+        list.add(new Coronavirus(tempData, "Saint Vincent and the Grenadies", 1));
+
+//        Territories**
+        list.add(new Coronavirus(tempData, "French Guiana", 6));
+        list.add(new Coronavirus(tempData, "Martinique", 4));
+        list.add(new Coronavirus(tempData, "Saint Martin", 2));
+        list.add(new Coronavirus(tempData, "Saint Barthelemy", 1));
+
+//        African Region
+        list.add(new Coronavirus(tempData, "Algeria", 25));
+        list.add(new Coronavirus(tempData, "South Africa", 17));
+        list.add(new Coronavirus(tempData, "Senegal", 10));
+        list.add(new Coronavirus(tempData, "Burkina Faso", 2));
+        list.add(new Coronavirus(tempData, "Cameroon", 2));
+        list.add(new Coronavirus(tempData, "Nigeria", 2));
+        list.add(new Coronavirus(tempData, "Cote d'Ivoire", 1));
+        list.add(new Coronavirus(tempData, "Democratic Republic of Congo", 1));
+        list.add(new Coronavirus(tempData, "Togo", 1));
+
+//        International conveyance
+        list.add(new Coronavirus(tempData, "International conveyance", 696));
+
+        return list;
+    }
+
+    private List<Coronavirus> getDataMarch12() {
+        String tempData = "12 March 2020";
+        List<Coronavirus> list = new LinkedList<>();
+
+//        Western Pacific Region
+        list.add(new Coronavirus(tempData, "China", 80981));
+        list.add(new Coronavirus(tempData, "Republic of Korea", 7869));
+        list.add(new Coronavirus(tempData, "Japan", 620));
+        list.add(new Coronavirus(tempData, "Singapore", 178));
+        list.add(new Coronavirus(tempData, "Malaysia", 129));
+        list.add(new Coronavirus(tempData, "Australia", 122));
+        list.add(new Coronavirus(tempData, "Philippines", 52));
+        list.add(new Coronavirus(tempData, "Vietnam ", 39));
+        list.add(new Coronavirus(tempData, "Brunei Darussalam", 12));
+        list.add(new Coronavirus(tempData, "New Zealand", 5));
+        list.add(new Coronavirus(tempData, "Cambodia", 3));
+        list.add(new Coronavirus(tempData, "Mongolia", 1));
+        list.add(new Coronavirus(tempData, "French Polynesia", 1));
+
+//        European Region
+        list.add(new Coronavirus(tempData, "Italy", 12462));
+        list.add(new Coronavirus(tempData, "France", 2269));
+        list.add(new Coronavirus(tempData, "Spain", 2140));
+        list.add(new Coronavirus(tempData, "Germany", 1567));
+        list.add(new Coronavirus(tempData, "Switzerland", 645));
+        list.add(new Coronavirus(tempData, "Denmark", 615));
+        list.add(new Coronavirus(tempData, "Netherlands", 503));
+        list.add(new Coronavirus(tempData, "Sweden", 461));
+        list.add(new Coronavirus(tempData, "United Kingdom", 460));
+        list.add(new Coronavirus(tempData, "Belgium", 314));
+        list.add(new Coronavirus(tempData, "Austria", 302));
+        list.add(new Coronavirus(tempData, "Norway", 489));
+        list.add(new Coronavirus(tempData, "Greece", 98));
+        list.add(new Coronavirus(tempData, "Czechia", 94));
+        list.add(new Coronavirus(tempData, "Israel", 75));
+        list.add(new Coronavirus(tempData, "San Marino", 63));
+        list.add(new Coronavirus(tempData, "Iceland", 61));
+        list.add(new Coronavirus(tempData, "Slovenia", 57));
+        list.add(new Coronavirus(tempData, "Romania", 48));
+        list.add(new Coronavirus(tempData, "Poland", 44));
+        list.add(new Coronavirus(tempData, "Ireland", 43));
+        list.add(new Coronavirus(tempData, "Portugal", 41));
+        list.add(new Coronavirus(tempData, "Finland", 40));
+        list.add(new Coronavirus(tempData, "Georgia", 23));
+        list.add(new Coronavirus(tempData, "Russia Federation", 20));
+        list.add(new Coronavirus(tempData, "Serbia", 19));
+        list.add(new Coronavirus(tempData, "Latvia", 16));
+        list.add(new Coronavirus(tempData, "Croatia", 16));
+        list.add(new Coronavirus(tempData, "Estonia", 13));
+        list.add(new Coronavirus(tempData, "Hungary", 13));
+        list.add(new Coronavirus(tempData, "Belarus", 12));
+        list.add(new Coronavirus(tempData, "Albania", 10));
+        list.add(new Coronavirus(tempData, "Slovakia", 10));
+        list.add(new Coronavirus(tempData, "Azerbaijan", 9));
+        list.add(new Coronavirus(tempData, "Bulgaria", 7));
+        list.add(new Coronavirus(tempData, "North Macedonia", 7));
+        list.add(new Coronavirus(tempData, "Cyprus", 6));
+        list.add(new Coronavirus(tempData, "Malta", 6));
+        list.add(new Coronavirus(tempData, "Luxembourg", 5));
+        list.add(new Coronavirus(tempData, "Bosnia and Herzegovina", 4));
+        list.add(new Coronavirus(tempData, "Republic of Moldova", 4));
+        list.add(new Coronavirus(tempData, "Lithuania", 3));
+        list.add(new Coronavirus(tempData, "Andorra", 1));
+        list.add(new Coronavirus(tempData, "Armenia", 1));
+        list.add(new Coronavirus(tempData, "Holy See", 1));
+        list.add(new Coronavirus(tempData, "Liechtenstein", 1));
+        list.add(new Coronavirus(tempData, "Monaco", 1));
+        list.add(new Coronavirus(tempData, "Turkey", 1));
+        list.add(new Coronavirus(tempData, "Ukraine", 1));
+
+//        Territories*
+        list.add(new Coronavirus(tempData, "Faroe Islands", 2));
+        list.add(new Coronavirus(tempData, "Gibraltar", 1));
+        list.add(new Coronavirus(tempData, "Guernsey", 1));
+
+//        South-East Asia Region
+        list.add(new Coronavirus(tempData, "India", 73));
+        list.add(new Coronavirus(tempData, "Thailand", 70));
+        list.add(new Coronavirus(tempData, "Indonesia", 34));
+        list.add(new Coronavirus(tempData, "Maldives", 8));
+        list.add(new Coronavirus(tempData, "Bangladesh", 3));
+        list.add(new Coronavirus(tempData, "Sri Lanka", 2));
+        list.add(new Coronavirus(tempData, "Bhutan", 1));
+        list.add(new Coronavirus(tempData, "Nepal", 1));
+
+//        Eastern Mediterranean Region
+        list.add(new Coronavirus(tempData, "Iran", 9000));
+        list.add(new Coronavirus(tempData, "Qatar", 262));
+        list.add(new Coronavirus(tempData, "Bahrain", 189));
+        list.add(new Coronavirus(tempData, "Kuwait", 80));
+        list.add(new Coronavirus(tempData, "United Arab Emirates", 74));
+        list.add(new Coronavirus(tempData, "Iraq", 70));
+        list.add(new Coronavirus(tempData, "Egypt", 67));
+        list.add(new Coronavirus(tempData, "Lebanon", 66));
+        list.add(new Coronavirus(tempData, "Saudi Arabia", 21));
+        list.add(new Coronavirus(tempData, "Pakistan", 19));
+        list.add(new Coronavirus(tempData, "Oman", 18));
+        list.add(new Coronavirus(tempData, "Afghanistan", 7));
+        list.add(new Coronavirus(tempData, "Tunisia", 7));
+        list.add(new Coronavirus(tempData, "Morocco", 5));
+        list.add(new Coronavirus(tempData, "Jordan", 1));
+        list.add(new Coronavirus(tempData, "Palestina", 30));
+
+//        Region of the Americas
+        list.add(new Coronavirus(tempData, "USA", 987));
+        list.add(new Coronavirus(tempData, "Canada", 93));
+        list.add(new Coronavirus(tempData, "Brazil", 52));
+        list.add(new Coronavirus(tempData, "Chile", 23));
+        list.add(new Coronavirus(tempData, "Argentina", 19));
+        list.add(new Coronavirus(tempData, "Ecuator", 17));
+        list.add(new Coronavirus(tempData, "Peru", 17));
+        list.add(new Coronavirus(tempData, "Costa Rica", 13));
+        list.add(new Coronavirus(tempData, "Mexico", 11));
+        list.add(new Coronavirus(tempData, "Panama", 10));
+        list.add(new Coronavirus(tempData, "Columbia", 9));
+        list.add(new Coronavirus(tempData, "Dominican Republic", 5));
+        list.add(new Coronavirus(tempData, "Paraguay", 5));
+        list.add(new Coronavirus(tempData, "Bolivia", 2));
+        list.add(new Coronavirus(tempData, "Honduras", 2));
+        list.add(new Coronavirus(tempData, "Jamaica", 1));
+
+//        Territories**
+        list.add(new Coronavirus(tempData, "French Guiana", 5));
+        list.add(new Coronavirus(tempData, "Martinique", 3));
+        list.add(new Coronavirus(tempData, "Saint Martin", 2));
+        list.add(new Coronavirus(tempData, "Saint Barthelemy", 1));
+
+//        African Region
+        list.add(new Coronavirus(tempData, "Algeria", 25));
+        list.add(new Coronavirus(tempData, "South Africa", 13));
+        list.add(new Coronavirus(tempData, "Senegal", 4));
+        list.add(new Coronavirus(tempData, "Burkina Faso", 2));
+        list.add(new Coronavirus(tempData, "Cameroon", 2));
+        list.add(new Coronavirus(tempData, "Nigeria", 2));
+        list.add(new Coronavirus(tempData, "Cote d'Ivoire", 1));
+        list.add(new Coronavirus(tempData, "Democratic Republic of Congo", 1));
+        list.add(new Coronavirus(tempData, "Togo", 1));
+
+//        International conveyance
+        list.add(new Coronavirus(tempData, "International conveyance", 696));
+
+        return list;
+    }
+
+    private List<Coronavirus> getDataMarch11() {
+        String tempData = "11 March 2020";
+        List<Coronavirus> list = new LinkedList<>();
+
+//        Western Pacific Region
+        list.add(new Coronavirus(tempData, "China", 80955));
+        list.add(new Coronavirus(tempData, "Republic of Korea", 7755));
+        list.add(new Coronavirus(tempData, "Japan", 568));
+        list.add(new Coronavirus(tempData, "Singapore", 166));
+        list.add(new Coronavirus(tempData, "Malaysia", 129));
+        list.add(new Coronavirus(tempData, "Australia", 112));
+        list.add(new Coronavirus(tempData, "Philippines", 49));
+        list.add(new Coronavirus(tempData, "Vietnam ", 35));
+        list.add(new Coronavirus(tempData, "New Zealand", 5));
+        list.add(new Coronavirus(tempData, "Cambodia", 3));
+        list.add(new Coronavirus(tempData, "Brunei Darussalam", 1));
+        list.add(new Coronavirus(tempData, "Mongolia", 1));
+
+//        European Region
+        list.add(new Coronavirus(tempData, "Italy", 10149));
+        list.add(new Coronavirus(tempData, "France", 1774));
+        list.add(new Coronavirus(tempData, "Spain", 1639));
+        list.add(new Coronavirus(tempData, "Germany", 1296));
+        list.add(new Coronavirus(tempData, "Switzerland", 491));
+        list.add(new Coronavirus(tempData, "Netherlands", 382));
+        list.add(new Coronavirus(tempData, "United Kingdom", 373));
+        list.add(new Coronavirus(tempData, "Sweden", 326));
+        list.add(new Coronavirus(tempData, "Norway", 277));
+        list.add(new Coronavirus(tempData, "Belgium", 267));
+        list.add(new Coronavirus(tempData, "Denmark", 262));
+        list.add(new Coronavirus(tempData, "Austria", 182));
+        list.add(new Coronavirus(tempData, "Greece", 89));
+        list.add(new Coronavirus(tempData, "Israel", 75));
+        list.add(new Coronavirus(tempData, "San Marino", 63));
+        list.add(new Coronavirus(tempData, "Czechia", 61));
+        list.add(new Coronavirus(tempData, "Iceland", 61));
+        list.add(new Coronavirus(tempData, "Portugal", 41));
+        list.add(new Coronavirus(tempData, "Finland", 40));
+        list.add(new Coronavirus(tempData, "Ireland", 34));
+        list.add(new Coronavirus(tempData, "Slovenia", 31));
+        list.add(new Coronavirus(tempData, "Romania", 25));
+        list.add(new Coronavirus(tempData, "Georgia", 23));
+        list.add(new Coronavirus(tempData, "Poland", 22));
+        list.add(new Coronavirus(tempData, "Croatia", 16));
+        list.add(new Coronavirus(tempData, "Estonia", 13));
+        list.add(new Coronavirus(tempData, "Hungary", 13));
+        list.add(new Coronavirus(tempData, "Serbia", 12));
+        list.add(new Coronavirus(tempData, "Albania", 10));
+        list.add(new Coronavirus(tempData, "Azerbaijan", 9));
+        list.add(new Coronavirus(tempData, "Belarus", 9));
+        list.add(new Coronavirus(tempData, "Latvia", 8));
+        list.add(new Coronavirus(tempData, "North Macedonia", 7));
+        list.add(new Coronavirus(tempData, "Russia Federation", 7));
+        list.add(new Coronavirus(tempData, "Slovakia", 7));
+        list.add(new Coronavirus(tempData, "Bulgaria", 6));
+        list.add(new Coronavirus(tempData, "Luxembourg", 5));
+        list.add(new Coronavirus(tempData, "Bosnia and Herzegovina", 4));
+        list.add(new Coronavirus(tempData, "Malta", 4));
+        list.add(new Coronavirus(tempData, "Cyprus", 1));
+        list.add(new Coronavirus(tempData, "Andorra", 1));
+        list.add(new Coronavirus(tempData, "Armenia", 1));
+        list.add(new Coronavirus(tempData, "Holy See", 1));
+        list.add(new Coronavirus(tempData, "Liechtenstein", 1));
+        list.add(new Coronavirus(tempData, "Lithuania", 1));
+        list.add(new Coronavirus(tempData, "Monaco", 1));
+        list.add(new Coronavirus(tempData, "Republic of Moldova", 1));
+        list.add(new Coronavirus(tempData, "Ukraine", 1));
+        list.add(new Coronavirus(tempData, "Faroe Islands", 2));
+        list.add(new Coronavirus(tempData, "Gibraltar", 1));
+        list.add(new Coronavirus(tempData, "Guernsey", 1));
+
+//        South-East Asia Region
+        list.add(new Coronavirus(tempData, "India", 60));
+        list.add(new Coronavirus(tempData, "Thailand", 59));
+        list.add(new Coronavirus(tempData, "Indonesia", 27));
+        list.add(new Coronavirus(tempData, "Maldives", 8));
+        list.add(new Coronavirus(tempData, "Bangladesh", 3));
+        list.add(new Coronavirus(tempData, "Bhutan", 1));
+        list.add(new Coronavirus(tempData, "Nepal", 1));
+        list.add(new Coronavirus(tempData, "Sri Lanka", 1));
+
+//        Eastern Mediterranean Region
+        list.add(new Coronavirus(tempData, "Iran", 8042));
+        list.add(new Coronavirus(tempData, "Bahrain", 110));
+        list.add(new Coronavirus(tempData, "United Arab Emirates", 74));
+        list.add(new Coronavirus(tempData, "Kuwait", 69));
+        list.add(new Coronavirus(tempData, "Iraq", 61));
+        list.add(new Coronavirus(tempData, "Egypt", 59));
+        list.add(new Coronavirus(tempData, "Lebanon", 41));
+        list.add(new Coronavirus(tempData, "Qatar", 24));
+        list.add(new Coronavirus(tempData, "Saudi Arabia", 20));
+        list.add(new Coronavirus(tempData, "Oman", 18));
+        list.add(new Coronavirus(tempData, "Pakistan", 16));
+        list.add(new Coronavirus(tempData, "Tunisia", 6));
+        list.add(new Coronavirus(tempData, "Afghanistan", 4));
+        list.add(new Coronavirus(tempData, "Morocco", 3));
+        list.add(new Coronavirus(tempData, "Jordan", 1));
+        list.add(new Coronavirus(tempData, "Palestina", 30));
+
+//        Region of the Americas
+        list.add(new Coronavirus(tempData, "USA", 696));
+        list.add(new Coronavirus(tempData, "Canada", 93));
+        list.add(new Coronavirus(tempData, "Brazil", 34));
+        list.add(new Coronavirus(tempData, "Argentina", 17));
+        list.add(new Coronavirus(tempData, "Chile", 17));
+        list.add(new Coronavirus(tempData, "Ecuator", 15));
+        list.add(new Coronavirus(tempData, "Costa Rica", 13));
+        list.add(new Coronavirus(tempData, "Peru", 11));
+        list.add(new Coronavirus(tempData, "Panama", 8));
+        list.add(new Coronavirus(tempData, "Paraguay", 5));
+        list.add(new Coronavirus(tempData, "Mexico", 7));
+        list.add(new Coronavirus(tempData, "Dominican Republic", 5));
+        list.add(new Coronavirus(tempData, "Columbia", 3));
+        list.add(new Coronavirus(tempData, "Bolivia", 2));
+        list.add(new Coronavirus(tempData, "Jamaica", 1));
+        list.add(new Coronavirus(tempData, "French Guiana", 5));
+        list.add(new Coronavirus(tempData, "Martinique", 3));
+        list.add(new Coronavirus(tempData, "Saint Martin", 2));
+        list.add(new Coronavirus(tempData, "Saint Barthelemy", 1));
+
+//        African Region
+        list.add(new Coronavirus(tempData, "Algeria", 20));
+        list.add(new Coronavirus(tempData, "South Africa", 7));
+        list.add(new Coronavirus(tempData, "Senegal", 4));
+        list.add(new Coronavirus(tempData, "Burkina Faso", 2));
+        list.add(new Coronavirus(tempData, "Cameroon", 2));
+        list.add(new Coronavirus(tempData, "Nigeria", 2));
+        list.add(new Coronavirus(tempData, "DR Congo", 1));
+        list.add(new Coronavirus(tempData, "Togo", 1));
+
+//        International conveyance
+        list.add(new Coronavirus(tempData, "International conveyance", 696));
+
+        return list;
+    }
+
+    private List<Coronavirus> getDataMarch10() {
+        String tempData = "10 March 2020";
+        List<Coronavirus> list = new LinkedList<>();
+
+//        Western Pacific Region
+        list.add(new Coronavirus(tempData, "China", 80924));
+        list.add(new Coronavirus(tempData, "Republic of Korea", 7513));
+        list.add(new Coronavirus(tempData, "Japan", 514));
+        list.add(new Coronavirus(tempData, "Singapore", 160));
+        list.add(new Coronavirus(tempData, "Malaysia", 117));
+        list.add(new Coronavirus(tempData, "Australia", 92));
+        list.add(new Coronavirus(tempData, "Philippines", 33));
+        list.add(new Coronavirus(tempData, "Vietnam ", 31));
+        list.add(new Coronavirus(tempData, "New Zealand", 5));
+        list.add(new Coronavirus(tempData, "Cambodia", 2));
+        list.add(new Coronavirus(tempData, "Brunei Darussalam", 1));
+        list.add(new Coronavirus(tempData, "Mongolia", 1));
+
+//        European Region
+        list.add(new Coronavirus(tempData, "Italy", 9172));
+        list.add(new Coronavirus(tempData, "France", 1402));
+        list.add(new Coronavirus(tempData, "Germany", 1139));
+        list.add(new Coronavirus(tempData, "Spain", 1024));
+        list.add(new Coronavirus(tempData, "Switzerland", 332));
+        list.add(new Coronavirus(tempData, "United Kingdom", 323));
+        list.add(new Coronavirus(tempData, "Netherlands", 321));
+        list.add(new Coronavirus(tempData, "Sweden", 248));
+        list.add(new Coronavirus(tempData, "Belgium", 239));
+        list.add(new Coronavirus(tempData, "Norway", 192));
+        list.add(new Coronavirus(tempData, "Austria", 131));
+        list.add(new Coronavirus(tempData, "Denmark", 90));
+        list.add(new Coronavirus(tempData, "Greece", 73));
+        list.add(new Coronavirus(tempData, "Iceland", 55));
+        list.add(new Coronavirus(tempData, "San Marino", 49));
+        list.add(new Coronavirus(tempData, "Finland", 40));
+        list.add(new Coronavirus(tempData, "Israel", 39));
+        list.add(new Coronavirus(tempData, "Czechia", 38));
+        list.add(new Coronavirus(tempData, "Portugal", 30));
+        list.add(new Coronavirus(tempData, "Ireland", 24));
+        list.add(new Coronavirus(tempData, "Slovenia", 23));
+        list.add(new Coronavirus(tempData, "Poland", 16));
+        list.add(new Coronavirus(tempData, "Georgia", 15));
+        list.add(new Coronavirus(tempData, "Romania", 15));
+        list.add(new Coronavirus(tempData, "Croatia", 12));
+        list.add(new Coronavirus(tempData, "Estonia", 10));
+        list.add(new Coronavirus(tempData, "Azerbaijan", 9));
+        list.add(new Coronavirus(tempData, "Hungary", 9));
+        list.add(new Coronavirus(tempData, "North Macedonia", 7));
+        list.add(new Coronavirus(tempData, "Russia Federation", 7));
+        list.add(new Coronavirus(tempData, "Slovakia", 7));
+        list.add(new Coronavirus(tempData, "Belarus", 6));
+        list.add(new Coronavirus(tempData, "Latvia", 6));
+        list.add(new Coronavirus(tempData, "Luxembourg", 5));
+        list.add(new Coronavirus(tempData, "Bulgaria", 4));
+        list.add(new Coronavirus(tempData, "Malta", 4));
+        list.add(new Coronavirus(tempData, "Albania", 2));
+        list.add(new Coronavirus(tempData, "Bosnia and Herzegovina", 2));
+        list.add(new Coronavirus(tempData, "Cyprus", 1));
+        list.add(new Coronavirus(tempData, "Andorra", 1));
+        list.add(new Coronavirus(tempData, "Armenia", 1));
+        list.add(new Coronavirus(tempData, "Holy See", 1));
+        list.add(new Coronavirus(tempData, "Liechtenstein", 1));
+        list.add(new Coronavirus(tempData, "Lithuania", 1));
+        list.add(new Coronavirus(tempData, "Monaco", 1));
+        list.add(new Coronavirus(tempData, "Republic of Moldova", 1));
+        list.add(new Coronavirus(tempData, "Serbia", 1));
+        list.add(new Coronavirus(tempData, "Ukraine", 1));
+        list.add(new Coronavirus(tempData, "Faroe Islands", 2));
+        list.add(new Coronavirus(tempData, "Gibraltar", 1));
+        list.add(new Coronavirus(tempData, "Guernsey", 1));
+
+//        South-East Asia Region
+        list.add(new Coronavirus(tempData, "Thailand", 53));
+        list.add(new Coronavirus(tempData, "India", 44));
+        list.add(new Coronavirus(tempData, "Indonesia", 19));
+        list.add(new Coronavirus(tempData, "Maldives", 4));
+        list.add(new Coronavirus(tempData, "Bangladesh", 3));
+        list.add(new Coronavirus(tempData, "Bhutan", 1));
+        list.add(new Coronavirus(tempData, "Nepal", 1));
+        list.add(new Coronavirus(tempData, "Sri Lanka", 1));
+
+//        Eastern Mediterranean Region
+        list.add(new Coronavirus(tempData, "Iran", 7161));
+        list.add(new Coronavirus(tempData, "Bahrain", 109));
+        list.add(new Coronavirus(tempData, "Kuwait", 65));
+        list.add(new Coronavirus(tempData, "Iraq", 61));
+        list.add(new Coronavirus(tempData, "Egypt", 59));
+        list.add(new Coronavirus(tempData, "United Arab Emirates", 59));
+        list.add(new Coronavirus(tempData, "Lebanon", 41));
+        list.add(new Coronavirus(tempData, "Oman", 18));
+        list.add(new Coronavirus(tempData, "Qatar", 18));
+        list.add(new Coronavirus(tempData, "Pakistan", 16));
+        list.add(new Coronavirus(tempData, "Saudi Arabia", 15));
+        list.add(new Coronavirus(tempData, "Afghanistan", 4));
+        list.add(new Coronavirus(tempData, "Morocco", 2));
+        list.add(new Coronavirus(tempData, "Tunisia", 2));
+        list.add(new Coronavirus(tempData, "Jordan", 1));
+        list.add(new Coronavirus(tempData, "Palestina", 26));
+
+//        Region of the Americas
+        list.add(new Coronavirus(tempData, "USA", 472));
+        list.add(new Coronavirus(tempData, "Canada", 77));
+        list.add(new Coronavirus(tempData, "Brazil", 25));
+        list.add(new Coronavirus(tempData, "Ecuator", 15));
+        list.add(new Coronavirus(tempData, "Chile", 13));
+        list.add(new Coronavirus(tempData, "Argentina", 12));
+        list.add(new Coronavirus(tempData, "Costa Rica", 9));
+        list.add(new Coronavirus(tempData, "Peru", 9));
+        list.add(new Coronavirus(tempData, "Mexico", 7));
+        list.add(new Coronavirus(tempData, "Dominican Republic", 5));
+        list.add(new Coronavirus(tempData, "Columbia", 3));
+        list.add(new Coronavirus(tempData, "Panama", 1));
+        list.add(new Coronavirus(tempData, "Paraguay", 1));
+        list.add(new Coronavirus(tempData, "French Guiana", 5));
+        list.add(new Coronavirus(tempData, "Martinique", 2));
+        list.add(new Coronavirus(tempData, "Saint Martin", 2));
+        list.add(new Coronavirus(tempData, "Saint Barthelemy", 1));
+
+//        African Region
+        list.add(new Coronavirus(tempData, "Algeria", 20));
+        list.add(new Coronavirus(tempData, "South Africa", 7));
+        list.add(new Coronavirus(tempData, "Senegal", 4));
+        list.add(new Coronavirus(tempData, "Cameroon", 2));
+        list.add(new Coronavirus(tempData, "Nigeria", 2));
+        list.add(new Coronavirus(tempData, "Togo", 1));
+
+//        International conveyance
+        list.add(new Coronavirus(tempData, "International conveyance", 696));
+
+        return list;
     }
 
     private List<Coronavirus> getDataMarch09() {
