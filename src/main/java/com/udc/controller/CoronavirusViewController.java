@@ -88,6 +88,9 @@ public class CoronavirusViewController {
         datetimes.add("9 March 2020");
         datetimes.add("10 March 2020");
         datetimes.add("11 March 2020");
+        datetimes.add("12 March 2020");
+        datetimes.add("13 March 2020");
+        datetimes.add("14 March 2020");
 
         List<Coronavirus> data = populateInfo();
 

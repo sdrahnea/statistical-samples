@@ -1,0 +1,23 @@
+[
+  {
+    "date": "20 January 2020",
+    "countries": [
+      {
+        "name": "China",
+        "causes": 278
+      },
+      {
+        "name": "Thailand",
+        "causes": 2
+      },
+      {
+        "name": "Republic of Korea",
+        "causes": 1
+      },
+      {
+        "name": "Japan",
+        "causes": 1
+      }
+    ]
+  }
+]

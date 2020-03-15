@@ -1,5 +1,7 @@
 package com.udc.model;
 
+import com.fasterxml.jackson.annotation.JsonProperty;
+
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.Table;
@@ -11,14 +13,21 @@ import javax.persistence.Table;
 @Table(name = "coronavirus")
 public class Coronavirus extends CoreEntity {
 
+  @JsonProperty("country")
   @Column(name = "country")
   private String country;
 
+  @JsonProperty("cases")
   @Column(name = "cases")
   private Long cases;
 
   @Column(name = "datetime")
   private String datetime;
+
+  public Coronavirus(String country, long cases){
+    this.country = country;
+    this.datetime = datetime;
+  }
 
   public Coronavirus(String datetime, String country, long cases){
     this.country = country;
