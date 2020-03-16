@@ -6,9 +6,7 @@ import com.udc.model.Covid19;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Component;
-
 import java.io.File;
-import java.io.IOException;
 import java.util.Arrays;
 import java.util.List;
 

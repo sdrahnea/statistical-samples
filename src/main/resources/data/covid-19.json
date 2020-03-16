@@ -3,9 +3,22 @@
     "date": "20 January 2020",
     "countries": [
       {
-        "name": "China",
-        "causes": 278
+        "name": "Thailand",
+        "causes": 2
       },
+      {
+        "name": "Republic of Korea",
+        "causes": 1
+      },
+      {
+        "name": "Japan",
+        "causes": 1
+      }
+    ]
+  },
+  {
+    "date": "21 January 2020",
+    "countries": [
       {
         "name": "Thailand",
         "causes": 2
@@ -18,6 +31,9459 @@
         "name": "Japan",
         "causes": 1
       }
+    ]
+  },
+  {
+    "date": "23 January 2020",
+    "countries": [
+      {
+        "name": "Thailand",
+        "causes": 4
+      },
+      {
+        "name": "Republic of Korea",
+        "causes": 1
+      },
+      {
+        "name": "Japan",
+        "causes": 1
+      },
+      {
+        "name": "USA",
+        "causes": 1
+      }
+    ]
+  },
+  {
+    "date": "24 January 2020",
+    "countries": [
+      {
+        "name": "Thailand",
+        "causes": 4
+      },
+      {
+        "name": "Republic of Korea",
+        "causes": 2
+      },
+      {
+        "name": "Vietnam ",
+        "causes": 2
+      },
+      {
+        "name": "Japan",
+        "causes": 1
+      },
+      {
+        "name": "Singapore",
+        "causes": 1
+      },
+      {
+        "name": "USA",
+        "causes": 1
+      }
+    ]
+  },
+  {
+    "date": "25 January 2020",
+    "countries": [
+      {
+        "name": "Thailand",
+        "causes": 4
+      },
+      {
+        "name": "French Republic",
+        "causes": 3
+      },
+      {
+        "name": "Japan",
+        "causes": 3
+      },
+      {
+        "name": "Singapore",
+        "causes": 3
+      },
+      {
+        "name": "Australia",
+        "causes": 3
+      },
+      {
+        "name": "Republic of Korea",
+        "causes": 2
+      },
+      {
+        "name": "Vietnam ",
+        "causes": 2
+      },
+      {
+        "name": "USA",
+        "causes": 2
+      },
+      {
+        "name": "Nepal",
+        "causes": 1
+      }
+    ]
+  },
+  {
+    "date": "26 January 2020",
+    "countries": [
+      {
+        "name": "Thailand",
+        "causes": 5
+      },
+      {
+        "name": "Singapore",
+        "causes": 4
+      },
+      {
+        "name": "Australia",
+        "causes": 4
+      },
+      {
+        "name": "French Republic",
+        "causes": 3
+      },
+      {
+        "name": "Japan",
+        "causes": 3
+      },
+      {
+        "name": "Malaysia",
+        "causes": 3
+      },
+      {
+        "name": "Republic of Korea",
+        "causes": 2
+      },
+      {
+        "name": "Vietnam ",
+        "causes": 2
+      },
+      {
+        "name": "USA",
+        "causes": 2
+      },
+      {
+        "name": "Nepal",
+        "causes": 1
+      }
+    ]
+  },
+  {
+    "date": "27 January 2020",
+    "countries": [
+      {
+        "name": "USA",
+        "causes": 5
+      },
+      {
+        "name": "Thailand",
+        "causes": 5
+      },
+      {
+        "name": "Japan",
+        "causes": 4
+      },
+      {
+        "name": "Singapore",
+        "causes": 4
+      },
+      {
+        "name": "Australia",
+        "causes": 4
+      },
+      {
+        "name": "Republic of Korea",
+        "causes": 4
+      },
+      {
+        "name": "Malaysia",
+        "causes": 4
+      },
+      {
+        "name": "French Republic",
+        "causes": 3
+      },
+      {
+        "name": "Vietnam ",
+        "causes": 2
+      },
+      {
+        "name": "Nepal",
+        "causes": 1
+      },
+      {
+        "name": "Canada",
+        "causes": 1
+      }
+    ]
+  },
+  {
+    "date": "28 January 2020",
+    "countries": [
+      {
+        "name": "Thailand",
+        "causes": 14
+      },
+      {
+        "name": "Singapore",
+        "causes": 7
+      },
+      {
+        "name": "Japan",
+        "causes": 6
+      },
+      {
+        "name": "USA",
+        "causes": 5
+      },
+      {
+        "name": "Australia",
+        "causes": 5
+      },
+      {
+        "name": "Republic of Korea",
+        "causes": 4
+      },
+      {
+        "name": "Malaysia",
+        "causes": 4
+      },
+      {
+        "name": "French Republic",
+        "causes": 3
+      },
+      {
+        "name": "Vietnam ",
+        "causes": 2
+      },
+      {
+        "name": "Canada",
+        "causes": 2
+      },
+      {
+        "name": "Nepal",
+        "causes": 1
+      },
+      {
+        "name": "Cambodia",
+        "causes": 1
+      },
+      {
+        "name": "Sri Lanka",
+        "causes": 1
+      },
+      {
+        "name": "Germany",
+        "causes": 1
+      }
+    ]
+  },
+  {
+    "date": "29 January 2020",
+    "countries": [
+      {
+        "name": "Thailand",
+        "causes": 14
+      },
+      {
+        "name": "Singapore",
+        "causes": 7
+      },
+      {
+        "name": "Japan",
+        "causes": 7
+      },
+      {
+        "name": "Australia",
+        "causes": 7
+      },
+      {
+        "name": "USA",
+        "causes": 5
+      },
+      {
+        "name": "Republic of Korea",
+        "causes": 4
+      },
+      {
+        "name": "Malaysia",
+        "causes": 4
+      },
+      {
+        "name": "French Republic",
+        "causes": 4
+      },
+      {
+        "name": "Germany",
+        "causes": 4
+      },
+      {
+        "name": "United Arab Emirates",
+        "causes": 4
+      },
+      {
+        "name": "Canada",
+        "causes": 3
+      },
+      {
+        "name": "Vietnam ",
+        "causes": 2
+      },
+      {
+        "name": "Nepal",
+        "causes": 1
+      },
+      {
+        "name": "Cambodia",
+        "causes": 1
+      },
+      {
+        "name": "Sri Lanka",
+        "causes": 1
+      }
+    ]
+  },
+  {
+    "date": "30 January 2020",
+    "countries": [
+      {
+        "name": "Thailand",
+        "causes": 14
+      },
+      {
+        "name": "Japan",
+        "causes": 11
+      },
+      {
+        "name": "Singapore",
+        "causes": 10
+      },
+      {
+        "name": "Australia",
+        "causes": 7
+      },
+      {
+        "name": "Malaysia",
+        "causes": 7
+      },
+      {
+        "name": "USA",
+        "causes": 5
+      },
+      {
+        "name": "French Republic",
+        "causes": 5
+      },
+      {
+        "name": "Republic of Korea",
+        "causes": 4
+      },
+      {
+        "name": "Germany",
+        "causes": 4
+      },
+      {
+        "name": "United Arab Emirates",
+        "causes": 4
+      },
+      {
+        "name": "Canada",
+        "causes": 3
+      },
+      {
+        "name": "Vietnam ",
+        "causes": 2
+      },
+      {
+        "name": "Nepal",
+        "causes": 1
+      },
+      {
+        "name": "Cambodia",
+        "causes": 1
+      },
+      {
+        "name": "Sri Lanka",
+        "causes": 1
+      },
+      {
+        "name": "Philippines",
+        "causes": 1
+      },
+      {
+        "name": "India",
+        "causes": 1
+      },
+      {
+        "name": "Finland",
+        "causes": 1
+      }
+    ]
+  },
+  {
+    "date": "31 January 2020",
+    "countries": [
+      {
+        "name": "Thailand",
+        "causes": 14
+      },
+      {
+        "name": "Japan",
+        "causes": 14
+      },
+      {
+        "name": "Singapore",
+        "causes": 13
+      },
+      {
+        "name": "Republic of Korea",
+        "causes": 11
+      },
+      {
+        "name": "Australia",
+        "causes": 9
+      },
+      {
+        "name": "Malaysia",
+        "causes": 8
+      },
+      {
+        "name": "Vietnam ",
+        "causes": 6
+      },
+      {
+        "name": "USA",
+        "causes": 6
+      },
+      {
+        "name": "French Republic",
+        "causes": 6
+      },
+      {
+        "name": "Germany",
+        "causes": 5
+      },
+      {
+        "name": "United Arab Emirates",
+        "causes": 4
+      },
+      {
+        "name": "Canada",
+        "causes": 3
+      },
+      {
+        "name": "Italy",
+        "causes": 2
+      },
+      {
+        "name": "Nepal",
+        "causes": 1
+      },
+      {
+        "name": "Cambodia",
+        "causes": 1
+      },
+      {
+        "name": "Sri Lanka",
+        "causes": 1
+      },
+      {
+        "name": "Philippines",
+        "causes": 1
+      },
+      {
+        "name": "India",
+        "causes": 1
+      },
+      {
+        "name": "Finland",
+        "causes": 1
+      }
+    ]
+  },
+  {
+    "date": "1 February 2020",
+    "countries": [
+      {
+        "name": "Thailand",
+        "causes": 19
+      },
+      {
+        "name": "Japan",
+        "causes": 17
+      },
+      {
+        "name": "Singapore",
+        "causes": 16
+      },
+      {
+        "name": "Republic of Korea",
+        "causes": 12
+      },
+      {
+        "name": "Australia",
+        "causes": 12
+      },
+      {
+        "name": "Malaysia",
+        "causes": 8
+      },
+      {
+        "name": "USA",
+        "causes": 7
+      },
+      {
+        "name": "Germany",
+        "causes": 7
+      },
+      {
+        "name": "Vietnam ",
+        "causes": 6
+      },
+      {
+        "name": "French Republic",
+        "causes": 6
+      },
+      {
+        "name": "United Arab Emirates",
+        "causes": 4
+      },
+      {
+        "name": "Canada",
+        "causes": 4
+      },
+      {
+        "name": "Russian Federation",
+        "causes": 2
+      },
+      {
+        "name": "Italy",
+        "causes": 2
+      },
+      {
+        "name": "United Kingdom",
+        "causes": 2
+      },
+      {
+        "name": "Nepal",
+        "causes": 1
+      },
+      {
+        "name": "Cambodia",
+        "causes": 1
+      },
+      {
+        "name": "Sri Lanka",
+        "causes": 1
+      },
+      {
+        "name": "Philippines",
+        "causes": 1
+      },
+      {
+        "name": "India",
+        "causes": 1
+      },
+      {
+        "name": "Finland",
+        "causes": 1
+      },
+      {
+        "name": "Spain",
+        "causes": 1
+      },
+      {
+        "name": "Sweden",
+        "causes": 1
+      }
+    ]
+  },
+  {
+    "date": "2 February 2020",
+    "countries": [
+      {
+        "name": "Japan",
+        "causes": 20
+      },
+      {
+        "name": "Thailand",
+        "causes": 19
+      },
+      {
+        "name": "Singapore",
+        "causes": 18
+      },
+      {
+        "name": "Republic of Korea",
+        "causes": 15
+      },
+      {
+        "name": "Australia",
+        "causes": 12
+      },
+      {
+        "name": "Malaysia",
+        "causes": 8
+      },
+      {
+        "name": "USA",
+        "causes": 8
+      },
+      {
+        "name": "Germany",
+        "causes": 8
+      },
+      {
+        "name": "Vietnam ",
+        "causes": 7
+      },
+      {
+        "name": "French Republic",
+        "causes": 6
+      },
+      {
+        "name": "United Arab Emirates",
+        "causes": 5
+      },
+      {
+        "name": "Canada",
+        "causes": 4
+      },
+      {
+        "name": "Russian Federation",
+        "causes": 2
+      },
+      {
+        "name": "Italy",
+        "causes": 2
+      },
+      {
+        "name": "United Kingdom",
+        "causes": 2
+      },
+      {
+        "name": "Philippines",
+        "causes": 2
+      },
+      {
+        "name": "India",
+        "causes": 2
+      },
+      {
+        "name": "Nepal",
+        "causes": 1
+      },
+      {
+        "name": "Cambodia",
+        "causes": 1
+      },
+      {
+        "name": "Sri Lanka",
+        "causes": 1
+      },
+      {
+        "name": "Finland",
+        "causes": 1
+      },
+      {
+        "name": "Spain",
+        "causes": 1
+      },
+      {
+        "name": "Sweden",
+        "causes": 1
+      }
+    ]
+  },
+  {
+    "date": "3 February 2020",
+    "countries": [
+      {
+        "name": "Japan",
+        "causes": 20
+      },
+      {
+        "name": "Thailand",
+        "causes": 19
+      },
+      {
+        "name": "Singapore",
+        "causes": 18
+      },
+      {
+        "name": "Republic of Korea",
+        "causes": 15
+      },
+      {
+        "name": "Australia",
+        "causes": 12
+      },
+      {
+        "name": "USA",
+        "causes": 11
+      },
+      {
+        "name": "Germany",
+        "causes": 10
+      },
+      {
+        "name": "Malaysia",
+        "causes": 8
+      },
+      {
+        "name": "Vietnam ",
+        "causes": 8
+      },
+      {
+        "name": "French Republic",
+        "causes": 6
+      },
+      {
+        "name": "United Arab Emirates",
+        "causes": 5
+      },
+      {
+        "name": "Canada",
+        "causes": 4
+      },
+      {
+        "name": "India",
+        "causes": 3
+      },
+      {
+        "name": "Russian Federation",
+        "causes": 2
+      },
+      {
+        "name": "Italy",
+        "causes": 2
+      },
+      {
+        "name": "United Kingdom",
+        "causes": 2
+      },
+      {
+        "name": "Philippines",
+        "causes": 2
+      },
+      {
+        "name": "Nepal",
+        "causes": 1
+      },
+      {
+        "name": "Cambodia",
+        "causes": 1
+      },
+      {
+        "name": "Sri Lanka",
+        "causes": 1
+      },
+      {
+        "name": "Finland",
+        "causes": 1
+      },
+      {
+        "name": "Spain",
+        "causes": 1
+      },
+      {
+        "name": "Sweden",
+        "causes": 1
+      }
+    ]
+  },
+  {
+    "date": "4 February 2020",
+    "countries": [
+      {
+        "name": "Japan",
+        "causes": 20
+      },
+      {
+        "name": "Thailand",
+        "causes": 19
+      },
+      {
+        "name": "Singapore",
+        "causes": 18
+      },
+      {
+        "name": "Republic of Korea",
+        "causes": 16
+      },
+      {
+        "name": "Australia",
+        "causes": 12
+      },
+      {
+        "name": "Germany",
+        "causes": 12
+      },
+      {
+        "name": "Malaysia",
+        "causes": 10
+      },
+      {
+        "name": "Vietnam ",
+        "causes": 9
+      },
+      {
+        "name": "USA",
+        "causes": 8
+      },
+      {
+        "name": "French Republic",
+        "causes": 6
+      },
+      {
+        "name": "United Arab Emirates",
+        "causes": 5
+      },
+      {
+        "name": "Canada",
+        "causes": 4
+      },
+      {
+        "name": "Russian Federation",
+        "causes": 2
+      },
+      {
+        "name": "Italy",
+        "causes": 2
+      },
+      {
+        "name": "United Kingdom",
+        "causes": 2
+      },
+      {
+        "name": "Philippines",
+        "causes": 2
+      },
+      {
+        "name": "India",
+        "causes": 2
+      },
+      {
+        "name": "Nepal",
+        "causes": 1
+      },
+      {
+        "name": "Cambodia",
+        "causes": 1
+      },
+      {
+        "name": "Sri Lanka",
+        "causes": 1
+      },
+      {
+        "name": "Finland",
+        "causes": 1
+      },
+      {
+        "name": "Spain",
+        "causes": 1
+      },
+      {
+        "name": "Sweden",
+        "causes": 1
+      }
+    ]
+  },
+  {
+    "date": "5 February 2020",
+    "countries": [
+      {
+        "name": "Japan",
+        "causes": 33
+      },
+      {
+        "name": "Thailand",
+        "causes": 25
+      },
+      {
+        "name": "Singapore",
+        "causes": 24
+      },
+      {
+        "name": "Republic of Korea",
+        "causes": 18
+      },
+      {
+        "name": "Australia",
+        "causes": 13
+      },
+      {
+        "name": "Germany",
+        "causes": 12
+      },
+      {
+        "name": "USA",
+        "causes": 11
+      },
+      {
+        "name": "Malaysia",
+        "causes": 10
+      },
+      {
+        "name": "Vietnam ",
+        "causes": 10
+      },
+      {
+        "name": "French Republic",
+        "causes": 6
+      },
+      {
+        "name": "Canada",
+        "causes": 5
+      },
+      {
+        "name": "United Arab Emirates",
+        "causes": 5
+      },
+      {
+        "name": "Philippines",
+        "causes": 3
+      },
+      {
+        "name": "Russian Federation",
+        "causes": 2
+      },
+      {
+        "name": "Italy",
+        "causes": 2
+      },
+      {
+        "name": "United Kingdom",
+        "causes": 2
+      },
+      {
+        "name": "India",
+        "causes": 2
+      },
+      {
+        "name": "Nepal",
+        "causes": 1
+      },
+      {
+        "name": "Cambodia",
+        "causes": 1
+      },
+      {
+        "name": "Sri Lanka",
+        "causes": 1
+      },
+      {
+        "name": "Finland",
+        "causes": 1
+      },
+      {
+        "name": "Spain",
+        "causes": 1
+      },
+      {
+        "name": "Sweden",
+        "causes": 1
+      },
+      {
+        "name": "Belgium",
+        "causes": 1
+      }
+    ]
+  },
+  {
+    "date": "6 February 2020",
+    "countries": [
+      {
+        "name": "Singapore",
+        "causes": 28
+      },
+      {
+        "name": "Japan",
+        "causes": 25
+      },
+      {
+        "name": "Thailand",
+        "causes": 25
+      },
+      {
+        "name": "Republic of Korea",
+        "causes": 23
+      },
+      {
+        "name": "Australia",
+        "causes": 14
+      },
+      {
+        "name": "Germany",
+        "causes": 12
+      },
+      {
+        "name": "Malaysia",
+        "causes": 12
+      },
+      {
+        "name": "USA",
+        "causes": 12
+      },
+      {
+        "name": "Vietnam ",
+        "causes": 10
+      },
+      {
+        "name": "French Republic",
+        "causes": 6
+      },
+      {
+        "name": "Canada",
+        "causes": 5
+      },
+      {
+        "name": "United Arab Emirates",
+        "causes": 5
+      },
+      {
+        "name": "Philippines",
+        "causes": 3
+      },
+      {
+        "name": "Russian Federation",
+        "causes": 2
+      },
+      {
+        "name": "Italy",
+        "causes": 2
+      },
+      {
+        "name": "United Kingdom",
+        "causes": 2
+      },
+      {
+        "name": "India",
+        "causes": 2
+      },
+      {
+        "name": "Nepal",
+        "causes": 1
+      },
+      {
+        "name": "Cambodia",
+        "causes": 1
+      },
+      {
+        "name": "Sri Lanka",
+        "causes": 1
+      },
+      {
+        "name": "Finland",
+        "causes": 1
+      },
+      {
+        "name": "Spain",
+        "causes": 1
+      },
+      {
+        "name": "Sweden",
+        "causes": 1
+      },
+      {
+        "name": "Belgium",
+        "causes": 1
+      }
+    ]
+  },
+  {
+    "date": "7 February 2020",
+    "countries": [
+      {
+        "name": "Singapore",
+        "causes": 30
+      },
+      {
+        "name": "Japan",
+        "causes": 25
+      },
+      {
+        "name": "Thailand",
+        "causes": 25
+      },
+      {
+        "name": "Republic of Korea",
+        "causes": 24
+      },
+      {
+        "name": "Australia",
+        "causes": 15
+      },
+      {
+        "name": "Malaysia",
+        "causes": 14
+      },
+      {
+        "name": "Germany",
+        "causes": 13
+      },
+      {
+        "name": "USA",
+        "causes": 12
+      },
+      {
+        "name": "Vietnam ",
+        "causes": 12
+      },
+      {
+        "name": "French Republic",
+        "causes": 6
+      },
+      {
+        "name": "Canada",
+        "causes": 5
+      },
+      {
+        "name": "United Arab Emirates",
+        "causes": 5
+      },
+      {
+        "name": "Philippines",
+        "causes": 3
+      },
+      {
+        "name": "United Kingdom",
+        "causes": 3
+      },
+      {
+        "name": "Italy",
+        "causes": 3
+      },
+      {
+        "name": "Russian Federation",
+        "causes": 2
+      },
+      {
+        "name": "India",
+        "causes": 2
+      },
+      {
+        "name": "Nepal",
+        "causes": 1
+      },
+      {
+        "name": "Cambodia",
+        "causes": 1
+      },
+      {
+        "name": "Sri Lanka",
+        "causes": 1
+      },
+      {
+        "name": "Finland",
+        "causes": 1
+      },
+      {
+        "name": "Spain",
+        "causes": 1
+      },
+      {
+        "name": "Sweden",
+        "causes": 1
+      },
+      {
+        "name": "Belgium",
+        "causes": 1
+      }
+    ]
+  },
+  {
+    "date": "8 February 2020",
+    "countries": [
+      {
+        "name": "Singapore",
+        "causes": 33
+      },
+      {
+        "name": "Thailand",
+        "causes": 32
+      },
+      {
+        "name": "Japan",
+        "causes": 25
+      },
+      {
+        "name": "Republic of Korea",
+        "causes": 24
+      },
+      {
+        "name": "Australia",
+        "causes": 15
+      },
+      {
+        "name": "Malaysia",
+        "causes": 15
+      },
+      {
+        "name": "Germany",
+        "causes": 14
+      },
+      {
+        "name": "Vietnam ",
+        "causes": 13
+      },
+      {
+        "name": "USA",
+        "causes": 12
+      },
+      {
+        "name": "United Arab Emirates",
+        "causes": 7
+      },
+      {
+        "name": "French Republic",
+        "causes": 6
+      },
+      {
+        "name": "Canada",
+        "causes": 5
+      },
+      {
+        "name": "Philippines",
+        "causes": 3
+      },
+      {
+        "name": "United Kingdom",
+        "causes": 3
+      },
+      {
+        "name": "Italy",
+        "causes": 3
+      },
+      {
+        "name": "Russian Federation",
+        "causes": 2
+      },
+      {
+        "name": "India",
+        "causes": 2
+      },
+      {
+        "name": "Nepal",
+        "causes": 1
+      },
+      {
+        "name": "Cambodia",
+        "causes": 1
+      },
+      {
+        "name": "Sri Lanka",
+        "causes": 1
+      },
+      {
+        "name": "Finland",
+        "causes": 1
+      },
+      {
+        "name": "Spain",
+        "causes": 1
+      },
+      {
+        "name": "Sweden",
+        "causes": 1
+      },
+      {
+        "name": "Belgium",
+        "causes": 1
+      }
+    ]
+  },
+  {
+    "date": "9 February 2020",
+    "countries": [
+      {
+        "name": "Singapore",
+        "causes": 40
+      },
+      {
+        "name": "Thailand",
+        "causes": 32
+      },
+      {
+        "name": "Republic of Korea",
+        "causes": 27
+      },
+      {
+        "name": "Japan",
+        "causes": 26
+      },
+      {
+        "name": "Malaysia",
+        "causes": 17
+      },
+      {
+        "name": "Australia",
+        "causes": 15
+      },
+      {
+        "name": "Germany",
+        "causes": 14
+      },
+      {
+        "name": "Vietnam ",
+        "causes": 14
+      },
+      {
+        "name": "USA",
+        "causes": 12
+      },
+      {
+        "name": "France",
+        "causes": 11
+      },
+      {
+        "name": "United Arab Emirates",
+        "causes": 7
+      },
+      {
+        "name": "Canada",
+        "causes": 5
+      },
+      {
+        "name": "Philippines",
+        "causes": 3
+      },
+      {
+        "name": "United Kingdom",
+        "causes": 3
+      },
+      {
+        "name": "Italy",
+        "causes": 3
+      },
+      {
+        "name": "Russian Federation",
+        "causes": 2
+      },
+      {
+        "name": "India",
+        "causes": 2
+      },
+      {
+        "name": "Nepal",
+        "causes": 1
+      },
+      {
+        "name": "Cambodia",
+        "causes": 1
+      },
+      {
+        "name": "Sri Lanka",
+        "causes": 1
+      },
+      {
+        "name": "Finland",
+        "causes": 1
+      },
+      {
+        "name": "Spain",
+        "causes": 1
+      },
+      {
+        "name": "Sweden",
+        "causes": 1
+      },
+      {
+        "name": "Belgium",
+        "causes": 1
+      }
+    ]
+  },
+  {
+    "date": "10 February 2020",
+    "countries": [
+      {
+        "name": "Singapore",
+        "causes": 43
+      },
+      {
+        "name": "Thailand",
+        "causes": 32
+      },
+      {
+        "name": "Republic of Korea",
+        "causes": 27
+      },
+      {
+        "name": "Japan",
+        "causes": 26
+      },
+      {
+        "name": "Malaysia",
+        "causes": 18
+      },
+      {
+        "name": "Australia",
+        "causes": 15
+      },
+      {
+        "name": "Germany",
+        "causes": 14
+      },
+      {
+        "name": "Vietnam ",
+        "causes": 14
+      },
+      {
+        "name": "USA",
+        "causes": 12
+      },
+      {
+        "name": "France",
+        "causes": 11
+      },
+      {
+        "name": "United Arab Emirates",
+        "causes": 7
+      },
+      {
+        "name": "Canada",
+        "causes": 5
+      },
+      {
+        "name": "United Kingdom",
+        "causes": 4
+      },
+      {
+        "name": "Philippines",
+        "causes": 3
+      },
+      {
+        "name": "Italy",
+        "causes": 3
+      },
+      {
+        "name": "Russian Federation",
+        "causes": 2
+      },
+      {
+        "name": "India",
+        "causes": 2
+      },
+      {
+        "name": "Spain",
+        "causes": 2
+      },
+      {
+        "name": "Nepal",
+        "causes": 1
+      },
+      {
+        "name": "Cambodia",
+        "causes": 1
+      },
+      {
+        "name": "Sri Lanka",
+        "causes": 1
+      },
+      {
+        "name": "Finland",
+        "causes": 1
+      },
+      {
+        "name": "Sweden",
+        "causes": 1
+      },
+      {
+        "name": "Belgium",
+        "causes": 1
+      }
+    ]
+  },
+  {
+    "date": "11 February 2020",
+    "countries": [
+      {
+        "name": "Singapore",
+        "causes": 45
+      },
+      {
+        "name": "Thailand",
+        "causes": 33
+      },
+      {
+        "name": "Republic of Korea",
+        "causes": 28
+      },
+      {
+        "name": "Japan",
+        "causes": 26
+      },
+      {
+        "name": "Malaysia",
+        "causes": 18
+      },
+      {
+        "name": "Australia",
+        "causes": 15
+      },
+      {
+        "name": "Vietnam ",
+        "causes": 15
+      },
+      {
+        "name": "Germany",
+        "causes": 14
+      },
+      {
+        "name": "USA",
+        "causes": 13
+      },
+      {
+        "name": "France",
+        "causes": 11
+      },
+      {
+        "name": "United Kingdom",
+        "causes": 8
+      },
+      {
+        "name": "United Arab Emirates",
+        "causes": 8
+      },
+      {
+        "name": "Canada",
+        "causes": 5
+      },
+      {
+        "name": "Philippines",
+        "causes": 3
+      },
+      {
+        "name": "Italy",
+        "causes": 3
+      },
+      {
+        "name": "Russian Federation",
+        "causes": 2
+      },
+      {
+        "name": "India",
+        "causes": 2
+      },
+      {
+        "name": "Spain",
+        "causes": 2
+      },
+      {
+        "name": "Nepal",
+        "causes": 1
+      },
+      {
+        "name": "Cambodia",
+        "causes": 1
+      },
+      {
+        "name": "Sri Lanka",
+        "causes": 1
+      },
+      {
+        "name": "Finland",
+        "causes": 1
+      },
+      {
+        "name": "Sweden",
+        "causes": 1
+      },
+      {
+        "name": "Belgium",
+        "causes": 1
+      }
+    ]
+  },
+  {
+    "date": "12 February 2020",
+    "countries": [
+      {
+        "name": "Singapore",
+        "causes": 47
+      },
+      {
+        "name": "Thailand",
+        "causes": 33
+      },
+      {
+        "name": "Republic of Korea",
+        "causes": 28
+      },
+      {
+        "name": "Japan",
+        "causes": 28
+      },
+      {
+        "name": "Malaysia",
+        "causes": 18
+      },
+      {
+        "name": "Germany",
+        "causes": 16
+      },
+      {
+        "name": "Australia",
+        "causes": 15
+      },
+      {
+        "name": "Vietnam ",
+        "causes": 15
+      },
+      {
+        "name": "USA",
+        "causes": 13
+      },
+      {
+        "name": "France",
+        "causes": 11
+      },
+      {
+        "name": "United Kingdom",
+        "causes": 8
+      },
+      {
+        "name": "United Arab Emirates",
+        "causes": 8
+      },
+      {
+        "name": "Canada",
+        "causes": 5
+      },
+      {
+        "name": "Philippines",
+        "causes": 3
+      },
+      {
+        "name": "Italy",
+        "causes": 3
+      },
+      {
+        "name": "Russian Federation",
+        "causes": 2
+      },
+      {
+        "name": "India",
+        "causes": 2
+      },
+      {
+        "name": "Spain",
+        "causes": 2
+      },
+      {
+        "name": "Nepal",
+        "causes": 1
+      },
+      {
+        "name": "Cambodia",
+        "causes": 1
+      },
+      {
+        "name": "Sri Lanka",
+        "causes": 1
+      },
+      {
+        "name": "Finland",
+        "causes": 1
+      },
+      {
+        "name": "Sweden",
+        "causes": 1
+      },
+      {
+        "name": "Belgium",
+        "causes": 1
+      }
+    ]
+  },
+  {
+    "date": "13 February 2020",
+    "countries": [
+      {
+        "name": "Singapore",
+        "causes": 50
+      },
+      {
+        "name": "Thailand",
+        "causes": 33
+      },
+      {
+        "name": "Republic of Korea",
+        "causes": 28
+      },
+      {
+        "name": "Japan",
+        "causes": 28
+      },
+      {
+        "name": "Malaysia",
+        "causes": 18
+      },
+      {
+        "name": "Germany",
+        "causes": 16
+      },
+      {
+        "name": "Australia",
+        "causes": 15
+      },
+      {
+        "name": "Vietnam ",
+        "causes": 15
+      },
+      {
+        "name": "USA",
+        "causes": 14
+      },
+      {
+        "name": "France",
+        "causes": 11
+      },
+      {
+        "name": "United Kingdom",
+        "causes": 9
+      },
+      {
+        "name": "United Arab Emirates",
+        "causes": 8
+      },
+      {
+        "name": "Canada",
+        "causes": 5
+      },
+      {
+        "name": "Philippines",
+        "causes": 3
+      },
+      {
+        "name": "Italy",
+        "causes": 3
+      },
+      {
+        "name": "Russian Federation",
+        "causes": 2
+      },
+      {
+        "name": "India",
+        "causes": 2
+      },
+      {
+        "name": "Spain",
+        "causes": 2
+      },
+      {
+        "name": "Nepal",
+        "causes": 1
+      },
+      {
+        "name": "Cambodia",
+        "causes": 1
+      },
+      {
+        "name": "Sri Lanka",
+        "causes": 1
+      },
+      {
+        "name": "Finland",
+        "causes": 1
+      },
+      {
+        "name": "Sweden",
+        "causes": 1
+      },
+      {
+        "name": "Belgium",
+        "causes": 1
+      }
+    ]
+  },
+  {
+    "date": "14 February 2020",
+    "countries": [
+      {
+        "name": "Singapore",
+        "causes": 58
+      },
+      {
+        "name": "Thailand",
+        "causes": 33
+      },
+      {
+        "name": "Japan",
+        "causes": 33
+      },
+      {
+        "name": "Republic of Korea",
+        "causes": 28
+      },
+      {
+        "name": "Malaysia",
+        "causes": 19
+      },
+      {
+        "name": "Germany",
+        "causes": 16
+      },
+      {
+        "name": "Australia",
+        "causes": 15
+      },
+      {
+        "name": "Vietnam ",
+        "causes": 15
+      },
+      {
+        "name": "USA",
+        "causes": 15
+      },
+      {
+        "name": "France",
+        "causes": 11
+      },
+      {
+        "name": "United Kingdom",
+        "causes": 9
+      },
+      {
+        "name": "United Arab Emirates",
+        "causes": 8
+      },
+      {
+        "name": "Canada",
+        "causes": 5
+      },
+      {
+        "name": "Philippines",
+        "causes": 3
+      },
+      {
+        "name": "Italy",
+        "causes": 3
+      },
+      {
+        "name": "Russian Federation",
+        "causes": 2
+      },
+      {
+        "name": "India",
+        "causes": 2
+      },
+      {
+        "name": "Spain",
+        "causes": 2
+      },
+      {
+        "name": "Nepal",
+        "causes": 1
+      },
+      {
+        "name": "Cambodia",
+        "causes": 1
+      },
+      {
+        "name": "Sri Lanka",
+        "causes": 1
+      },
+      {
+        "name": "Finland",
+        "causes": 1
+      },
+      {
+        "name": "Sweden",
+        "causes": 1
+      },
+      {
+        "name": "Belgium",
+        "causes": 1
+      }
+    ]
+  },
+  {
+    "date": "15 February 2020",
+    "countries": [
+      {
+        "name": "Singapore",
+        "causes": 67
+      },
+      {
+        "name": "Japan",
+        "causes": 41
+      },
+      {
+        "name": "Thailand",
+        "causes": 34
+      },
+      {
+        "name": "Republic of Korea",
+        "causes": 28
+      },
+      {
+        "name": "Malaysia",
+        "causes": 21
+      },
+      {
+        "name": "Germany",
+        "causes": 16
+      },
+      {
+        "name": "Australia",
+        "causes": 15
+      },
+      {
+        "name": "Vietnam ",
+        "causes": 15
+      },
+      {
+        "name": "USA",
+        "causes": 15
+      },
+      {
+        "name": "France",
+        "causes": 11
+      },
+      {
+        "name": "United Kingdom",
+        "causes": 9
+      },
+      {
+        "name": "United Arab Emirates",
+        "causes": 8
+      },
+      {
+        "name": "Canada",
+        "causes": 5
+      },
+      {
+        "name": "Philippines",
+        "causes": 3
+      },
+      {
+        "name": "Italy",
+        "causes": 3
+      },
+      {
+        "name": "Russian Federation",
+        "causes": 2
+      },
+      {
+        "name": "India",
+        "causes": 2
+      },
+      {
+        "name": "Spain",
+        "causes": 2
+      },
+      {
+        "name": "Nepal",
+        "causes": 1
+      },
+      {
+        "name": "Cambodia",
+        "causes": 1
+      },
+      {
+        "name": "Sri Lanka",
+        "causes": 1
+      },
+      {
+        "name": "Finland",
+        "causes": 1
+      },
+      {
+        "name": "Sweden",
+        "causes": 1
+      },
+      {
+        "name": "Belgium",
+        "causes": 1
+      },
+      {
+        "name": "Egypt",
+        "causes": 1
+      }
+    ]
+  },
+  {
+    "date": "16 February 2020",
+    "countries": [
+      {
+        "name": "Singapore",
+        "causes": 72
+      },
+      {
+        "name": "Japan",
+        "causes": 53
+      },
+      {
+        "name": "Thailand",
+        "causes": 34
+      },
+      {
+        "name": "Republic of Korea",
+        "causes": 29
+      },
+      {
+        "name": "Malaysia",
+        "causes": 22
+      },
+      {
+        "name": "Germany",
+        "causes": 16
+      },
+      {
+        "name": "Australia",
+        "causes": 15
+      },
+      {
+        "name": "Vietnam ",
+        "causes": 15
+      },
+      {
+        "name": "USA",
+        "causes": 15
+      },
+      {
+        "name": "France",
+        "causes": 12
+      },
+      {
+        "name": "United Kingdom",
+        "causes": 9
+      },
+      {
+        "name": "United Arab Emirates",
+        "causes": 8
+      },
+      {
+        "name": "Canada",
+        "causes": 5
+      },
+      {
+        "name": "Philippines",
+        "causes": 3
+      },
+      {
+        "name": "Italy",
+        "causes": 3
+      },
+      {
+        "name": "Russian Federation",
+        "causes": 2
+      },
+      {
+        "name": "India",
+        "causes": 2
+      },
+      {
+        "name": "Spain",
+        "causes": 2
+      },
+      {
+        "name": "Nepal",
+        "causes": 1
+      },
+      {
+        "name": "Cambodia",
+        "causes": 1
+      },
+      {
+        "name": "Sri Lanka",
+        "causes": 1
+      },
+      {
+        "name": "Finland",
+        "causes": 1
+      },
+      {
+        "name": "Sweden",
+        "causes": 1
+      },
+      {
+        "name": "Belgium",
+        "causes": 1
+      },
+      {
+        "name": "Egypt",
+        "causes": 1
+      }
+    ]
+  },
+  {
+    "date": "17 February 2020",
+    "countries": [
+      {
+        "name": "Singapore",
+        "causes": 75
+      },
+      {
+        "name": "Japan",
+        "causes": 59
+      },
+      {
+        "name": "Thailand",
+        "causes": 34
+      },
+      {
+        "name": "Republic of Korea",
+        "causes": 30
+      },
+      {
+        "name": "Malaysia",
+        "causes": 22
+      },
+      {
+        "name": "Germany",
+        "causes": 16
+      },
+      {
+        "name": "Australia",
+        "causes": 15
+      },
+      {
+        "name": "Vietnam ",
+        "causes": 15
+      },
+      {
+        "name": "USA",
+        "causes": 15
+      },
+      {
+        "name": "France",
+        "causes": 12
+      },
+      {
+        "name": "United Kingdom",
+        "causes": 9
+      },
+      {
+        "name": "United Arab Emirates",
+        "causes": 9
+      },
+      {
+        "name": "Canada",
+        "causes": 5
+      },
+      {
+        "name": "Philippines",
+        "causes": 3
+      },
+      {
+        "name": "Italy",
+        "causes": 3
+      },
+      {
+        "name": "Russian Federation",
+        "causes": 2
+      },
+      {
+        "name": "India",
+        "causes": 2
+      },
+      {
+        "name": "Spain",
+        "causes": 2
+      },
+      {
+        "name": "Nepal",
+        "causes": 1
+      },
+      {
+        "name": "Cambodia",
+        "causes": 1
+      },
+      {
+        "name": "Sri Lanka",
+        "causes": 1
+      },
+      {
+        "name": "Finland",
+        "causes": 1
+      },
+      {
+        "name": "Sweden",
+        "causes": 1
+      },
+      {
+        "name": "Belgium",
+        "causes": 1
+      },
+      {
+        "name": "Egypt",
+        "causes": 1
+      }
+    ]
+  },
+  {
+    "date": "18 February 2020",
+    "countries": [
+      {
+        "name": "Singapore",
+        "causes": 77
+      },
+      {
+        "name": "Japan",
+        "causes": 65
+      },
+      {
+        "name": "Thailand",
+        "causes": 34
+      },
+      {
+        "name": "Republic of Korea",
+        "causes": 31
+      },
+      {
+        "name": "Malaysia",
+        "causes": 22
+      },
+      {
+        "name": "Germany",
+        "causes": 16
+      },
+      {
+        "name": "Australia",
+        "causes": 15
+      },
+      {
+        "name": "Vietnam ",
+        "causes": 15
+      },
+      {
+        "name": "USA",
+        "causes": 15
+      },
+      {
+        "name": "France",
+        "causes": 12
+      },
+      {
+        "name": "United Kingdom",
+        "causes": 9
+      },
+      {
+        "name": "United Arab Emirates",
+        "causes": 9
+      },
+      {
+        "name": "Canada",
+        "causes": 5
+      },
+      {
+        "name": "Philippines",
+        "causes": 3
+      },
+      {
+        "name": "Italy",
+        "causes": 3
+      },
+      {
+        "name": "Russian Federation",
+        "causes": 2
+      },
+      {
+        "name": "India",
+        "causes": 2
+      },
+      {
+        "name": "Spain",
+        "causes": 2
+      },
+      {
+        "name": "Nepal",
+        "causes": 1
+      },
+      {
+        "name": "Cambodia",
+        "causes": 1
+      },
+      {
+        "name": "Sri Lanka",
+        "causes": 1
+      },
+      {
+        "name": "Finland",
+        "causes": 1
+      },
+      {
+        "name": "Sweden",
+        "causes": 1
+      },
+      {
+        "name": "Belgium",
+        "causes": 1
+      },
+      {
+        "name": "Egypt",
+        "causes": 1
+      }
+    ]
+  },
+  {
+    "date": "19 February 2020",
+    "countries": [
+      {
+        "name": "Singapore",
+        "causes": 81
+      },
+      {
+        "name": "Japan",
+        "causes": 73
+      },
+      {
+        "name": "Republic of Korea",
+        "causes": 51
+      },
+      {
+        "name": "Thailand",
+        "causes": 34
+      },
+      {
+        "name": "Malaysia",
+        "causes": 22
+      },
+      {
+        "name": "Germany",
+        "causes": 16
+      },
+      {
+        "name": "Australia",
+        "causes": 15
+      },
+      {
+        "name": "Vietnam ",
+        "causes": 15
+      },
+      {
+        "name": "USA",
+        "causes": 15
+      },
+      {
+        "name": "France",
+        "causes": 12
+      },
+      {
+        "name": "United Kingdom",
+        "causes": 9
+      },
+      {
+        "name": "United Arab Emirates",
+        "causes": 9
+      },
+      {
+        "name": "Canada",
+        "causes": 5
+      },
+      {
+        "name": "Philippines",
+        "causes": 3
+      },
+      {
+        "name": "Italy",
+        "causes": 3
+      },
+      {
+        "name": "Russian Federation",
+        "causes": 2
+      },
+      {
+        "name": "India",
+        "causes": 2
+      },
+      {
+        "name": "Spain",
+        "causes": 2
+      },
+      {
+        "name": "Nepal",
+        "causes": 1
+      },
+      {
+        "name": "Cambodia",
+        "causes": 1
+      },
+      {
+        "name": "Sri Lanka",
+        "causes": 1
+      },
+      {
+        "name": "Finland",
+        "causes": 1
+      },
+      {
+        "name": "Sweden",
+        "causes": 1
+      },
+      {
+        "name": "Belgium",
+        "causes": 1
+      },
+      {
+        "name": "Egypt",
+        "causes": 1
+      }
+    ]
+  },
+  {
+    "date": "20 February 2020",
+    "countries": [
+      {
+        "name": "Republic of Korea",
+        "causes": 104
+      },
+      {
+        "name": "Japan",
+        "causes": 85
+      },
+      {
+        "name": "Singapore",
+        "causes": 84
+      },
+      {
+        "name": "Thailand",
+        "causes": 34
+      },
+      {
+        "name": "Malaysia",
+        "causes": 22
+      },
+      {
+        "name": "Germany",
+        "causes": 16
+      },
+      {
+        "name": "Australia",
+        "causes": 15
+      },
+      {
+        "name": "Vietnam ",
+        "causes": 15
+      },
+      {
+        "name": "USA",
+        "causes": 15
+      },
+      {
+        "name": "France",
+        "causes": 12
+      },
+      {
+        "name": "United Kingdom",
+        "causes": 9
+      },
+      {
+        "name": "United Arab Emirates",
+        "causes": 9
+      },
+      {
+        "name": "Canada",
+        "causes": 5
+      },
+      {
+        "name": "Philippines",
+        "causes": 3
+      },
+      {
+        "name": "Italy",
+        "causes": 3
+      },
+      {
+        "name": "Russian Federation",
+        "causes": 2
+      },
+      {
+        "name": "India",
+        "causes": 2
+      },
+      {
+        "name": "Spain",
+        "causes": 2
+      },
+      {
+        "name": "Iran",
+        "causes": 2
+      },
+      {
+        "name": "Nepal",
+        "causes": 1
+      },
+      {
+        "name": "Cambodia",
+        "causes": 1
+      },
+      {
+        "name": "Sri Lanka",
+        "causes": 1
+      },
+      {
+        "name": "Finland",
+        "causes": 1
+      },
+      {
+        "name": "Sweden",
+        "causes": 1
+      },
+      {
+        "name": "Belgium",
+        "causes": 1
+      },
+      {
+        "name": "Egypt",
+        "causes": 1
+      }
+    ]
+  },
+  {
+    "date": "21 February 2020",
+    "countries": [
+      {
+        "name": "Republic of Korea",
+        "causes": 204
+      },
+      {
+        "name": "Japan",
+        "causes": 93
+      },
+      {
+        "name": "Singapore",
+        "causes": 85
+      },
+      {
+        "name": "Thailand",
+        "causes": 34
+      },
+      {
+        "name": "Malaysia",
+        "causes": 22
+      },
+      {
+        "name": "Germany",
+        "causes": 16
+      },
+      {
+        "name": "Australia",
+        "causes": 15
+      },
+      {
+        "name": "Vietnam ",
+        "causes": 15
+      },
+      {
+        "name": "USA",
+        "causes": 15
+      },
+      {
+        "name": "France",
+        "causes": 12
+      },
+      {
+        "name": "United Kingdom",
+        "causes": 9
+      },
+      {
+        "name": "United Arab Emirates",
+        "causes": 9
+      },
+      {
+        "name": "Canada",
+        "causes": 5
+      },
+      {
+        "name": "Iran",
+        "causes": 5
+      },
+      {
+        "name": "Philippines",
+        "causes": 3
+      },
+      {
+        "name": "Italy",
+        "causes": 3
+      },
+      {
+        "name": "Russian Federation",
+        "causes": 2
+      },
+      {
+        "name": "India",
+        "causes": 2
+      },
+      {
+        "name": "Spain",
+        "causes": 2
+      },
+      {
+        "name": "Nepal",
+        "causes": 1
+      },
+      {
+        "name": "Cambodia",
+        "causes": 1
+      },
+      {
+        "name": "Sri Lanka",
+        "causes": 1
+      },
+      {
+        "name": "Finland",
+        "causes": 1
+      },
+      {
+        "name": "Sweden",
+        "causes": 1
+      },
+      {
+        "name": "Belgium",
+        "causes": 1
+      },
+      {
+        "name": "Egypt",
+        "causes": 1
+      }
+    ]
+  },
+  {
+    "date": "22 February 2020",
+    "countries": [
+      {
+        "name": "Republic of Korea",
+        "causes": 346
+      },
+      {
+        "name": "Japan",
+        "causes": 105
+      },
+      {
+        "name": "Singapore",
+        "causes": 86
+      },
+      {
+        "name": "USA",
+        "causes": 35
+      },
+      {
+        "name": "Thailand",
+        "causes": 34
+      },
+      {
+        "name": "Malaysia",
+        "causes": 22
+      },
+      {
+        "name": "Australia",
+        "causes": 21
+      },
+      {
+        "name": "Iran",
+        "causes": 18
+      },
+      {
+        "name": "Germany",
+        "causes": 16
+      },
+      {
+        "name": "Vietnam ",
+        "causes": 15
+      },
+      {
+        "name": "France",
+        "causes": 12
+      },
+      {
+        "name": "United Arab Emirates",
+        "causes": 11
+      },
+      {
+        "name": "United Kingdom",
+        "causes": 9
+      },
+      {
+        "name": "Italy",
+        "causes": 9
+      },
+      {
+        "name": "Canada",
+        "causes": 5
+      },
+      {
+        "name": "Philippines",
+        "causes": 3
+      },
+      {
+        "name": "Russian Federation",
+        "causes": 2
+      },
+      {
+        "name": "India",
+        "causes": 2
+      },
+      {
+        "name": "Spain",
+        "causes": 2
+      },
+      {
+        "name": "Lebanon",
+        "causes": 1
+      },
+      {
+        "name": "Nepal",
+        "causes": 1
+      },
+      {
+        "name": "Cambodia",
+        "causes": 1
+      },
+      {
+        "name": "Sri Lanka",
+        "causes": 1
+      },
+      {
+        "name": "Finland",
+        "causes": 1
+      },
+      {
+        "name": "Sweden",
+        "causes": 1
+      },
+      {
+        "name": "Belgium",
+        "causes": 1
+      },
+      {
+        "name": "Egypt",
+        "causes": 1
+      },
+      {
+        "name": "Israel",
+        "causes": 1
+      }
+    ]
+  },
+  {
+    "date": "23 February 2020",
+    "countries": [
+      {
+        "name": "Republic of Korea",
+        "causes": 602
+      },
+      {
+        "name": "Japan",
+        "causes": 132
+      },
+      {
+        "name": "Singapore",
+        "causes": 89
+      },
+      {
+        "name": "Italy",
+        "causes": 76
+      },
+      {
+        "name": "USA",
+        "causes": 35
+      },
+      {
+        "name": "Thailand",
+        "causes": 34
+      },
+      {
+        "name": "Iran",
+        "causes": 28
+      },
+      {
+        "name": "Malaysia",
+        "causes": 22
+      },
+      {
+        "name": "Australia",
+        "causes": 22
+      },
+      {
+        "name": "Germany",
+        "causes": 16
+      },
+      {
+        "name": "Vietnam ",
+        "causes": 15
+      },
+      {
+        "name": "United Arab Emirates",
+        "causes": 13
+      },
+      {
+        "name": "France",
+        "causes": 12
+      },
+      {
+        "name": "United Kingdom",
+        "causes": 9
+      },
+      {
+        "name": "Canada",
+        "causes": 9
+      },
+      {
+        "name": "Philippines",
+        "causes": 3
+      },
+      {
+        "name": "Russian Federation",
+        "causes": 2
+      },
+      {
+        "name": "India",
+        "causes": 2
+      },
+      {
+        "name": "Spain",
+        "causes": 2
+      },
+      {
+        "name": "Lebanon",
+        "causes": 1
+      },
+      {
+        "name": "Nepal",
+        "causes": 1
+      },
+      {
+        "name": "Cambodia",
+        "causes": 1
+      },
+      {
+        "name": "Sri Lanka",
+        "causes": 1
+      },
+      {
+        "name": "Finland",
+        "causes": 1
+      },
+      {
+        "name": "Sweden",
+        "causes": 1
+      },
+      {
+        "name": "Belgium",
+        "causes": 1
+      },
+      {
+        "name": "Egypt",
+        "causes": 1
+      },
+      {
+        "name": "Israel",
+        "causes": 1
+      }
+    ]
+  },
+  {
+    "date": "24 February 2020",
+    "countries": [
+      {
+        "name": "Republic of Korea",
+        "causes": 763
+      },
+      {
+        "name": "Japan",
+        "causes": 144
+      },
+      {
+        "name": "Italy",
+        "causes": 124
+      },
+      {
+        "name": "Singapore",
+        "causes": 89
+      },
+      {
+        "name": "Iran",
+        "causes": 43
+      },
+      {
+        "name": "USA",
+        "causes": 35
+      },
+      {
+        "name": "Thailand",
+        "causes": 34
+      },
+      {
+        "name": "Malaysia",
+        "causes": 22
+      },
+      {
+        "name": "Australia",
+        "causes": 22
+      },
+      {
+        "name": "Germany",
+        "causes": 16
+      },
+      {
+        "name": "Vietnam ",
+        "causes": 15
+      },
+      {
+        "name": "United Arab Emirates",
+        "causes": 13
+      },
+      {
+        "name": "France",
+        "causes": 12
+      },
+      {
+        "name": "United Kingdom",
+        "causes": 9
+      },
+      {
+        "name": "Canada",
+        "causes": 9
+      },
+      {
+        "name": "Philippines",
+        "causes": 3
+      },
+      {
+        "name": "Kuwait",
+        "causes": 3
+      },
+      {
+        "name": "Russian Federation",
+        "causes": 2
+      },
+      {
+        "name": "India",
+        "causes": 2
+      },
+      {
+        "name": "Spain",
+        "causes": 2
+      },
+      {
+        "name": "Lebanon",
+        "causes": 1
+      },
+      {
+        "name": "Nepal",
+        "causes": 1
+      },
+      {
+        "name": "Cambodia",
+        "causes": 1
+      },
+      {
+        "name": "Sri Lanka",
+        "causes": 1
+      },
+      {
+        "name": "Finland",
+        "causes": 1
+      },
+      {
+        "name": "Sweden",
+        "causes": 1
+      },
+      {
+        "name": "Belgium",
+        "causes": 1
+      },
+      {
+        "name": "Egypt",
+        "causes": 1
+      },
+      {
+        "name": "Israel",
+        "causes": 1
+      }
+    ]
+  },
+  {
+    "date": "25 February 2020",
+    "countries": [
+      {
+        "name": "Republic of Korea",
+        "causes": 977
+      },
+      {
+        "name": "Italy",
+        "causes": 229
+      },
+      {
+        "name": "Japan",
+        "causes": 157
+      },
+      {
+        "name": "Singapore",
+        "causes": 90
+      },
+      {
+        "name": "Iran",
+        "causes": 61
+      },
+      {
+        "name": "USA",
+        "causes": 53
+      },
+      {
+        "name": "Thailand",
+        "causes": 37
+      },
+      {
+        "name": "Malaysia",
+        "causes": 22
+      },
+      {
+        "name": "Australia",
+        "causes": 22
+      },
+      {
+        "name": "Germany",
+        "causes": 16
+      },
+      {
+        "name": "Vietnam ",
+        "causes": 15
+      },
+      {
+        "name": "United Arab Emirates",
+        "causes": 13
+      },
+      {
+        "name": "France",
+        "causes": 12
+      },
+      {
+        "name": "Canada",
+        "causes": 10
+      },
+      {
+        "name": "United Kingdom",
+        "causes": 9
+      },
+      {
+        "name": "Bahrain",
+        "causes": 8
+      },
+      {
+        "name": "Kuwait",
+        "causes": 8
+      },
+      {
+        "name": "Philippines",
+        "causes": 3
+      },
+      {
+        "name": "Russian Federation",
+        "causes": 2
+      },
+      {
+        "name": "India",
+        "causes": 2
+      },
+      {
+        "name": "Spain",
+        "causes": 2
+      },
+      {
+        "name": "Israel",
+        "causes": 2
+      },
+      {
+        "name": "Oman",
+        "causes": 2
+      },
+      {
+        "name": "Lebanon",
+        "causes": 1
+      },
+      {
+        "name": "Nepal",
+        "causes": 1
+      },
+      {
+        "name": "Cambodia",
+        "causes": 1
+      },
+      {
+        "name": "Sri Lanka",
+        "causes": 1
+      },
+      {
+        "name": "Finland",
+        "causes": 1
+      },
+      {
+        "name": "Sweden",
+        "causes": 1
+      },
+      {
+        "name": "Belgium",
+        "causes": 1
+      },
+      {
+        "name": "Egypt",
+        "causes": 1
+      },
+      {
+        "name": "Afghanistan",
+        "causes": 1
+      },
+      {
+        "name": "Iraq",
+        "causes": 1
+      }
+    ]
+  },
+  {
+    "date": "26 February 2020",
+    "countries": [
+      {
+        "name": "Republic of Korea",
+        "causes": 1261
+      },
+      {
+        "name": "Italy",
+        "causes": 322
+      },
+      {
+        "name": "Japan",
+        "causes": 164
+      },
+      {
+        "name": "Iran",
+        "causes": 95
+      },
+      {
+        "name": "Singapore",
+        "causes": 91
+      },
+      {
+        "name": "USA",
+        "causes": 53
+      },
+      {
+        "name": "Thailand",
+        "causes": 40
+      },
+      {
+        "name": "Bahrain",
+        "causes": 26
+      },
+      {
+        "name": "Australia",
+        "causes": 23
+      },
+      {
+        "name": "Malaysia",
+        "causes": 22
+      },
+      {
+        "name": "Germany",
+        "causes": 18
+      },
+      {
+        "name": "Vietnam ",
+        "causes": 15
+      },
+      {
+        "name": "United Arab Emirates",
+        "causes": 13
+      },
+      {
+        "name": "France",
+        "causes": 12
+      },
+      {
+        "name": "Kuwait",
+        "causes": 12
+      },
+      {
+        "name": "Canada",
+        "causes": 10
+      },
+      {
+        "name": "United Kingdom",
+        "causes": 9
+      },
+      {
+        "name": "Iraq",
+        "causes": 5
+      },
+      {
+        "name": "Oman",
+        "causes": 4
+      },
+      {
+        "name": "Philippines",
+        "causes": 3
+      },
+      {
+        "name": "Russian Federation",
+        "causes": 2
+      },
+      {
+        "name": "India",
+        "causes": 2
+      },
+      {
+        "name": "Spain",
+        "causes": 2
+      },
+      {
+        "name": "Israel",
+        "causes": 2
+      },
+      {
+        "name": "Austria",
+        "causes": 2
+      },
+      {
+        "name": "Croatia",
+        "causes": 2
+      },
+      {
+        "name": "Lebanon",
+        "causes": 1
+      },
+      {
+        "name": "Nepal",
+        "causes": 1
+      },
+      {
+        "name": "Cambodia",
+        "causes": 1
+      },
+      {
+        "name": "Sri Lanka",
+        "causes": 1
+      },
+      {
+        "name": "Finland",
+        "causes": 1
+      },
+      {
+        "name": "Sweden",
+        "causes": 1
+      },
+      {
+        "name": "Belgium",
+        "causes": 1
+      },
+      {
+        "name": "Egypt",
+        "causes": 1
+      },
+      {
+        "name": "Afghanistan",
+        "causes": 1
+      },
+      {
+        "name": "Switzerland",
+        "causes": 1
+      },
+      {
+        "name": "Algeria",
+        "causes": 1
+      }
+    ]
+  },
+  {
+    "date": "27 February 2020",
+    "countries": [
+      {
+        "name": "Republic of Korea",
+        "causes": 1766
+      },
+      {
+        "name": "Italy",
+        "causes": 400
+      },
+      {
+        "name": "Japan",
+        "causes": 186
+      },
+      {
+        "name": "Iran",
+        "causes": 141
+      },
+      {
+        "name": "Singapore",
+        "causes": 93
+      },
+      {
+        "name": "USA",
+        "causes": 59
+      },
+      {
+        "name": "Kuwait",
+        "causes": 43
+      },
+      {
+        "name": "Thailand",
+        "causes": 40
+      },
+      {
+        "name": "Bahrain",
+        "causes": 33
+      },
+      {
+        "name": "Australia",
+        "causes": 23
+      },
+      {
+        "name": "Malaysia",
+        "causes": 22
+      },
+      {
+        "name": "Germany",
+        "causes": 21
+      },
+      {
+        "name": "France",
+        "causes": 18
+      },
+      {
+        "name": "Vietnam ",
+        "causes": 15
+      },
+      {
+        "name": "United Arab Emirates",
+        "causes": 13
+      },
+      {
+        "name": "Spain",
+        "causes": 12
+      },
+      {
+        "name": "Canada",
+        "causes": 11
+      },
+      {
+        "name": "United Kingdom",
+        "causes": 9
+      },
+      {
+        "name": "Iraq",
+        "causes": 6
+      },
+      {
+        "name": "Oman",
+        "causes": 4
+      },
+      {
+        "name": "Philippines",
+        "causes": 3
+      },
+      {
+        "name": "Croatia",
+        "causes": 3
+      },
+      {
+        "name": "Russian Federation",
+        "causes": 2
+      },
+      {
+        "name": "India",
+        "causes": 2
+      },
+      {
+        "name": "Israel",
+        "causes": 2
+      },
+      {
+        "name": "Austria",
+        "causes": 2
+      },
+      {
+        "name": "Finland",
+        "causes": 2
+      },
+      {
+        "name": "Sweden",
+        "causes": 2
+      },
+      {
+        "name": "Lebanon",
+        "causes": 1
+      },
+      {
+        "name": "Nepal",
+        "causes": 1
+      },
+      {
+        "name": "Cambodia",
+        "causes": 1
+      },
+      {
+        "name": "Sri Lanka",
+        "causes": 1
+      },
+      {
+        "name": "Belgium",
+        "causes": 1
+      },
+      {
+        "name": "Egypt",
+        "causes": 1
+      },
+      {
+        "name": "Afghanistan",
+        "causes": 1
+      },
+      {
+        "name": "Switzerland",
+        "causes": 1
+      },
+      {
+        "name": "Algeria",
+        "causes": 1
+      },
+      {
+        "name": "Brazil",
+        "causes": 1
+      },
+      {
+        "name": "Denmark",
+        "causes": 1
+      },
+      {
+        "name": "Estonia",
+        "causes": 1
+      },
+      {
+        "name": "Georgia",
+        "causes": 1
+      },
+      {
+        "name": "Greece",
+        "causes": 1
+      },
+      {
+        "name": "North Macedonia",
+        "causes": 1
+      },
+      {
+        "name": "Norway",
+        "causes": 1
+      },
+      {
+        "name": "Romania",
+        "causes": 1
+      }
+    ]
+  },
+  {
+    "date": "28 February 2020",
+    "countries": [
+      {
+        "name": "Republic of Korea",
+        "causes": 2337
+      },
+      {
+        "name": "Italy",
+        "causes": 650
+      },
+      {
+        "name": "Iran",
+        "causes": 245
+      },
+      {
+        "name": "Japan",
+        "causes": 210
+      },
+      {
+        "name": "Singapore",
+        "causes": 96
+      },
+      {
+        "name": "USA",
+        "causes": 59
+      },
+      {
+        "name": "Kuwait",
+        "causes": 43
+      },
+      {
+        "name": "Thailand",
+        "causes": 40
+      },
+      {
+        "name": "France",
+        "causes": 38
+      },
+      {
+        "name": "Bahrain",
+        "causes": 33
+      },
+      {
+        "name": "Germany",
+        "causes": 26
+      },
+      {
+        "name": "Spain",
+        "causes": 25
+      },
+      {
+        "name": "Malaysia",
+        "causes": 24
+      },
+      {
+        "name": "Australia",
+        "causes": 23
+      },
+      {
+        "name": "United Arab Emirates",
+        "causes": 19
+      },
+      {
+        "name": "United Kingdom",
+        "causes": 16
+      },
+      {
+        "name": "Vietnam ",
+        "causes": 15
+      },
+      {
+        "name": "Canada",
+        "causes": 11
+      },
+      {
+        "name": "Sweden",
+        "causes": 7
+      },
+      {
+        "name": "Iraq",
+        "causes": 7
+      },
+      {
+        "name": "Switzerland",
+        "causes": 6
+      },
+      {
+        "name": "Oman",
+        "causes": 6
+      },
+      {
+        "name": "Austria",
+        "causes": 4
+      },
+      {
+        "name": "Norway",
+        "causes": 4
+      },
+      {
+        "name": "Philippines",
+        "causes": 3
+      },
+      {
+        "name": "Croatia",
+        "causes": 3
+      },
+      {
+        "name": "Israel",
+        "causes": 3
+      },
+      {
+        "name": "Greece",
+        "causes": 3
+      },
+      {
+        "name": "Russian Federation",
+        "causes": 2
+      },
+      {
+        "name": "India",
+        "causes": 2
+      },
+      {
+        "name": "Finland",
+        "causes": 2
+      },
+      {
+        "name": "Lebanon",
+        "causes": 1
+      },
+      {
+        "name": "Nepal",
+        "causes": 1
+      },
+      {
+        "name": "Cambodia",
+        "causes": 1
+      },
+      {
+        "name": "Sri Lanka",
+        "causes": 1
+      },
+      {
+        "name": "Belgium",
+        "causes": 1
+      },
+      {
+        "name": "Egypt",
+        "causes": 1
+      },
+      {
+        "name": "Afghanistan",
+        "causes": 1
+      },
+      {
+        "name": "Algeria",
+        "causes": 1
+      },
+      {
+        "name": "Brazil",
+        "causes": 1
+      },
+      {
+        "name": "Denmark",
+        "causes": 1
+      },
+      {
+        "name": "Estonia",
+        "causes": 1
+      },
+      {
+        "name": "Georgia",
+        "causes": 1
+      },
+      {
+        "name": "North Macedonia",
+        "causes": 1
+      },
+      {
+        "name": "Romania",
+        "causes": 1
+      },
+      {
+        "name": "New Zealand",
+        "causes": 1
+      },
+      {
+        "name": "Belarus",
+        "causes": 1
+      },
+      {
+        "name": "Lithuanias",
+        "causes": 1
+      },
+      {
+        "name": "Netherlands",
+        "causes": 1
+      },
+      {
+        "name": "Nigeria",
+        "causes": 1
+      }
+    ]
+  },
+  {
+    "date": "29 February 2020",
+    "countries": [
+      {
+        "name": "Republic of Korea",
+        "causes": 3150
+      },
+      {
+        "name": "Italy",
+        "causes": 888
+      },
+      {
+        "name": "Iran",
+        "causes": 245
+      },
+      {
+        "name": "Japan",
+        "causes": 230
+      },
+      {
+        "name": "Singapore",
+        "causes": 98
+      },
+      {
+        "name": "USA",
+        "causes": 59
+      },
+      {
+        "name": "France",
+        "causes": 57
+      },
+      {
+        "name": "Germany",
+        "causes": 57
+      },
+      {
+        "name": "Kuwait",
+        "causes": 45
+      },
+      {
+        "name": "Thailand",
+        "causes": 42
+      },
+      {
+        "name": "Bahrain",
+        "causes": 38
+      },
+      {
+        "name": "Spain",
+        "causes": 32
+      },
+      {
+        "name": "Malaysia",
+        "causes": 24
+      },
+      {
+        "name": "Australia",
+        "causes": 24
+      },
+      {
+        "name": "United Kingdom",
+        "causes": 20
+      },
+      {
+        "name": "United Arab Emirates",
+        "causes": 19
+      },
+      {
+        "name": "Vietnam ",
+        "causes": 15
+      },
+      {
+        "name": "Sweden",
+        "causes": 12
+      },
+      {
+        "name": "Canada",
+        "causes": 11
+      },
+      {
+        "name": "Switzerland",
+        "causes": 10
+      },
+      {
+        "name": "Iraq",
+        "causes": 8
+      },
+      {
+        "name": "Oman",
+        "causes": 6
+      },
+      {
+        "name": "Norway",
+        "causes": 6
+      },
+      {
+        "name": "Austria",
+        "causes": 5
+      },
+      {
+        "name": "Croatia",
+        "causes": 5
+      },
+      {
+        "name": "Israel",
+        "causes": 5
+      },
+      {
+        "name": "Philippines",
+        "causes": 3
+      },
+      {
+        "name": "Greece",
+        "causes": 3
+      },
+      {
+        "name": "Romania",
+        "causes": 3
+      },
+      {
+        "name": "Russian Federation",
+        "causes": 2
+      },
+      {
+        "name": "India",
+        "causes": 2
+      },
+      {
+        "name": "Finland",
+        "causes": 2
+      },
+      {
+        "name": "Pakistan",
+        "causes": 2
+      },
+      {
+        "name": "Georgia",
+        "causes": 2
+      },
+      {
+        "name": "Denmark",
+        "causes": 2
+      },
+      {
+        "name": "Netherlands",
+        "causes": 2
+      },
+      {
+        "name": "Lebanon",
+        "causes": 1
+      },
+      {
+        "name": "Nepal",
+        "causes": 1
+      },
+      {
+        "name": "Cambodia",
+        "causes": 1
+      },
+      {
+        "name": "Sri Lanka",
+        "causes": 1
+      },
+      {
+        "name": "Belgium",
+        "causes": 1
+      },
+      {
+        "name": "Egypt",
+        "causes": 1
+      },
+      {
+        "name": "Afghanistan",
+        "causes": 1
+      },
+      {
+        "name": "Algeria",
+        "causes": 1
+      },
+      {
+        "name": "Brazil",
+        "causes": 1
+      },
+      {
+        "name": "Estonia",
+        "causes": 1
+      },
+      {
+        "name": "North Macedonia",
+        "causes": 1
+      },
+      {
+        "name": "New Zealand",
+        "causes": 1
+      },
+      {
+        "name": "Belarus",
+        "causes": 1
+      },
+      {
+        "name": "Lithuanias",
+        "causes": 1
+      },
+      {
+        "name": "Nigeria",
+        "causes": 1
+      },
+      {
+        "name": "San Marino",
+        "causes": 1
+      }
+    ]
+  },
+  {
+    "date": "1 March 2020",
+    "countries": [
+      {
+        "name": "Republic of Korea",
+        "causes": 3736
+      },
+      {
+        "name": "Italy",
+        "causes": 1128
+      },
+      {
+        "name": "Iran",
+        "causes": 593
+      },
+      {
+        "name": "Japan",
+        "causes": 239
+      },
+      {
+        "name": "Singapore",
+        "causes": 102
+      },
+      {
+        "name": "France",
+        "causes": 100
+      },
+      {
+        "name": "USA",
+        "causes": 59
+      },
+      {
+        "name": "Germany",
+        "causes": 57
+      },
+      {
+        "name": "Kuwait",
+        "causes": 45
+      },
+      {
+        "name": "Spain",
+        "causes": 45
+      },
+      {
+        "name": "Thailand",
+        "causes": 42
+      },
+      {
+        "name": "Bahrain",
+        "causes": 40
+      },
+      {
+        "name": "Australia",
+        "causes": 25
+      },
+      {
+        "name": "Malaysia",
+        "causes": 24
+      },
+      {
+        "name": "United Kingdom",
+        "causes": 23
+      },
+      {
+        "name": "United Arab Emirates",
+        "causes": 19
+      },
+      {
+        "name": "Canada",
+        "causes": 19
+      },
+      {
+        "name": "Switzerland",
+        "causes": 18
+      },
+      {
+        "name": "Vietnam ",
+        "causes": 15
+      },
+      {
+        "name": "Norway",
+        "causes": 15
+      },
+      {
+        "name": "Sweden",
+        "causes": 13
+      },
+      {
+        "name": "Iraq",
+        "causes": 13
+      },
+      {
+        "name": "Austria",
+        "causes": 10
+      },
+      {
+        "name": "Croatia",
+        "causes": 7
+      },
+      {
+        "name": "Israel",
+        "causes": 7
+      },
+      {
+        "name": "Netherlands",
+        "causes": 7
+      },
+      {
+        "name": "Oman",
+        "causes": 6
+      },
+      {
+        "name": "Pakistan",
+        "causes": 4
+      },
+      {
+        "name": "Philippines",
+        "causes": 3
+      },
+      {
+        "name": "Greece",
+        "causes": 3
+      },
+      {
+        "name": "Romania",
+        "causes": 3
+      },
+      {
+        "name": "Georgia",
+        "causes": 3
+      },
+      {
+        "name": "Denmark",
+        "causes": 3
+      },
+      {
+        "name": "Russian Federation",
+        "causes": 2
+      },
+      {
+        "name": "India",
+        "causes": 2
+      },
+      {
+        "name": "Finland",
+        "causes": 2
+      },
+      {
+        "name": "Brazil",
+        "causes": 2
+      },
+      {
+        "name": "Lebanon",
+        "causes": 1
+      },
+      {
+        "name": "Nepal",
+        "causes": 1
+      },
+      {
+        "name": "Cambodia",
+        "causes": 1
+      },
+      {
+        "name": "Sri Lanka",
+        "causes": 1
+      },
+      {
+        "name": "Belgium",
+        "causes": 1
+      },
+      {
+        "name": "Egypt",
+        "causes": 1
+      },
+      {
+        "name": "Afghanistan",
+        "causes": 1
+      },
+      {
+        "name": "Algeria",
+        "causes": 1
+      },
+      {
+        "name": "Estonia",
+        "causes": 1
+      },
+      {
+        "name": "North Macedonia",
+        "causes": 1
+      },
+      {
+        "name": "New Zealand",
+        "causes": 1
+      },
+      {
+        "name": "Belarus",
+        "causes": 1
+      },
+      {
+        "name": "Lithuanias",
+        "causes": 1
+      },
+      {
+        "name": "Nigeria",
+        "causes": 1
+      },
+      {
+        "name": "San Marino",
+        "causes": 1
+      },
+      {
+        "name": "Azerbaijan",
+        "causes": 1
+      },
+      {
+        "name": "Ireland",
+        "causes": 1
+      },
+      {
+        "name": "Monaco",
+        "causes": 1
+      },
+      {
+        "name": "Qatar",
+        "causes": 1
+      },
+      {
+        "name": "Ecuador",
+        "causes": 1
+      }
+    ]
+  },
+  {
+    "date": "2 March 2020",
+    "countries": [
+      {
+        "name": "Republic of Korea",
+        "causes": 4212
+      },
+      {
+        "name": "Japan",
+        "causes": 254
+      },
+      {
+        "name": "Singapore",
+        "causes": 106
+      },
+      {
+        "name": "Australia",
+        "causes": 27
+      },
+      {
+        "name": "Malaysia",
+        "causes": 24
+      },
+      {
+        "name": "Vietnam ",
+        "causes": 15
+      },
+      {
+        "name": "Philippines",
+        "causes": 3
+      },
+      {
+        "name": "Cambodia",
+        "causes": 1
+      },
+      {
+        "name": "New Zealand",
+        "causes": 1
+      },
+      {
+        "name": "Italy",
+        "causes": 1689
+      },
+      {
+        "name": "Germany",
+        "causes": 129
+      },
+      {
+        "name": "France",
+        "causes": 100
+      },
+      {
+        "name": "Spain",
+        "causes": 45
+      },
+      {
+        "name": "United Kingdom",
+        "causes": 36
+      },
+      {
+        "name": "Switzerland",
+        "causes": 24
+      },
+      {
+        "name": "Norway",
+        "causes": 19
+      },
+      {
+        "name": "Sweden",
+        "causes": 14
+      },
+      {
+        "name": "Netherlands",
+        "causes": 13
+      },
+      {
+        "name": "Austria",
+        "causes": 10
+      },
+      {
+        "name": "Netherlands",
+        "causes": 13
+      },
+      {
+        "name": "Austria",
+        "causes": 10
+      },
+      {
+        "name": "Croatia",
+        "causes": 7
+      },
+      {
+        "name": "Greece",
+        "causes": 7
+      },
+      {
+        "name": "Israel",
+        "causes": 7
+      },
+      {
+        "name": "Finland",
+        "causes": 6
+      },
+      {
+        "name": "Denmark",
+        "causes": 4
+      },
+      {
+        "name": "Azerbaijan",
+        "causes": 3
+      },
+      {
+        "name": "Czechia",
+        "causes": 3
+      },
+      {
+        "name": "Georgia",
+        "causes": 3
+      },
+      {
+        "name": "Romania",
+        "causes": 3
+      },
+      {
+        "name": "Iceland",
+        "causes": 2
+      },
+      {
+        "name": "Russia Federation",
+        "causes": 2
+      },
+      {
+        "name": "Armenia",
+        "causes": 1
+      },
+      {
+        "name": "Belarus",
+        "causes": 1
+      },
+      {
+        "name": "Belgium",
+        "causes": 1
+      },
+      {
+        "name": "Estonia",
+        "causes": 1
+      },
+      {
+        "name": "Ireland",
+        "causes": 1
+      },
+      {
+        "name": "Lithuania",
+        "causes": 1
+      },
+      {
+        "name": "Luxembourg",
+        "causes": 1
+      },
+      {
+        "name": "Monaco",
+        "causes": 1
+      },
+      {
+        "name": "North Macedonia",
+        "causes": 1
+      },
+      {
+        "name": "San Marino",
+        "causes": 1
+      },
+      {
+        "name": "Thailand",
+        "causes": 42
+      },
+      {
+        "name": "India",
+        "causes": 3
+      },
+      {
+        "name": "Indonesia",
+        "causes": 2
+      },
+      {
+        "name": "Nepal",
+        "causes": 1
+      },
+      {
+        "name": "Sri Lanka",
+        "causes": 1
+      },
+      {
+        "name": "Iran",
+        "causes": 978
+      },
+      {
+        "name": "Kuwait",
+        "causes": 56
+      },
+      {
+        "name": "Bahrain",
+        "causes": 47
+      },
+      {
+        "name": "United Arab Emirates",
+        "causes": 21
+      },
+      {
+        "name": "Iraq",
+        "causes": 19
+      },
+      {
+        "name": "Lebon",
+        "causes": 10
+      },
+      {
+        "name": "Oman",
+        "causes": 6
+      },
+      {
+        "name": "Pakistan",
+        "causes": 4
+      },
+      {
+        "name": "Qatar",
+        "causes": 3
+      },
+      {
+        "name": "Egypt",
+        "causes": 2
+      },
+      {
+        "name": "Afghanistan",
+        "causes": 1
+      },
+      {
+        "name": "USA",
+        "causes": 62
+      },
+      {
+        "name": "Canada",
+        "causes": 19
+      },
+      {
+        "name": "Mexico",
+        "causes": 5
+      },
+      {
+        "name": "Dominican Republic",
+        "causes": 2
+      },
+      {
+        "name": "Brazil",
+        "causes": 1
+      },
+      {
+        "name": "Algeria",
+        "causes": 1
+      },
+      {
+        "name": "Nigeria",
+        "causes": 1
+      },
+      {
+        "name": "International conveyance",
+        "causes": 706
+      }
+    ]
+  },
+  {
+    "date": "3 March 2020",
+    "countries": [
+      {
+        "name": "Republic of Korea",
+        "causes": 4812
+      },
+      {
+        "name": "Japan",
+        "causes": 268
+      },
+      {
+        "name": "Singapore",
+        "causes": 108
+      },
+      {
+        "name": "Australia",
+        "causes": 33
+      },
+      {
+        "name": "Malaysia",
+        "causes": 29
+      },
+      {
+        "name": "Vietnam ",
+        "causes": 15
+      },
+      {
+        "name": "Philippines",
+        "causes": 3
+      },
+      {
+        "name": "New Zealand",
+        "causes": 2
+      },
+      {
+        "name": "Cambodia",
+        "causes": 1
+      },
+      {
+        "name": "Italy",
+        "causes": 2036
+      },
+      {
+        "name": "France",
+        "causes": 191
+      },
+      {
+        "name": "Germany",
+        "causes": 157
+      },
+      {
+        "name": "Spain",
+        "causes": 114
+      },
+      {
+        "name": "United Kingdom",
+        "causes": 39
+      },
+      {
+        "name": "Switzerland",
+        "causes": 30
+      },
+      {
+        "name": "Norway",
+        "causes": 25
+      },
+      {
+        "name": "Netherlands",
+        "causes": 18
+      },
+      {
+        "name": "Austria",
+        "causes": 18
+      },
+      {
+        "name": "Sweden",
+        "causes": 15
+      },
+      {
+        "name": "Israel",
+        "causes": 10
+      },
+      {
+        "name": "Iceland",
+        "causes": 9
+      },
+      {
+        "name": "Croatia",
+        "causes": 8
+      },
+      {
+        "name": "Greece",
+        "causes": 7
+      },
+      {
+        "name": "Finland",
+        "causes": 6
+      },
+      {
+        "name": "Denmark",
+        "causes": 5
+      },
+      {
+        "name": "Azerbaijan",
+        "causes": 3
+      },
+      {
+        "name": "Czechia",
+        "causes": 3
+      },
+      {
+        "name": "Georgia",
+        "causes": 3
+      },
+      {
+        "name": "Romania",
+        "causes": 3
+      },
+      {
+        "name": "Russia Federation",
+        "causes": 3
+      },
+      {
+        "name": "Portugal",
+        "causes": 2
+      },
+      {
+        "name": "Andorra",
+        "causes": 1
+      },
+      {
+        "name": "Latvia",
+        "causes": 1
+      },
+      {
+        "name": "Armenia",
+        "causes": 1
+      },
+      {
+        "name": "Belarus",
+        "causes": 1
+      },
+      {
+        "name": "Belgium",
+        "causes": 1
+      },
+      {
+        "name": "Estonia",
+        "causes": 1
+      },
+      {
+        "name": "Ireland",
+        "causes": 1
+      },
+      {
+        "name": "Lithuania",
+        "causes": 1
+      },
+      {
+        "name": "Luxembourg",
+        "causes": 1
+      },
+      {
+        "name": "Monaco",
+        "causes": 1
+      },
+      {
+        "name": "North Macedonia",
+        "causes": 1
+      },
+      {
+        "name": "San Marino",
+        "causes": 1
+      },
+      {
+        "name": "Thailand",
+        "causes": 43
+      },
+      {
+        "name": "India",
+        "causes": 5
+      },
+      {
+        "name": "Indonesia",
+        "causes": 2
+      },
+      {
+        "name": "Nepal",
+        "causes": 1
+      },
+      {
+        "name": "Sri Lanka",
+        "causes": 1
+      },
+      {
+        "name": "Iran",
+        "causes": 1501
+      },
+      {
+        "name": "Kuwait",
+        "causes": 56
+      },
+      {
+        "name": "Bahrain",
+        "causes": 49
+      },
+      {
+        "name": "United Arab Emirates",
+        "causes": 21
+      },
+      {
+        "name": "Iraq",
+        "causes": 26
+      },
+      {
+        "name": "Lebon",
+        "causes": 13
+      },
+      {
+        "name": "Oman",
+        "causes": 6
+      },
+      {
+        "name": "Pakistan",
+        "causes": 5
+      },
+      {
+        "name": "Qatar",
+        "causes": 6
+      },
+      {
+        "name": "Egypt",
+        "causes": 2
+      },
+      {
+        "name": "Afghanistan",
+        "causes": 1
+      },
+      {
+        "name": "Jordan",
+        "causes": 1
+      },
+      {
+        "name": "Morocco",
+        "causes": 1
+      },
+      {
+        "name": "Saudi Arabia",
+        "causes": 1
+      },
+      {
+        "name": "Tunisia",
+        "causes": 1
+      },
+      {
+        "name": "USA",
+        "causes": 64
+      },
+      {
+        "name": "Canada",
+        "causes": 24
+      },
+      {
+        "name": "Mexico",
+        "causes": 6
+      },
+      {
+        "name": "Dominican Republic",
+        "causes": 2
+      },
+      {
+        "name": "Brazil",
+        "causes": 1
+      },
+      {
+        "name": "Algeria",
+        "causes": 5
+      },
+      {
+        "name": "Nigeria",
+        "causes": 1
+      },
+      {
+        "name": "Senegal",
+        "causes": 1
+      },
+      {
+        "name": "International conveyance",
+        "causes": 706
+      }
+    ]
+  },
+  {
+    "date": "4 March 2020",
+    "countries": [
+      {
+        "name": "Republic of Korea",
+        "causes": 5328
+      },
+      {
+        "name": "Japan",
+        "causes": 284
+      },
+      {
+        "name": "Singapore",
+        "causes": 110
+      },
+      {
+        "name": "Malaysia",
+        "causes": 50
+      },
+      {
+        "name": "Australia",
+        "causes": 43
+      },
+      {
+        "name": "Vietnam ",
+        "causes": 16
+      },
+      {
+        "name": "Philippines",
+        "causes": 3
+      },
+      {
+        "name": "New Zealand",
+        "causes": 2
+      },
+      {
+        "name": "Cambodia",
+        "causes": 1
+      },
+      {
+        "name": "Italy",
+        "causes": 2502
+      },
+      {
+        "name": "France",
+        "causes": 212
+      },
+      {
+        "name": "Germany",
+        "causes": 196
+      },
+      {
+        "name": "Spain",
+        "causes": 151
+      },
+      {
+        "name": "United Kingdom",
+        "causes": 51
+      },
+      {
+        "name": "Switzerland",
+        "causes": 37
+      },
+      {
+        "name": "Norway",
+        "causes": 33
+      },
+      {
+        "name": "Netherlands",
+        "causes": 28
+      },
+      {
+        "name": "Austria",
+        "causes": 24
+      },
+      {
+        "name": "Sweden",
+        "causes": 24
+      },
+      {
+        "name": "Iceland",
+        "causes": 16
+      },
+      {
+        "name": "Israel",
+        "causes": 12
+      },
+      {
+        "name": "Croatia",
+        "causes": 9
+      },
+      {
+        "name": "Belgium",
+        "causes": 8
+      },
+      {
+        "name": "Denmark",
+        "causes": 8
+      },
+      {
+        "name": "San Marino",
+        "causes": 8
+      },
+      {
+        "name": "Finland",
+        "causes": 7
+      },
+      {
+        "name": "Greece",
+        "causes": 7
+      },
+      {
+        "name": "Czechia",
+        "causes": 5
+      },
+      {
+        "name": "Romania",
+        "causes": 4
+      },
+      {
+        "name": "Azerbaijan",
+        "causes": 3
+      },
+      {
+        "name": "Georgia",
+        "causes": 3
+      },
+      {
+        "name": "Russia Federation",
+        "causes": 3
+      },
+      {
+        "name": "Estonia",
+        "causes": 2
+      },
+      {
+        "name": "Ireland",
+        "causes": 2
+      },
+      {
+        "name": "Portugal",
+        "causes": 2
+      },
+      {
+        "name": "Andorra",
+        "causes": 1
+      },
+      {
+        "name": "Latvia",
+        "causes": 1
+      },
+      {
+        "name": "Armenia",
+        "causes": 1
+      },
+      {
+        "name": "Belarus",
+        "causes": 1
+      },
+      {
+        "name": "Lithuania",
+        "causes": 1
+      },
+      {
+        "name": "Luxembourg",
+        "causes": 1
+      },
+      {
+        "name": "Monaco",
+        "causes": 1
+      },
+      {
+        "name": "North Macedonia",
+        "causes": 1
+      },
+      {
+        "name": "Poland",
+        "causes": 1
+      },
+      {
+        "name": "Ukraine",
+        "causes": 1
+      },
+      {
+        "name": "Thailand",
+        "causes": 43
+      },
+      {
+        "name": "India",
+        "causes": 5
+      },
+      {
+        "name": "Indonesia",
+        "causes": 2
+      },
+      {
+        "name": "Nepal",
+        "causes": 1
+      },
+      {
+        "name": "Sri Lanka",
+        "causes": 1
+      },
+      {
+        "name": "Iran",
+        "causes": 1501
+      },
+      {
+        "name": "Kuwait",
+        "causes": 56
+      },
+      {
+        "name": "Bahrain",
+        "causes": 49
+      },
+      {
+        "name": "United Arab Emirates",
+        "causes": 21
+      },
+      {
+        "name": "Iraq",
+        "causes": 26
+      },
+      {
+        "name": "Lebon",
+        "causes": 13
+      },
+      {
+        "name": "Oman",
+        "causes": 6
+      },
+      {
+        "name": "Pakistan",
+        "causes": 5
+      },
+      {
+        "name": "Qatar",
+        "causes": 6
+      },
+      {
+        "name": "Egypt",
+        "causes": 2
+      },
+      {
+        "name": "Afghanistan",
+        "causes": 1
+      },
+      {
+        "name": "Jordan",
+        "causes": 1
+      },
+      {
+        "name": "Morocco",
+        "causes": 1
+      },
+      {
+        "name": "Saudi Arabia",
+        "causes": 1
+      },
+      {
+        "name": "Tunisia",
+        "causes": 1
+      },
+      {
+        "name": "USA",
+        "causes": 64
+      },
+      {
+        "name": "Canada",
+        "causes": 24
+      },
+      {
+        "name": "Mexico",
+        "causes": 6
+      },
+      {
+        "name": "Dominican Republic",
+        "causes": 2
+      },
+      {
+        "name": "Brazil",
+        "causes": 1
+      },
+      {
+        "name": "Algeria",
+        "causes": 5
+      },
+      {
+        "name": "Nigeria",
+        "causes": 1
+      },
+      {
+        "name": "Senegal",
+        "causes": 1
+      },
+      {
+        "name": "International conveyance",
+        "causes": 706
+      }
+    ]
+  },
+  {
+    "date": "5 March 2020",
+    "countries": [
+      {
+        "name": "Republic of Korea",
+        "causes": 5766
+      },
+      {
+        "name": "Japan",
+        "causes": 317
+      },
+      {
+        "name": "Singapore",
+        "causes": 108
+      },
+      {
+        "name": "Australia",
+        "causes": 57
+      },
+      {
+        "name": "Malaysia",
+        "causes": 29
+      },
+      {
+        "name": "Vietnam ",
+        "causes": 15
+      },
+      {
+        "name": "Philippines",
+        "causes": 3
+      },
+      {
+        "name": "New Zealand",
+        "causes": 2
+      },
+      {
+        "name": "Cambodia",
+        "causes": 1
+      },
+      {
+        "name": "Italy",
+        "causes": 3089
+      },
+      {
+        "name": "France",
+        "causes": 282
+      },
+      {
+        "name": "Germany",
+        "causes": 262
+      },
+      {
+        "name": "Spain",
+        "causes": 198
+      },
+      {
+        "name": "United Kingdom",
+        "causes": 89
+      },
+      {
+        "name": "Switzerland",
+        "causes": 56
+      },
+      {
+        "name": "Norway",
+        "causes": 56
+      },
+      {
+        "name": "Netherlands",
+        "causes": 28
+      },
+      {
+        "name": "Austria",
+        "causes": 37
+      },
+      {
+        "name": "Sweden",
+        "causes": 35
+      },
+      {
+        "name": "Iceland",
+        "causes": 26
+      },
+      {
+        "name": "Belgium",
+        "causes": 23
+      },
+      {
+        "name": "San Marino",
+        "causes": 16
+      },
+      {
+        "name": "Israel",
+        "causes": 15
+      },
+      {
+        "name": "Denmark",
+        "causes": 10
+      },
+      {
+        "name": "Croatia",
+        "causes": 9
+      },
+      {
+        "name": "Greece",
+        "causes": 9
+      },
+      {
+        "name": "Portugal",
+        "causes": 7
+      },
+      {
+        "name": "Finland",
+        "causes": 7
+      },
+      {
+        "name": "Belarus",
+        "causes": 6
+      },
+      {
+        "name": "Azerbaijan",
+        "causes": 3
+      },
+      {
+        "name": "Czechia",
+        "causes": 3
+      },
+      {
+        "name": "Georgia",
+        "causes": 3
+      },
+      {
+        "name": "Romania",
+        "causes": 4
+      },
+      {
+        "name": "Russia Federation",
+        "causes": 3
+      },
+      {
+        "name": "Bosnia and Herzegovina",
+        "causes": 3
+      },
+      {
+        "name": "Armenia",
+        "causes": 3
+      },
+      {
+        "name": "Estonia",
+        "causes": 2
+      },
+      {
+        "name": "Hungary",
+        "causes": 2
+      },
+      {
+        "name": "Andorra",
+        "causes": 1
+      },
+      {
+        "name": "Latvia",
+        "causes": 1
+      },
+      {
+        "name": "Ireland",
+        "causes": 1
+      },
+      {
+        "name": "Lithuania",
+        "causes": 1
+      },
+      {
+        "name": "Luxembourg",
+        "causes": 1
+      },
+      {
+        "name": "Monaco",
+        "causes": 1
+      },
+      {
+        "name": "North Macedonia",
+        "causes": 1
+      },
+      {
+        "name": "Slovenia",
+        "causes": 1
+      },
+      {
+        "name": "Poland",
+        "causes": 1
+      },
+      {
+        "name": "Liechtenstein",
+        "causes": 1
+      },
+      {
+        "name": "Ukraine",
+        "causes": 1
+      },
+      {
+        "name": "Gibraltar",
+        "causes": 1
+      },
+      {
+        "name": "Thailand",
+        "causes": 47
+      },
+      {
+        "name": "India",
+        "causes": 29
+      },
+      {
+        "name": "Indonesia",
+        "causes": 2
+      },
+      {
+        "name": "Nepal",
+        "causes": 1
+      },
+      {
+        "name": "Sri Lanka",
+        "causes": 1
+      },
+      {
+        "name": "Iran",
+        "causes": 2922
+      },
+      {
+        "name": "Kuwait",
+        "causes": 58
+      },
+      {
+        "name": "Bahrain",
+        "causes": 49
+      },
+      {
+        "name": "Iraq",
+        "causes": 36
+      },
+      {
+        "name": "United Arab Emirates",
+        "causes": 27
+      },
+      {
+        "name": "Oman",
+        "causes": 15
+      },
+      {
+        "name": "Lebon",
+        "causes": 13
+      },
+      {
+        "name": "Qatar",
+        "causes": 8
+      },
+      {
+        "name": "Pakistan",
+        "causes": 5
+      },
+      {
+        "name": "Egypt",
+        "causes": 2
+      },
+      {
+        "name": "Morocco",
+        "causes": 2
+      },
+      {
+        "name": "Saudi Arabia",
+        "causes": 2
+      },
+      {
+        "name": "Afghanistan",
+        "causes": 1
+      },
+      {
+        "name": "Jordan",
+        "causes": 1
+      },
+      {
+        "name": "Tunisia",
+        "causes": 1
+      },
+      {
+        "name": "Palestina",
+        "causes": 4
+      },
+      {
+        "name": "USA",
+        "causes": 129
+      },
+      {
+        "name": "Canada",
+        "causes": 30
+      },
+      {
+        "name": "Ecuator",
+        "causes": 7
+      },
+      {
+        "name": "Mexico",
+        "causes": 5
+      },
+      {
+        "name": "Brazil",
+        "causes": 3
+      },
+      {
+        "name": "Argentina",
+        "causes": 1
+      },
+      {
+        "name": "Chile",
+        "causes": 1
+      },
+      {
+        "name": "Dominican Republic",
+        "causes": 1
+      },
+      {
+        "name": "Algeria",
+        "causes": 5
+      },
+      {
+        "name": "Senegal",
+        "causes": 4
+      },
+      {
+        "name": "Nigeria",
+        "causes": 1
+      },
+      {
+        "name": "International conveyance",
+        "causes": 706
+      }
+    ]
+  },
+  {
+    "date": "6 March 2020",
+    "countries": [
+      {
+        "name": "Republic of Korea",
+        "causes": 6284
+      },
+      {
+        "name": "Japan",
+        "causes": 349
+      },
+      {
+        "name": "Singapore",
+        "causes": 117
+      },
+      {
+        "name": "Australia",
+        "causes": 57
+      },
+      {
+        "name": "Malaysia",
+        "causes": 55
+      },
+      {
+        "name": "Vietnam ",
+        "causes": 16
+      },
+      {
+        "name": "Philippines",
+        "causes": 5
+      },
+      {
+        "name": "New Zealand",
+        "causes": 4
+      },
+      {
+        "name": "Cambodia",
+        "causes": 1
+      },
+      {
+        "name": "Italy",
+        "causes": 3858
+      },
+      {
+        "name": "Germany",
+        "causes": 534
+      },
+      {
+        "name": "France",
+        "causes": 420
+      },
+      {
+        "name": "Spain",
+        "causes": 257
+      },
+      {
+        "name": "United Kingdom",
+        "causes": 118
+      },
+      {
+        "name": "Norway",
+        "causes": 86
+      },
+      {
+        "name": "Switzerland",
+        "causes": 86
+      },
+      {
+        "name": "Netherlands",
+        "causes": 82
+      },
+      {
+        "name": "Sweden",
+        "causes": 61
+      },
+      {
+        "name": "Belgium",
+        "causes": 50
+      },
+      {
+        "name": "Austria",
+        "causes": 47
+      },
+      {
+        "name": "Greece",
+        "causes": 32
+      },
+      {
+        "name": "Iceland",
+        "causes": 26
+      },
+      {
+        "name": "San Marino",
+        "causes": 21
+      },
+      {
+        "name": "Denmark",
+        "causes": 18
+      },
+      {
+        "name": "Israel",
+        "causes": 15
+      },
+      {
+        "name": "Ireland",
+        "causes": 14
+      },
+      {
+        "name": "Czechia",
+        "causes": 12
+      },
+      {
+        "name": "Finland",
+        "causes": 12
+      },
+      {
+        "name": "Croatia",
+        "causes": 10
+      },
+      {
+        "name": "Georgia",
+        "causes": 9
+      },
+      {
+        "name": "Portugal",
+        "causes": 9
+      },
+      {
+        "name": "Belarus",
+        "causes": 6
+      },
+      {
+        "name": "Romania",
+        "causes": 6
+      },
+      {
+        "name": "Russia Federation",
+        "causes": 4
+      },
+      {
+        "name": "Azerbaijan",
+        "causes": 3
+      },
+      {
+        "name": "Bosnia and Herzegovina",
+        "causes": 2
+      },
+      {
+        "name": "Estonia",
+        "causes": 2
+      },
+      {
+        "name": "Hungary",
+        "causes": 2
+      },
+      {
+        "name": "Andorra",
+        "causes": 1
+      },
+      {
+        "name": "Armenia",
+        "causes": 1
+      },
+      {
+        "name": "Latvia",
+        "causes": 1
+      },
+      {
+        "name": "Liechtenstein",
+        "causes": 1
+      },
+      {
+        "name": "Lithuania",
+        "causes": 1
+      },
+      {
+        "name": "Luxembourg",
+        "causes": 1
+      },
+      {
+        "name": "Monaco",
+        "causes": 1
+      },
+      {
+        "name": "North Macedonia",
+        "causes": 1
+      },
+      {
+        "name": "Slovenia",
+        "causes": 1
+      },
+      {
+        "name": "Poland",
+        "causes": 1
+      },
+      {
+        "name": "Serbia",
+        "causes": 1
+      },
+      {
+        "name": "Ukraine",
+        "causes": 1
+      },
+      {
+        "name": "Gibraltar",
+        "causes": 1
+      },
+      {
+        "name": "Thailand",
+        "causes": 47
+      },
+      {
+        "name": "India",
+        "causes": 30
+      },
+      {
+        "name": "Indonesia",
+        "causes": 2
+      },
+      {
+        "name": "Bhutan",
+        "causes": 1
+      },
+      {
+        "name": "Nepal",
+        "causes": 1
+      },
+      {
+        "name": "Sri Lanka",
+        "causes": 1
+      },
+      {
+        "name": "Iran",
+        "causes": 3513
+      },
+      {
+        "name": "Kuwait",
+        "causes": 58
+      },
+      {
+        "name": "Bahrain",
+        "causes": 49
+      },
+      {
+        "name": "Iraq",
+        "causes": 36
+      },
+      {
+        "name": "United Arab Emirates",
+        "causes": 27
+      },
+      {
+        "name": "Lebon",
+        "causes": 16
+      },
+      {
+        "name": "Oman",
+        "causes": 16
+      },
+      {
+        "name": "Qatar",
+        "causes": 8
+      },
+      {
+        "name": "Saudi Arabia",
+        "causes": 8
+      },
+      {
+        "name": "Pakistan",
+        "causes": 5
+      },
+      {
+        "name": "Egypt",
+        "causes": 3
+      },
+      {
+        "name": "Morocco",
+        "causes": 2
+      },
+      {
+        "name": "Afghanistan",
+        "causes": 1
+      },
+      {
+        "name": "Jordan",
+        "causes": 1
+      },
+      {
+        "name": "Tunisia",
+        "causes": 1
+      },
+      {
+        "name": "Palestina",
+        "causes": 7
+      },
+      {
+        "name": "USA",
+        "causes": 148
+      },
+      {
+        "name": "Canada",
+        "causes": 45
+      },
+      {
+        "name": "Ecuator",
+        "causes": 13
+      },
+      {
+        "name": "Brazil",
+        "causes": 7
+      },
+      {
+        "name": "Mexico",
+        "causes": 5
+      },
+      {
+        "name": "Argentina",
+        "causes": 1
+      },
+      {
+        "name": "Chile",
+        "causes": 1
+      },
+      {
+        "name": "Dominican Republic",
+        "causes": 1
+      },
+      {
+        "name": "Saint Martin",
+        "causes": 2
+      },
+      {
+        "name": "Saint Barthelemy",
+        "causes": 1
+      },
+      {
+        "name": "Algeria",
+        "causes": 12
+      },
+      {
+        "name": "Senegal",
+        "causes": 4
+      },
+      {
+        "name": "Cameroon",
+        "causes": 1
+      },
+      {
+        "name": "Nigeria",
+        "causes": 1
+      },
+      {
+        "name": "South Africa",
+        "causes": 1
+      },
+      {
+        "name": "International conveyance",
+        "causes": 696
+      }
+    ]
+  },
+  {
+    "date": "7 March 2020",
+    "countries": [
+      {
+        "name": "Republic of Korea",
+        "causes": 6767
+      },
+      {
+        "name": "Japan",
+        "causes": 408
+      },
+      {
+        "name": "Singapore",
+        "causes": 130
+      },
+      {
+        "name": "Malaysia",
+        "causes": 83
+      },
+      {
+        "name": "Australia",
+        "causes": 62
+      },
+      {
+        "name": "Vietnam ",
+        "causes": 17
+      },
+      {
+        "name": "New Zealand",
+        "causes": 5
+      },
+      {
+        "name": "Philippines",
+        "causes": 5
+      },
+      {
+        "name": "Cambodia",
+        "causes": 1
+      },
+      {
+        "name": "Italy",
+        "causes": 4636
+      },
+      {
+        "name": "Germany",
+        "causes": 639
+      },
+      {
+        "name": "France",
+        "causes": 613
+      },
+      {
+        "name": "Spain",
+        "causes": 374
+      },
+      {
+        "name": "Switzerland",
+        "causes": 209
+      },
+      {
+        "name": "United Kingdom",
+        "causes": 167
+      },
+      {
+        "name": "Sweden",
+        "causes": 137
+      },
+      {
+        "name": "Netherlands",
+        "causes": 128
+      },
+      {
+        "name": "Norway",
+        "causes": 113
+      },
+      {
+        "name": "Belgium",
+        "causes": 109
+      },
+      {
+        "name": "Austria",
+        "causes": 66
+      },
+      {
+        "name": "Iceland",
+        "causes": 45
+      },
+      {
+        "name": "Greece",
+        "causes": 32
+      },
+      {
+        "name": "San Marino",
+        "causes": 24
+      },
+      {
+        "name": "Denmark",
+        "causes": 23
+      },
+      {
+        "name": "Finland",
+        "causes": 19
+      },
+      {
+        "name": "Israel",
+        "causes": 19
+      },
+      {
+        "name": "Ireland",
+        "causes": 18
+      },
+      {
+        "name": "Portugal",
+        "causes": 13
+      },
+      {
+        "name": "Czechia",
+        "causes": 12
+      },
+      {
+        "name": "Croatia",
+        "causes": 11
+      },
+      {
+        "name": "Estonia",
+        "causes": 10
+      },
+      {
+        "name": "Azerbaijan",
+        "causes": 9
+      },
+      {
+        "name": "Georgia",
+        "causes": 9
+      },
+      {
+        "name": "Slovenia",
+        "causes": 9
+      },
+      {
+        "name": "Romania",
+        "causes": 7
+      },
+      {
+        "name": "Russia Federation",
+        "causes": 7
+      },
+      {
+        "name": "Belarus",
+        "causes": 6
+      },
+      {
+        "name": "Poland",
+        "causes": 5
+      },
+      {
+        "name": "Hungary",
+        "causes": 5
+      },
+      {
+        "name": "North Macedonia",
+        "causes": 3
+      },
+      {
+        "name": "Bosnia and Herzegovina",
+        "causes": 2
+      },
+      {
+        "name": "Luxembourg",
+        "causes": 2
+      },
+      {
+        "name": "Andorra",
+        "causes": 1
+      },
+      {
+        "name": "Armenia",
+        "causes": 1
+      },
+      {
+        "name": "Holy See",
+        "causes": 1
+      },
+      {
+        "name": "Latvia",
+        "causes": 1
+      },
+      {
+        "name": "Liechtenstein",
+        "causes": 1
+      },
+      {
+        "name": "Lithuania",
+        "causes": 1
+      },
+      {
+        "name": "Monaco",
+        "causes": 1
+      },
+      {
+        "name": "Serbia",
+        "causes": 1
+      },
+      {
+        "name": "Slovakia",
+        "causes": 1
+      },
+      {
+        "name": "Ukraine",
+        "causes": 1
+      },
+      {
+        "name": "Gibraltar",
+        "causes": 1
+      },
+      {
+        "name": "Thailand",
+        "causes": 48
+      },
+      {
+        "name": "India",
+        "causes": 31
+      },
+      {
+        "name": "Indonesia",
+        "causes": 2
+      },
+      {
+        "name": "Bhutan",
+        "causes": 1
+      },
+      {
+        "name": "Nepal",
+        "causes": 1
+      },
+      {
+        "name": "Sri Lanka",
+        "causes": 1
+      },
+      {
+        "name": "Iran",
+        "causes": 4747
+      },
+      {
+        "name": "Kuwait",
+        "causes": 58
+      },
+      {
+        "name": "Bahrain",
+        "causes": 49
+      },
+      {
+        "name": "United Arab Emirates",
+        "causes": 45
+      },
+      {
+        "name": "Iraq",
+        "causes": 44
+      },
+      {
+        "name": "Lebanon",
+        "causes": 22
+      },
+      {
+        "name": "Oman",
+        "causes": 16
+      },
+      {
+        "name": "Qatar",
+        "causes": 11
+      },
+      {
+        "name": "Saudi Arabia",
+        "causes": 8
+      },
+      {
+        "name": "Pakistan",
+        "causes": 5
+      },
+      {
+        "name": "Egypt",
+        "causes": 3
+      },
+      {
+        "name": "Morocco",
+        "causes": 2
+      },
+      {
+        "name": "Afghanistan",
+        "causes": 1
+      },
+      {
+        "name": "Jordan",
+        "causes": 1
+      },
+      {
+        "name": "Tunisia",
+        "causes": 1
+      },
+      {
+        "name": "Palestina",
+        "causes": 16
+      },
+      {
+        "name": "USA",
+        "causes": 213
+      },
+      {
+        "name": "Canada",
+        "causes": 51
+      },
+      {
+        "name": "Ecuator",
+        "causes": 14
+      },
+      {
+        "name": "Brazil",
+        "causes": 13
+      },
+      {
+        "name": "Chile",
+        "causes": 5
+      },
+      {
+        "name": "Mexico",
+        "causes": 5
+      },
+      {
+        "name": "Argentina",
+        "causes": 2
+      },
+      {
+        "name": "Columbia",
+        "causes": 1
+      },
+      {
+        "name": "Dominican Republic",
+        "causes": 1
+      },
+      {
+        "name": "Saint Martin",
+        "causes": 2
+      },
+      {
+        "name": "Saint Barthelemy",
+        "causes": 1
+      },
+      {
+        "name": "Algeria",
+        "causes": 17
+      },
+      {
+        "name": "Senegal",
+        "causes": 4
+      },
+      {
+        "name": "Cameroon",
+        "causes": 2
+      },
+      {
+        "name": "Nigeria",
+        "causes": 1
+      },
+      {
+        "name": "South Africa",
+        "causes": 1
+      },
+      {
+        "name": "Togo",
+        "causes": 1
+      },
+      {
+        "name": "International conveyance",
+        "causes": 696
+      }
+    ]
+  },
+  {
+    "date": "8 March 2020",
+    "countries": [
+      {
+        "name": "Republic of Korea",
+        "causes": 7134
+      },
+      {
+        "name": "Japan",
+        "causes": 455
+      },
+      {
+        "name": "Singapore",
+        "causes": 130
+      },
+      {
+        "name": "Malaysia",
+        "causes": 93
+      },
+      {
+        "name": "Australia",
+        "causes": 74
+      },
+      {
+        "name": "Vietnam ",
+        "causes": 21
+      },
+      {
+        "name": "Philippines",
+        "causes": 6
+      },
+      {
+        "name": "New Zealand",
+        "causes": 5
+      },
+      {
+        "name": "Cambodia",
+        "causes": 2
+      },
+      {
+        "name": "Italy",
+        "causes": 5883
+      },
+      {
+        "name": "Germany",
+        "causes": 795
+      },
+      {
+        "name": "France",
+        "causes": 706
+      },
+      {
+        "name": "Spain",
+        "causes": 430
+      },
+      {
+        "name": "Switzerland",
+        "causes": 264
+      },
+      {
+        "name": "United Kingdom",
+        "causes": 210
+      },
+      {
+        "name": "Netherlands",
+        "causes": 188
+      },
+      {
+        "name": "Belgium",
+        "causes": 169
+      },
+      {
+        "name": "Sweden",
+        "causes": 161
+      },
+      {
+        "name": "Norway",
+        "causes": 147
+      },
+      {
+        "name": "Austria",
+        "causes": 104
+      },
+      {
+        "name": "Greece",
+        "causes": 66
+      },
+      {
+        "name": "Iceland",
+        "causes": 45
+      },
+      {
+        "name": "Denmark",
+        "causes": 31
+      },
+      {
+        "name": "San Marino",
+        "causes": 27
+      },
+      {
+        "name": "Czechia",
+        "causes": 26
+      },
+      {
+        "name": "Israel",
+        "causes": 25
+      },
+      {
+        "name": "Portugal",
+        "causes": 21
+      },
+      {
+        "name": "Finland",
+        "causes": 19
+      },
+      {
+        "name": "Ireland",
+        "causes": 18
+      },
+      {
+        "name": "Romania",
+        "causes": 13
+      },
+      {
+        "name": "Georgia",
+        "causes": 12
+      },
+      {
+        "name": "Slovenia",
+        "causes": 12
+      },
+      {
+        "name": "Croatia",
+        "causes": 11
+      },
+      {
+        "name": "Estonia",
+        "causes": 10
+      },
+      {
+        "name": "Azerbaijan",
+        "causes": 9
+      },
+      {
+        "name": "Hungary",
+        "causes": 7
+      },
+      {
+        "name": "Russia Federation",
+        "causes": 7
+      },
+      {
+        "name": "Belarus",
+        "causes": 6
+      },
+      {
+        "name": "Poland",
+        "causes": 6
+      },
+      {
+        "name": "Malta",
+        "causes": 3
+      },
+      {
+        "name": "North Macedonia",
+        "causes": 3
+      },
+      {
+        "name": "Slovakia",
+        "causes": 3
+      },
+      {
+        "name": "Bosnia and Herzegovina",
+        "causes": 2
+      },
+      {
+        "name": "Bulgaria",
+        "causes": 2
+      },
+      {
+        "name": "Luxembourg",
+        "causes": 2
+      },
+      {
+        "name": "Andorra",
+        "causes": 1
+      },
+      {
+        "name": "Armenia",
+        "causes": 1
+      },
+      {
+        "name": "Holy See",
+        "causes": 1
+      },
+      {
+        "name": "Latvia",
+        "causes": 1
+      },
+      {
+        "name": "Liechtenstein",
+        "causes": 1
+      },
+      {
+        "name": "Lithuania",
+        "causes": 1
+      },
+      {
+        "name": "Monaco",
+        "causes": 1
+      },
+      {
+        "name": "Republic of Moldova",
+        "causes": 1
+      },
+      {
+        "name": "Serbia",
+        "causes": 1
+      },
+      {
+        "name": "Ukraine",
+        "causes": 1
+      },
+      {
+        "name": "Faroe Islands",
+        "causes": 1
+      },
+      {
+        "name": "Gibraltar",
+        "causes": 1
+      },
+      {
+        "name": "Thailand",
+        "causes": 50
+      },
+      {
+        "name": "India",
+        "causes": 34
+      },
+      {
+        "name": "Indonesia",
+        "causes": 4
+      },
+      {
+        "name": "Maldives",
+        "causes": 2
+      },
+      {
+        "name": "Bhutan",
+        "causes": 1
+      },
+      {
+        "name": "Nepal",
+        "causes": 1
+      },
+      {
+        "name": "Sri Lanka",
+        "causes": 1
+      },
+      {
+        "name": "Iran",
+        "causes": 5823
+      },
+      {
+        "name": "Kuwait",
+        "causes": 62
+      },
+      {
+        "name": "Bahrain",
+        "causes": 56
+      },
+      {
+        "name": "Iraq",
+        "causes": 54
+      },
+      {
+        "name": "Egypt",
+        "causes": 48
+      },
+      {
+        "name": "United Arab Emirates",
+        "causes": 45
+      },
+      {
+        "name": "Lebanon",
+        "causes": 28
+      },
+      {
+        "name": "Oman",
+        "causes": 16
+      },
+      {
+        "name": "Qatar",
+        "causes": 12
+      },
+      {
+        "name": "Saudi Arabia",
+        "causes": 7
+      },
+      {
+        "name": "Pakistan",
+        "causes": 5
+      },
+      {
+        "name": "Afghanistan",
+        "causes": 4
+      },
+      {
+        "name": "Morocco",
+        "causes": 2
+      },
+      {
+        "name": "Jordan",
+        "causes": 1
+      },
+      {
+        "name": "Tunisia",
+        "causes": 1
+      },
+      {
+        "name": "Palestina",
+        "causes": 16
+      },
+      {
+        "name": "USA",
+        "causes": 213
+      },
+      {
+        "name": "Canada",
+        "causes": 57
+      },
+      {
+        "name": "Brazil",
+        "causes": 19
+      },
+      {
+        "name": "Ecuator",
+        "causes": 14
+      },
+      {
+        "name": "Argentina",
+        "causes": 9
+      },
+      {
+        "name": "Mexico",
+        "causes": 7
+      },
+      {
+        "name": "Peru",
+        "causes": 6
+      },
+      {
+        "name": "Chile",
+        "causes": 5
+      },
+      {
+        "name": "Costa Rica",
+        "causes": 5
+      },
+      {
+        "name": "Columbia",
+        "causes": 1
+      },
+      {
+        "name": "Dominican Republic",
+        "causes": 1
+      },
+      {
+        "name": "French Guiana",
+        "causes": 5
+      },
+      {
+        "name": "Martinique",
+        "causes": 2
+      },
+      {
+        "name": "Saint Martin",
+        "causes": 2
+      },
+      {
+        "name": "Saint Barthelemy",
+        "causes": 1
+      },
+      {
+        "name": "Algeria",
+        "causes": 17
+      },
+      {
+        "name": "Senegal",
+        "causes": 4
+      },
+      {
+        "name": "Cameroon",
+        "causes": 2
+      },
+      {
+        "name": "South Africa",
+        "causes": 2
+      },
+      {
+        "name": "Nigeria",
+        "causes": 1
+      },
+      {
+        "name": "Togo",
+        "causes": 1
+      },
+      {
+        "name": "International conveyance",
+        "causes": 696
+      }
+    ]
+  },
+  {
+    "date": "9 March 2020",
+    "countries": [
+      {
+        "name": "Republic of Korea",
+        "causes": 7382
+      },
+      {
+        "name": "Japan",
+        "causes": 488
+      },
+      {
+        "name": "Singapore",
+        "causes": 150
+      },
+      {
+        "name": "Malaysia",
+        "causes": 93
+      },
+      {
+        "name": "Australia",
+        "causes": 77
+      },
+      {
+        "name": "Vietnam ",
+        "causes": 30
+      },
+      {
+        "name": "Philippines",
+        "causes": 10
+      },
+      {
+        "name": "New Zealand",
+        "causes": 5
+      },
+      {
+        "name": "Cambodia",
+        "causes": 2
+      },
+      {
+        "name": "Italy",
+        "causes": 7375
+      },
+      {
+        "name": "France",
+        "causes": 1116
+      },
+      {
+        "name": "Germany",
+        "causes": 1112
+      },
+      {
+        "name": "Spain",
+        "causes": 589
+      },
+      {
+        "name": "Switzerland",
+        "causes": 332
+      },
+      {
+        "name": "United Kingdom",
+        "causes": 277
+      },
+      {
+        "name": "Netherlands",
+        "causes": 265
+      },
+      {
+        "name": "Sweden",
+        "causes": 203
+      },
+      {
+        "name": "Belgium",
+        "causes": 200
+      },
+      {
+        "name": "Norway",
+        "causes": 169
+      },
+      {
+        "name": "Austria",
+        "causes": 112
+      },
+      {
+        "name": "Greece",
+        "causes": 73
+      },
+      {
+        "name": "Iceland",
+        "causes": 55
+      },
+      {
+        "name": "Israel",
+        "causes": 39
+      },
+      {
+        "name": "San Marino",
+        "causes": 37
+      },
+      {
+        "name": "Denmark",
+        "causes": 36
+      },
+      {
+        "name": "Czechia",
+        "causes": 32
+      },
+      {
+        "name": "Finland",
+        "causes": 30
+      },
+      {
+        "name": "Portugal",
+        "causes": 30
+      },
+      {
+        "name": "Ireland",
+        "causes": 21
+      },
+      {
+        "name": "Slovenia",
+        "causes": 16
+      },
+      {
+        "name": "Romania",
+        "causes": 15
+      },
+      {
+        "name": "Georgia",
+        "causes": 13
+      },
+      {
+        "name": "Croatia",
+        "causes": 11
+      },
+      {
+        "name": "Poland",
+        "causes": 11
+      },
+      {
+        "name": "Estonia",
+        "causes": 10
+      },
+      {
+        "name": "Azerbaijan",
+        "causes": 9
+      },
+      {
+        "name": "Hungary",
+        "causes": 9
+      },
+      {
+        "name": "Russia Federation",
+        "causes": 7
+      },
+      {
+        "name": "Belarus",
+        "causes": 6
+      },
+      {
+        "name": "Slovakia",
+        "causes": 5
+      },
+      {
+        "name": "Bulgaria",
+        "causes": 4
+      },
+      {
+        "name": "Latvia",
+        "causes": 3
+      },
+      {
+        "name": "Malta",
+        "causes": 3
+      },
+      {
+        "name": "North Macedonia",
+        "causes": 3
+      },
+      {
+        "name": "Albania",
+        "causes": 2
+      },
+      {
+        "name": "Bosnia and Herzegovina",
+        "causes": 2
+      },
+      {
+        "name": "Luxembourg",
+        "causes": 2
+      },
+      {
+        "name": "Andorra",
+        "causes": 1
+      },
+      {
+        "name": "Armenia",
+        "causes": 1
+      },
+      {
+        "name": "Holy See",
+        "causes": 1
+      },
+      {
+        "name": "Liechtenstein",
+        "causes": 1
+      },
+      {
+        "name": "Lithuania",
+        "causes": 1
+      },
+      {
+        "name": "Monaco",
+        "causes": 1
+      },
+      {
+        "name": "Republic of Moldova",
+        "causes": 1
+      },
+      {
+        "name": "Serbia",
+        "causes": 1
+      },
+      {
+        "name": "Ukraine",
+        "causes": 1
+      },
+      {
+        "name": "Faroe Islands",
+        "causes": 2
+      },
+      {
+        "name": "Gibraltar",
+        "causes": 1
+      },
+      {
+        "name": "Thailand",
+        "causes": 50
+      },
+      {
+        "name": "India",
+        "causes": 43
+      },
+      {
+        "name": "Indonesia",
+        "causes": 6
+      },
+      {
+        "name": "Maldives",
+        "causes": 4
+      },
+      {
+        "name": "Bangladesh",
+        "causes": 3
+      },
+      {
+        "name": "Bhutan",
+        "causes": 1
+      },
+      {
+        "name": "Nepal",
+        "causes": 1
+      },
+      {
+        "name": "Sri Lanka",
+        "causes": 1
+      },
+      {
+        "name": "Iran",
+        "causes": 6566
+      },
+      {
+        "name": "Bahrain",
+        "causes": 79
+      },
+      {
+        "name": "Kuwait",
+        "causes": 64
+      },
+      {
+        "name": "Iraq",
+        "causes": 60
+      },
+      {
+        "name": "Egypt",
+        "causes": 55
+      },
+      {
+        "name": "United Arab Emirates",
+        "causes": 45
+      },
+      {
+        "name": "Lebanon",
+        "causes": 32
+      },
+      {
+        "name": "Oman",
+        "causes": 16
+      },
+      {
+        "name": "Qatar",
+        "causes": 15
+      },
+      {
+        "name": "Saudi Arabia",
+        "causes": 15
+      },
+      {
+        "name": "Pakistan",
+        "causes": 6
+      },
+      {
+        "name": "Afghanistan",
+        "causes": 4
+      },
+      {
+        "name": "Morocco",
+        "causes": 2
+      },
+      {
+        "name": "Tunisia",
+        "causes": 2
+      },
+      {
+        "name": "Jordan",
+        "causes": 1
+      },
+      {
+        "name": "Palestina",
+        "causes": 19
+      },
+      {
+        "name": "USA",
+        "causes": 213
+      },
+      {
+        "name": "Canada",
+        "causes": 62
+      },
+      {
+        "name": "Brazil",
+        "causes": 25
+      },
+      {
+        "name": "Ecuator",
+        "causes": 15
+      },
+      {
+        "name": "Argentina",
+        "causes": 12
+      },
+      {
+        "name": "Chile",
+        "causes": 10
+      },
+      {
+        "name": "Costa Rica",
+        "causes": 9
+      },
+      {
+        "name": "Mexico",
+        "causes": 7
+      },
+      {
+        "name": "Peru",
+        "causes": 6
+      },
+      {
+        "name": "Columbia",
+        "causes": 1
+      },
+      {
+        "name": "Dominican Republic",
+        "causes": 1
+      },
+      {
+        "name": "Paraguay",
+        "causes": 1
+      },
+      {
+        "name": "French Guiana",
+        "causes": 5
+      },
+      {
+        "name": "Martinique",
+        "causes": 2
+      },
+      {
+        "name": "Saint Martin",
+        "causes": 2
+      },
+      {
+        "name": "Saint Barthelemy",
+        "causes": 1
+      },
+      {
+        "name": "Algeria",
+        "causes": 20
+      },
+      {
+        "name": "Senegal",
+        "causes": 4
+      },
+      {
+        "name": "South Africa",
+        "causes": 3
+      },
+      {
+        "name": "Cameroon",
+        "causes": 2
+      },
+      {
+        "name": "Nigeria",
+        "causes": 2
+      },
+      {
+        "name": "Togo",
+        "causes": 1
+      },
+      {
+        "name": "International conveyance",
+        "causes": 696
+      }
+    ]
+  },
+  {
+    "date": "10 March 2020",
+    "countries": [
+      {
+        "name": "Republic of Korea",
+        "causes": 7513
+      },
+      {
+        "name": "Japan",
+        "causes": 514
+      },
+      {
+        "name": "Singapore",
+        "causes": 160
+      },
+      {
+        "name": "Malaysia",
+        "causes": 117
+      },
+      {
+        "name": "Australia",
+        "causes": 92
+      },
+      {
+        "name": "Philippines",
+        "causes": 33
+      },
+      {
+        "name": "Vietnam ",
+        "causes": 31
+      },
+      {
+        "name": "New Zealand",
+        "causes": 5
+      },
+      {
+        "name": "Cambodia",
+        "causes": 2
+      },
+      {
+        "name": "Brunei Darussalam",
+        "causes": 1
+      },
+      {
+        "name": "Mongolia",
+        "causes": 1
+      },
+      {
+        "name": "Italy",
+        "causes": 9172
+      },
+      {
+        "name": "France",
+        "causes": 1402
+      },
+      {
+        "name": "Germany",
+        "causes": 1139
+      },
+      {
+        "name": "Spain",
+        "causes": 1024
+      },
+      {
+        "name": "Switzerland",
+        "causes": 332
+      },
+      {
+        "name": "United Kingdom",
+        "causes": 323
+      },
+      {
+        "name": "Netherlands",
+        "causes": 321
+      },
+      {
+        "name": "Sweden",
+        "causes": 248
+      },
+      {
+        "name": "Belgium",
+        "causes": 239
+      },
+      {
+        "name": "Norway",
+        "causes": 192
+      },
+      {
+        "name": "Austria",
+        "causes": 131
+      },
+      {
+        "name": "Denmark",
+        "causes": 90
+      },
+      {
+        "name": "Greece",
+        "causes": 73
+      },
+      {
+        "name": "Iceland",
+        "causes": 55
+      },
+      {
+        "name": "San Marino",
+        "causes": 49
+      },
+      {
+        "name": "Finland",
+        "causes": 40
+      },
+      {
+        "name": "Israel",
+        "causes": 39
+      },
+      {
+        "name": "Czechia",
+        "causes": 38
+      },
+      {
+        "name": "Portugal",
+        "causes": 30
+      },
+      {
+        "name": "Ireland",
+        "causes": 24
+      },
+      {
+        "name": "Slovenia",
+        "causes": 23
+      },
+      {
+        "name": "Poland",
+        "causes": 16
+      },
+      {
+        "name": "Georgia",
+        "causes": 15
+      },
+      {
+        "name": "Romania",
+        "causes": 15
+      },
+      {
+        "name": "Croatia",
+        "causes": 12
+      },
+      {
+        "name": "Estonia",
+        "causes": 10
+      },
+      {
+        "name": "Azerbaijan",
+        "causes": 9
+      },
+      {
+        "name": "Hungary",
+        "causes": 9
+      },
+      {
+        "name": "North Macedonia",
+        "causes": 7
+      },
+      {
+        "name": "Russia Federation",
+        "causes": 7
+      },
+      {
+        "name": "Slovakia",
+        "causes": 7
+      },
+      {
+        "name": "Belarus",
+        "causes": 6
+      },
+      {
+        "name": "Latvia",
+        "causes": 6
+      },
+      {
+        "name": "Luxembourg",
+        "causes": 5
+      },
+      {
+        "name": "Bulgaria",
+        "causes": 4
+      },
+      {
+        "name": "Malta",
+        "causes": 4
+      },
+      {
+        "name": "Albania",
+        "causes": 2
+      },
+      {
+        "name": "Bosnia and Herzegovina",
+        "causes": 2
+      },
+      {
+        "name": "Cyprus",
+        "causes": 1
+      },
+      {
+        "name": "Andorra",
+        "causes": 1
+      },
+      {
+        "name": "Armenia",
+        "causes": 1
+      },
+      {
+        "name": "Holy See",
+        "causes": 1
+      },
+      {
+        "name": "Liechtenstein",
+        "causes": 1
+      },
+      {
+        "name": "Lithuania",
+        "causes": 1
+      },
+      {
+        "name": "Monaco",
+        "causes": 1
+      },
+      {
+        "name": "Republic of Moldova",
+        "causes": 1
+      },
+      {
+        "name": "Serbia",
+        "causes": 1
+      },
+      {
+        "name": "Ukraine",
+        "causes": 1
+      },
+      {
+        "name": "Faroe Islands",
+        "causes": 2
+      },
+      {
+        "name": "Gibraltar",
+        "causes": 1
+      },
+      {
+        "name": "Guernsey",
+        "causes": 1
+      },
+      {
+        "name": "Thailand",
+        "causes": 53
+      },
+      {
+        "name": "India",
+        "causes": 44
+      },
+      {
+        "name": "Indonesia",
+        "causes": 19
+      },
+      {
+        "name": "Maldives",
+        "causes": 4
+      },
+      {
+        "name": "Bangladesh",
+        "causes": 3
+      },
+      {
+        "name": "Bhutan",
+        "causes": 1
+      },
+      {
+        "name": "Nepal",
+        "causes": 1
+      },
+      {
+        "name": "Sri Lanka",
+        "causes": 1
+      },
+      {
+        "name": "Iran",
+        "causes": 7161
+      },
+      {
+        "name": "Bahrain",
+        "causes": 109
+      },
+      {
+        "name": "Kuwait",
+        "causes": 65
+      },
+      {
+        "name": "Iraq",
+        "causes": 61
+      },
+      {
+        "name": "Egypt",
+        "causes": 59
+      },
+      {
+        "name": "United Arab Emirates",
+        "causes": 59
+      },
+      {
+        "name": "Lebanon",
+        "causes": 41
+      },
+      {
+        "name": "Oman",
+        "causes": 18
+      },
+      {
+        "name": "Qatar",
+        "causes": 18
+      },
+      {
+        "name": "Pakistan",
+        "causes": 16
+      },
+      {
+        "name": "Saudi Arabia",
+        "causes": 15
+      },
+      {
+        "name": "Afghanistan",
+        "causes": 4
+      },
+      {
+        "name": "Morocco",
+        "causes": 2
+      },
+      {
+        "name": "Tunisia",
+        "causes": 2
+      },
+      {
+        "name": "Jordan",
+        "causes": 1
+      },
+      {
+        "name": "Palestina",
+        "causes": 26
+      },
+      {
+        "name": "USA",
+        "causes": 472
+      },
+      {
+        "name": "Canada",
+        "causes": 77
+      },
+      {
+        "name": "Brazil",
+        "causes": 25
+      },
+      {
+        "name": "Ecuator",
+        "causes": 15
+      },
+      {
+        "name": "Chile",
+        "causes": 13
+      },
+      {
+        "name": "Argentina",
+        "causes": 12
+      },
+      {
+        "name": "Costa Rica",
+        "causes": 9
+      },
+      {
+        "name": "Peru",
+        "causes": 9
+      },
+      {
+        "name": "Mexico",
+        "causes": 7
+      },
+      {
+        "name": "Dominican Republic",
+        "causes": 5
+      },
+      {
+        "name": "Columbia",
+        "causes": 3
+      },
+      {
+        "name": "Panama",
+        "causes": 1
+      },
+      {
+        "name": "Paraguay",
+        "causes": 1
+      },
+      {
+        "name": "French Guiana",
+        "causes": 5
+      },
+      {
+        "name": "Martinique",
+        "causes": 2
+      },
+      {
+        "name": "Saint Martin",
+        "causes": 2
+      },
+      {
+        "name": "Saint Barthelemy",
+        "causes": 1
+      },
+      {
+        "name": "Algeria",
+        "causes": 20
+      },
+      {
+        "name": "South Africa",
+        "causes": 7
+      },
+      {
+        "name": "Senegal",
+        "causes": 4
+      },
+      {
+        "name": "Cameroon",
+        "causes": 2
+      },
+      {
+        "name": "Nigeria",
+        "causes": 2
+      },
+      {
+        "name": "Togo",
+        "causes": 1
+      },
+      {
+        "name": "International conveyance",
+        "causes": 696
+      }
+    ]
+  },
+  {
+    "date": "11 March 2020",
+    "countries": [
+      {
+        "name": "Republic of Korea",
+        "causes": 7755
+      },
+      {
+        "name": "Japan",
+        "causes": 568
+      },
+      {
+        "name": "Singapore",
+        "causes": 166
+      },
+      {
+        "name": "Malaysia",
+        "causes": 129
+      },
+      {
+        "name": "Australia",
+        "causes": 112
+      },
+      {
+        "name": "Philippines",
+        "causes": 49
+      },
+      {
+        "name": "Vietnam ",
+        "causes": 35
+      },
+      {
+        "name": "New Zealand",
+        "causes": 5
+      },
+      {
+        "name": "Cambodia",
+        "causes": 3
+      },
+      {
+        "name": "Brunei Darussalam",
+        "causes": 1
+      },
+      {
+        "name": "Mongolia",
+        "causes": 1
+      },
+      {
+        "name": "Italy",
+        "causes": 10149
+      },
+      {
+        "name": "France",
+        "causes": 1774
+      },
+      {
+        "name": "Spain",
+        "causes": 1639
+      },
+      {
+        "name": "Germany",
+        "causes": 1296
+      },
+      {
+        "name": "Switzerland",
+        "causes": 491
+      },
+      {
+        "name": "Netherlands",
+        "causes": 382
+      },
+      {
+        "name": "United Kingdom",
+        "causes": 373
+      },
+      {
+        "name": "Sweden",
+        "causes": 326
+      },
+      {
+        "name": "Norway",
+        "causes": 277
+      },
+      {
+        "name": "Belgium",
+        "causes": 267
+      },
+      {
+        "name": "Denmark",
+        "causes": 262
+      },
+      {
+        "name": "Austria",
+        "causes": 182
+      },
+      {
+        "name": "Greece",
+        "causes": 89
+      },
+      {
+        "name": "Israel",
+        "causes": 75
+      },
+      {
+        "name": "San Marino",
+        "causes": 63
+      },
+      {
+        "name": "Czechia",
+        "causes": 61
+      },
+      {
+        "name": "Iceland",
+        "causes": 61
+      },
+      {
+        "name": "Portugal",
+        "causes": 41
+      },
+      {
+        "name": "Finland",
+        "causes": 40
+      },
+      {
+        "name": "Ireland",
+        "causes": 34
+      },
+      {
+        "name": "Slovenia",
+        "causes": 31
+      },
+      {
+        "name": "Romania",
+        "causes": 25
+      },
+      {
+        "name": "Georgia",
+        "causes": 23
+      },
+      {
+        "name": "Poland",
+        "causes": 22
+      },
+      {
+        "name": "Croatia",
+        "causes": 16
+      },
+      {
+        "name": "Estonia",
+        "causes": 13
+      },
+      {
+        "name": "Hungary",
+        "causes": 13
+      },
+      {
+        "name": "Serbia",
+        "causes": 12
+      },
+      {
+        "name": "Albania",
+        "causes": 10
+      },
+      {
+        "name": "Azerbaijan",
+        "causes": 9
+      },
+      {
+        "name": "Belarus",
+        "causes": 9
+      },
+      {
+        "name": "Latvia",
+        "causes": 8
+      },
+      {
+        "name": "North Macedonia",
+        "causes": 7
+      },
+      {
+        "name": "Russia Federation",
+        "causes": 7
+      },
+      {
+        "name": "Slovakia",
+        "causes": 7
+      },
+      {
+        "name": "Bulgaria",
+        "causes": 6
+      },
+      {
+        "name": "Luxembourg",
+        "causes": 5
+      },
+      {
+        "name": "Bosnia and Herzegovina",
+        "causes": 4
+      },
+      {
+        "name": "Malta",
+        "causes": 4
+      },
+      {
+        "name": "Cyprus",
+        "causes": 1
+      },
+      {
+        "name": "Andorra",
+        "causes": 1
+      },
+      {
+        "name": "Armenia",
+        "causes": 1
+      },
+      {
+        "name": "Holy See",
+        "causes": 1
+      },
+      {
+        "name": "Liechtenstein",
+        "causes": 1
+      },
+      {
+        "name": "Lithuania",
+        "causes": 1
+      },
+      {
+        "name": "Monaco",
+        "causes": 1
+      },
+      {
+        "name": "Republic of Moldova",
+        "causes": 1
+      },
+      {
+        "name": "Ukraine",
+        "causes": 1
+      },
+      {
+        "name": "Faroe Islands",
+        "causes": 2
+      },
+      {
+        "name": "Gibraltar",
+        "causes": 1
+      },
+      {
+        "name": "Guernsey",
+        "causes": 1
+      },
+      {
+        "name": "India",
+        "causes": 60
+      },
+      {
+        "name": "Thailand",
+        "causes": 59
+      },
+      {
+        "name": "Indonesia",
+        "causes": 27
+      },
+      {
+        "name": "Maldives",
+        "causes": 8
+      },
+      {
+        "name": "Bangladesh",
+        "causes": 3
+      },
+      {
+        "name": "Bhutan",
+        "causes": 1
+      },
+      {
+        "name": "Nepal",
+        "causes": 1
+      },
+      {
+        "name": "Sri Lanka",
+        "causes": 1
+      },
+      {
+        "name": "Iran",
+        "causes": 8042
+      },
+      {
+        "name": "Bahrain",
+        "causes": 110
+      },
+      {
+        "name": "United Arab Emirates",
+        "causes": 74
+      },
+      {
+        "name": "Kuwait",
+        "causes": 69
+      },
+      {
+        "name": "Iraq",
+        "causes": 61
+      },
+      {
+        "name": "Egypt",
+        "causes": 59
+      },
+      {
+        "name": "Lebanon",
+        "causes": 41
+      },
+      {
+        "name": "Qatar",
+        "causes": 24
+      },
+      {
+        "name": "Saudi Arabia",
+        "causes": 20
+      },
+      {
+        "name": "Oman",
+        "causes": 18
+      },
+      {
+        "name": "Pakistan",
+        "causes": 16
+      },
+      {
+        "name": "Tunisia",
+        "causes": 6
+      },
+      {
+        "name": "Afghanistan",
+        "causes": 4
+      },
+      {
+        "name": "Morocco",
+        "causes": 3
+      },
+      {
+        "name": "Jordan",
+        "causes": 1
+      },
+      {
+        "name": "Palestina",
+        "causes": 30
+      },
+      {
+        "name": "USA",
+        "causes": 696
+      },
+      {
+        "name": "Canada",
+        "causes": 93
+      },
+      {
+        "name": "Brazil",
+        "causes": 34
+      },
+      {
+        "name": "Argentina",
+        "causes": 17
+      },
+      {
+        "name": "Chile",
+        "causes": 17
+      },
+      {
+        "name": "Ecuator",
+        "causes": 15
+      },
+      {
+        "name": "Costa Rica",
+        "causes": 13
+      },
+      {
+        "name": "Peru",
+        "causes": 11
+      },
+      {
+        "name": "Panama",
+        "causes": 8
+      },
+      {
+        "name": "Paraguay",
+        "causes": 5
+      },
+      {
+        "name": "Mexico",
+        "causes": 7
+      },
+      {
+        "name": "Dominican Republic",
+        "causes": 5
+      },
+      {
+        "name": "Columbia",
+        "causes": 3
+      },
+      {
+        "name": "Bolivia",
+        "causes": 2
+      },
+      {
+        "name": "Jamaica",
+        "causes": 1
+      },
+      {
+        "name": "French Guiana",
+        "causes": 5
+      },
+      {
+        "name": "Martinique",
+        "causes": 3
+      },
+      {
+        "name": "Saint Martin",
+        "causes": 2
+      },
+      {
+        "name": "Saint Barthelemy",
+        "causes": 1
+      },
+      {
+        "name": "Algeria",
+        "causes": 20
+      },
+      {
+        "name": "South Africa",
+        "causes": 7
+      },
+      {
+        "name": "Senegal",
+        "causes": 4
+      },
+      {
+        "name": "Burkina Faso",
+        "causes": 2
+      },
+      {
+        "name": "Cameroon",
+        "causes": 2
+      },
+      {
+        "name": "Nigeria",
+        "causes": 2
+      },
+      {
+        "name": "DR Congo",
+        "causes": 1
+      },
+      {
+        "name": "Togo",
+        "causes": 1
+      },
+      {
+        "name": "International conveyance",
+        "causes": 696
+      }
+    ]
+  },
+  {
+    "date": "12 March 2020",
+    "countries": [
+      {
+        "name": "Republic of Korea",
+        "causes": 7869
+      },
+      {
+        "name": "Japan",
+        "causes": 620
+      },
+      {
+        "name": "Singapore",
+        "causes": 178
+      },
+      {
+        "name": "Malaysia",
+        "causes": 129
+      },
+      {
+        "name": "Australia",
+        "causes": 122
+      },
+      {
+        "name": "Philippines",
+        "causes": 52
+      },
+      {
+        "name": "Vietnam ",
+        "causes": 39
+      },
+      {
+        "name": "Brunei Darussalam",
+        "causes": 12
+      },
+      {
+        "name": "New Zealand",
+        "causes": 5
+      },
+      {
+        "name": "Cambodia",
+        "causes": 3
+      },
+      {
+        "name": "Mongolia",
+        "causes": 1
+      },
+      {
+        "name": "French Polynesia",
+        "causes": 1
+      },
+      {
+        "name": "Italy",
+        "causes": 12462
+      },
+      {
+        "name": "France",
+        "causes": 2269
+      },
+      {
+        "name": "Spain",
+        "causes": 2140
+      },
+      {
+        "name": "Germany",
+        "causes": 1567
+      },
+      {
+        "name": "Switzerland",
+        "causes": 645
+      },
+      {
+        "name": "Denmark",
+        "causes": 615
+      },
+      {
+        "name": "Netherlands",
+        "causes": 503
+      },
+      {
+        "name": "Sweden",
+        "causes": 461
+      },
+      {
+        "name": "United Kingdom",
+        "causes": 460
+      },
+      {
+        "name": "Belgium",
+        "causes": 314
+      },
+      {
+        "name": "Austria",
+        "causes": 302
+      },
+      {
+        "name": "Norway",
+        "causes": 489
+      },
+      {
+        "name": "Greece",
+        "causes": 98
+      },
+      {
+        "name": "Czechia",
+        "causes": 94
+      },
+      {
+        "name": "Israel",
+        "causes": 75
+      },
+      {
+        "name": "San Marino",
+        "causes": 63
+      },
+      {
+        "name": "Iceland",
+        "causes": 61
+      },
+      {
+        "name": "Slovenia",
+        "causes": 57
+      },
+      {
+        "name": "Romania",
+        "causes": 48
+      },
+      {
+        "name": "Poland",
+        "causes": 44
+      },
+      {
+        "name": "Ireland",
+        "causes": 43
+      },
+      {
+        "name": "Portugal",
+        "causes": 41
+      },
+      {
+        "name": "Finland",
+        "causes": 40
+      },
+      {
+        "name": "Georgia",
+        "causes": 23
+      },
+      {
+        "name": "Russia Federation",
+        "causes": 20
+      },
+      {
+        "name": "Serbia",
+        "causes": 19
+      },
+      {
+        "name": "Latvia",
+        "causes": 16
+      },
+      {
+        "name": "Croatia",
+        "causes": 16
+      },
+      {
+        "name": "Estonia",
+        "causes": 13
+      },
+      {
+        "name": "Hungary",
+        "causes": 13
+      },
+      {
+        "name": "Belarus",
+        "causes": 12
+      },
+      {
+        "name": "Albania",
+        "causes": 10
+      },
+      {
+        "name": "Slovakia",
+        "causes": 10
+      },
+      {
+        "name": "Azerbaijan",
+        "causes": 9
+      },
+      {
+        "name": "Bulgaria",
+        "causes": 7
+      },
+      {
+        "name": "North Macedonia",
+        "causes": 7
+      },
+      {
+        "name": "Cyprus",
+        "causes": 6
+      },
+      {
+        "name": "Malta",
+        "causes": 6
+      },
+      {
+        "name": "Luxembourg",
+        "causes": 5
+      },
+      {
+        "name": "Bosnia and Herzegovina",
+        "causes": 4
+      },
+      {
+        "name": "Republic of Moldova",
+        "causes": 4
+      },
+      {
+        "name": "Lithuania",
+        "causes": 3
+      },
+      {
+        "name": "Andorra",
+        "causes": 1
+      },
+      {
+        "name": "Armenia",
+        "causes": 1
+      },
+      {
+        "name": "Holy See",
+        "causes": 1
+      },
+      {
+        "name": "Liechtenstein",
+        "causes": 1
+      },
+      {
+        "name": "Monaco",
+        "causes": 1
+      },
+      {
+        "name": "Turkey",
+        "causes": 1
+      },
+      {
+        "name": "Ukraine",
+        "causes": 1
+      },
+      {
+        "name": "Faroe Islands",
+        "causes": 2
+      },
+      {
+        "name": "Gibraltar",
+        "causes": 1
+      },
+      {
+        "name": "Guernsey",
+        "causes": 1
+      },
+      {
+        "name": "India",
+        "causes": 73
+      },
+      {
+        "name": "Thailand",
+        "causes": 70
+      },
+      {
+        "name": "Indonesia",
+        "causes": 34
+      },
+      {
+        "name": "Maldives",
+        "causes": 8
+      },
+      {
+        "name": "Bangladesh",
+        "causes": 3
+      },
+      {
+        "name": "Sri Lanka",
+        "causes": 2
+      },
+      {
+        "name": "Bhutan",
+        "causes": 1
+      },
+      {
+        "name": "Nepal",
+        "causes": 1
+      },
+      {
+        "name": "Iran",
+        "causes": 9000
+      },
+      {
+        "name": "Qatar",
+        "causes": 262
+      },
+      {
+        "name": "Bahrain",
+        "causes": 189
+      },
+      {
+        "name": "Kuwait",
+        "causes": 80
+      },
+      {
+        "name": "United Arab Emirates",
+        "causes": 74
+      },
+      {
+        "name": "Iraq",
+        "causes": 70
+      },
+      {
+        "name": "Egypt",
+        "causes": 67
+      },
+      {
+        "name": "Lebanon",
+        "causes": 66
+      },
+      {
+        "name": "Saudi Arabia",
+        "causes": 21
+      },
+      {
+        "name": "Pakistan",
+        "causes": 19
+      },
+      {
+        "name": "Oman",
+        "causes": 18
+      },
+      {
+        "name": "Afghanistan",
+        "causes": 7
+      },
+      {
+        "name": "Tunisia",
+        "causes": 7
+      },
+      {
+        "name": "Morocco",
+        "causes": 5
+      },
+      {
+        "name": "Jordan",
+        "causes": 1
+      },
+      {
+        "name": "Palestina",
+        "causes": 30
+      },
+      {
+        "name": "USA",
+        "causes": 987
+      },
+      {
+        "name": "Canada",
+        "causes": 93
+      },
+      {
+        "name": "Brazil",
+        "causes": 52
+      },
+      {
+        "name": "Chile",
+        "causes": 23
+      },
+      {
+        "name": "Argentina",
+        "causes": 19
+      },
+      {
+        "name": "Ecuator",
+        "causes": 17
+      },
+      {
+        "name": "Peru",
+        "causes": 17
+      },
+      {
+        "name": "Costa Rica",
+        "causes": 13
+      },
+      {
+        "name": "Mexico",
+        "causes": 11
+      },
+      {
+        "name": "Panama",
+        "causes": 10
+      },
+      {
+        "name": "Columbia",
+        "causes": 9
+      },
+      {
+        "name": "Dominican Republic",
+        "causes": 5
+      },
+      {
+        "name": "Paraguay",
+        "causes": 5
+      },
+      {
+        "name": "Bolivia",
+        "causes": 2
+      },
+      {
+        "name": "Honduras",
+        "causes": 2
+      },
+      {
+        "name": "Jamaica",
+        "causes": 1
+      },
+      {
+        "name": "French Guiana",
+        "causes": 5
+      },
+      {
+        "name": "Martinique",
+        "causes": 3
+      },
+      {
+        "name": "Saint Martin",
+        "causes": 2
+      },
+      {
+        "name": "Saint Barthelemy",
+        "causes": 1
+      },
+      {
+        "name": "Algeria",
+        "causes": 25
+      },
+      {
+        "name": "South Africa",
+        "causes": 13
+      },
+      {
+        "name": "Senegal",
+        "causes": 4
+      },
+      {
+        "name": "Burkina Faso",
+        "causes": 2
+      },
+      {
+        "name": "Cameroon",
+        "causes": 2
+      },
+      {
+        "name": "Nigeria",
+        "causes": 2
+      },
+      {
+        "name": "Cote d'Ivoire",
+        "causes": 1
+      },
+      {
+        "name": "Democratic Republic of Congo",
+        "causes": 1
+      },
+      {
+        "name": "Togo",
+        "causes": 1
+      },
+      {
+        "name": "International conveyance",
+        "causes": 696
+      }
+    ]
+  },
+  {
+    "date": "13 March 2020",
+    "countries": [
+      {
+        "name": "Republic of Korea",
+        "causes": 7979
+      },
+      {
+        "name": "Japan",
+        "causes": 675
+      },
+      {
+        "name": "Singapore",
+        "causes": 187
+      },
+      {
+        "name": "Australia",
+        "causes": 140
+      },
+      {
+        "name": "Malaysia",
+        "causes": 129
+      },
+      {
+        "name": "Philippines",
+        "causes": 52
+      },
+      {
+        "name": "Vietnam ",
+        "causes": 39
+      },
+      {
+        "name": "Brunei Darussalam",
+        "causes": 12
+      },
+      {
+        "name": "New Zealand",
+        "causes": 5
+      },
+      {
+        "name": "Cambodia",
+        "causes": 5
+      },
+      {
+        "name": "Mongolia",
+        "causes": 1
+      },
+      {
+        "name": "French Polynesia",
+        "causes": 1
+      },
+      {
+        "name": "Italy",
+        "causes": 15113
+      },
+      {
+        "name": "Spain",
+        "causes": 2965
+      },
+      {
+        "name": "France",
+        "causes": 2860
+      },
+      {
+        "name": "Germany",
+        "causes": 2369
+      },
+      {
+        "name": "Switzerland",
+        "causes": 858
+      },
+      {
+        "name": "Denmark",
+        "causes": 674
+      },
+      {
+        "name": "Sweden",
+        "causes": 620
+      },
+      {
+        "name": "Netherlands",
+        "causes": 614
+      },
+      {
+        "name": "United Kingdom",
+        "causes": 594
+      },
+      {
+        "name": "Austria",
+        "causes": 361
+      },
+      {
+        "name": "Belgium",
+        "causes": 314
+      },
+      {
+        "name": "Norway",
+        "causes": 489
+      },
+      {
+        "name": "Czechia",
+        "causes": 116
+      },
+      {
+        "name": "Finland",
+        "causes": 109
+      },
+      {
+        "name": "Greece",
+        "causes": 98
+      },
+      {
+        "name": "Israel",
+        "causes": 75
+      },
+      {
+        "name": "Ireland",
+        "causes": 70
+      },
+      {
+        "name": "San Marino",
+        "causes": 63
+      },
+      {
+        "name": "Iceland",
+        "causes": 61
+      },
+      {
+        "name": "Slovenia",
+        "causes": 57
+      },
+      {
+        "name": "Poland",
+        "causes": 49
+      },
+      {
+        "name": "Romania",
+        "causes": 48
+      },
+      {
+        "name": "Portugal",
+        "causes": 41
+      },
+      {
+        "name": "Russia Federation",
+        "causes": 34
+      },
+      {
+        "name": "Georgia",
+        "causes": 25
+      },
+      {
+        "name": "Albania",
+        "causes": 23
+      },
+      {
+        "name": "Slovakia",
+        "causes": 21
+      },
+      {
+        "name": "Serbia",
+        "causes": 19
+      },
+      {
+        "name": "Luxembourg",
+        "causes": 17
+      },
+      {
+        "name": "Croatia",
+        "causes": 16
+      },
+      {
+        "name": "Hungary",
+        "causes": 16
+      },
+      {
+        "name": "Latvia",
+        "causes": 16
+      },
+      {
+        "name": "Estonia",
+        "causes": 13
+      },
+      {
+        "name": "Belarus",
+        "causes": 12
+      },
+      {
+        "name": "Azerbaijan",
+        "causes": 11
+      },
+      {
+        "name": "Bulgaria",
+        "causes": 7
+      },
+      {
+        "name": "North Macedonia",
+        "causes": 7
+      },
+      {
+        "name": "Cyprus",
+        "causes": 6
+      },
+      {
+        "name": "Malta",
+        "causes": 6
+      },
+      {
+        "name": "Bosnia and Herzegovina",
+        "causes": 4
+      },
+      {
+        "name": "Liechtenstein",
+        "causes": 4
+      },
+      {
+        "name": "Republic of Moldova",
+        "causes": 4
+      },
+      {
+        "name": "Lithuania",
+        "causes": 3
+      },
+      {
+        "name": "Ukraine",
+        "causes": 3
+      },
+      {
+        "name": "Andorra",
+        "causes": 1
+      },
+      {
+        "name": "Armenia",
+        "causes": 1
+      },
+      {
+        "name": "Holy See",
+        "causes": 1
+      },
+      {
+        "name": "Monaco",
+        "causes": 1
+      },
+      {
+        "name": "Turkey",
+        "causes": 1
+      },
+      {
+        "name": "Faroe Islands",
+        "causes": 2
+      },
+      {
+        "name": "Gibraltar",
+        "causes": 1
+      },
+      {
+        "name": "Guernsey",
+        "causes": 1
+      },
+      {
+        "name": "Jersey",
+        "causes": 2
+      },
+      {
+        "name": "Thailand",
+        "causes": 75
+      },
+      {
+        "name": "India",
+        "causes": 74
+      },
+      {
+        "name": "Indonesia",
+        "causes": 34
+      },
+      {
+        "name": "Maldives",
+        "causes": 8
+      },
+      {
+        "name": "Sri Lanka",
+        "causes": 3
+      },
+      {
+        "name": "Bangladesh",
+        "causes": 3
+      },
+      {
+        "name": "Bhutan",
+        "causes": 1
+      },
+      {
+        "name": "Nepal",
+        "causes": 1
+      },
+      {
+        "name": "Nepal",
+        "causes": 3
+      },
+      {
+        "name": "Iran",
+        "causes": 10075
+      },
+      {
+        "name": "Qatar",
+        "causes": 262
+      },
+      {
+        "name": "Bahrain",
+        "causes": 195
+      },
+      {
+        "name": "United Arab Emirates",
+        "causes": 85
+      },
+      {
+        "name": "Kuwait",
+        "causes": 80
+      },
+      {
+        "name": "Iraq",
+        "causes": 70
+      },
+      {
+        "name": "Egypt",
+        "causes": 67
+      },
+      {
+        "name": "Lebanon",
+        "causes": 66
+      },
+      {
+        "name": "Saudi Arabia",
+        "causes": 21
+      },
+      {
+        "name": "Pakistan",
+        "causes": 2
+      },
+      {
+        "name": "Oman",
+        "causes": 18
+      },
+      {
+        "name": "Afghanistan",
+        "causes": 7
+      },
+      {
+        "name": "Tunisia",
+        "causes": 7
+      },
+      {
+        "name": "Morocco",
+        "causes": 6
+      },
+      {
+        "name": "Jordan",
+        "causes": 1
+      },
+      {
+        "name": "Palestina",
+        "causes": 31
+      },
+      {
+        "name": "USA",
+        "causes": 1264
+      },
+      {
+        "name": "Canada",
+        "causes": 138
+      },
+      {
+        "name": "Brazil",
+        "causes": 77
+      },
+      {
+        "name": "Chile",
+        "causes": 33
+      },
+      {
+        "name": "Argentina",
+        "causes": 31
+      },
+      {
+        "name": "Costa Rica",
+        "causes": 22
+      },
+      {
+        "name": "Peru",
+        "causes": 22
+      },
+      {
+        "name": "Ecuator",
+        "causes": 17
+      },
+      {
+        "name": "Panama",
+        "causes": 14
+      },
+      {
+        "name": "Mexico",
+        "causes": 12
+      },
+      {
+        "name": "Columbia",
+        "causes": 9
+      },
+      {
+        "name": "Dominican Republic",
+        "causes": 5
+      },
+      {
+        "name": "Paraguay",
+        "causes": 5
+      },
+      {
+        "name": "Bolivia",
+        "causes": 3
+      },
+      {
+        "name": "Cuba",
+        "causes": 3
+      },
+      {
+        "name": "Honduras",
+        "causes": 2
+      },
+      {
+        "name": "Guyana",
+        "causes": 1
+      },
+      {
+        "name": "Jamaica",
+        "causes": 1
+      },
+      {
+        "name": "Saint Vincent and the Grenadies",
+        "causes": 1
+      },
+      {
+        "name": "French Guiana",
+        "causes": 6
+      },
+      {
+        "name": "Martinique",
+        "causes": 4
+      },
+      {
+        "name": "Saint Martin",
+        "causes": 2
+      },
+      {
+        "name": "Saint Barthelemy",
+        "causes": 1
+      },
+      {
+        "name": "Algeria",
+        "causes": 25
+      },
+      {
+        "name": "South Africa",
+        "causes": 17
+      },
+      {
+        "name": "Senegal",
+        "causes": 10
+      },
+      {
+        "name": "Burkina Faso",
+        "causes": 2
+      },
+      {
+        "name": "Cameroon",
+        "causes": 2
+      },
+      {
+        "name": "Nigeria",
+        "causes": 2
+      },
+      {
+        "name": "Cote d'Ivoire",
+        "causes": 1
+      },
+      {
+        "name": "Democratic Republic of Congo",
+        "causes": 1
+      },
+      {
+        "name": "Togo",
+        "causes": 1
+      },
+      {
+        "name": "International conveyance",
+        "causes": 696
+      }
+    ]
+  },
+  {
+    "date": "14 March 2020",
+    "countries": [
+      {
+        "name": "Republic of Korea",
+        "causes": 8086
+      },
+      {
+        "name": "Japan",
+        "causes": 716
+      },
+      {
+        "name": "Singapore",
+        "causes": 200
+      },
+      {
+        "name": "Australia",
+        "causes": 197
+      },
+      {
+        "name": "Malaysia",
+        "causes": 197
+      },
+      {
+        "name": "Philippines",
+        "causes": 64
+      },
+      {
+        "name": "Vietnam ",
+        "causes": 48
+      },
+      {
+        "name": "Brunei Darussalam",
+        "causes": 25
+      },
+      {
+        "name": "Cambodia",
+        "causes": 7
+      },
+      {
+        "name": "New Zealand",
+        "causes": 6
+      },
+      {
+        "name": "Mongolia",
+        "causes": 1
+      },
+      {
+        "name": "French Polynesia",
+        "causes": 1
+      },
+      {
+        "name": "Italy",
+        "causes": 17660
+      },
+      {
+        "name": "Spain",
+        "causes": 4231
+      },
+      {
+        "name": "France",
+        "causes": 3640
+      },
+      {
+        "name": "Germany",
+        "causes": 3062
+      },
+      {
+        "name": "Switzerland",
+        "causes": 1125
+      },
+      {
+        "name": "Netherlands",
+        "causes": 804
+      },
+      {
+        "name": "United Kingdom",
+        "causes": 802
+      },
+      {
+        "name": "Denmark",
+        "causes": 801
+      },
+      {
+        "name": "Sweden",
+        "causes": 775
+      },
+      {
+        "name": "Norway",
+        "causes": 750
+      },
+      {
+        "name": "Belgium",
+        "causes": 599
+      },
+      {
+        "name": "Austria",
+        "causes": 504
+      },
+      {
+        "name": "Czechia",
+        "causes": 150
+      },
+      {
+        "name": "Slovenia",
+        "causes": 141
+      },
+      {
+        "name": "Portugal",
+        "causes": 112
+      },
+      {
+        "name": "Finland",
+        "causes": 109
+      },
+      {
+        "name": "Israel",
+        "causes": 100
+      },
+      {
+        "name": "Greece",
+        "causes": 98
+      },
+      {
+        "name": "Ireland",
+        "causes": 90
+      },
+      {
+        "name": "Estonia",
+        "causes": 79
+      },
+      {
+        "name": "San Marino",
+        "causes": 66
+      },
+      {
+        "name": "Romania",
+        "causes": 64
+      },
+      {
+        "name": "Poland",
+        "causes": 64
+      },
+      {
+        "name": "Iceland",
+        "causes": 61
+      },
+      {
+        "name": "Luxembourg",
+        "causes": 38
+      },
+      {
+        "name": "Russia Federation",
+        "causes": 34
+      },
+      {
+        "name": "Albania",
+        "causes": 33
+      },
+      {
+        "name": "Serbia",
+        "causes": 31
+      },
+      {
+        "name": "Slovakia",
+        "causes": 30
+      },
+      {
+        "name": "Croatia",
+        "causes": 27
+      },
+      {
+        "name": "Georgia",
+        "causes": 25
+      },
+      {
+        "name": "Belarus",
+        "causes": 21
+      },
+      {
+        "name": "Hungary",
+        "causes": 19
+      },
+      {
+        "name": "Latvia",
+        "causes": 16
+      },
+      {
+        "name": "Cyprus",
+        "causes": 14
+      },
+      {
+        "name": "Malta",
+        "causes": 12
+      },
+      {
+        "name": "Azerbaijan",
+        "causes": 11
+      },
+      {
+        "name": "Bosnia and Herzegovina",
+        "causes": 11
+      },
+      {
+        "name": "North Macedonia",
+        "causes": 9
+      },
+      {
+        "name": "Armenia",
+        "causes": 8
+      },
+      {
+        "name": "Republic of Moldova",
+        "causes": 8
+      },
+      {
+        "name": "Bulgaria",
+        "causes": 7
+      },
+      {
+        "name": "Lithuania",
+        "causes": 6
+      },
+      {
+        "name": "Turkey",
+        "causes": 5
+      },
+      {
+        "name": "Liechtenstein",
+        "causes": 4
+      },
+      {
+        "name": "Ukraine",
+        "causes": 3
+      },
+      {
+        "name": "Andorra",
+        "causes": 2
+      },
+      {
+        "name": "Monaco",
+        "causes": 2
+      },
+      {
+        "name": "Holy See",
+        "causes": 1
+      },
+      {
+        "name": "Faroe Islands",
+        "causes": 3
+      },
+      {
+        "name": "Gibraltar",
+        "causes": 1
+      },
+      {
+        "name": "Guernsey",
+        "causes": 1
+      },
+      {
+        "name": "Jersey",
+        "causes": 2
+      },
+      {
+        "name": "India",
+        "causes": 82
+      },
+      {
+        "name": "Thailand",
+        "causes": 75
+      },
+      {
+        "name": "Indonesia",
+        "causes": 69
+      },
+      {
+        "name": "Maldives",
+        "causes": 9
+      },
+      {
+        "name": "Sri Lanka",
+        "causes": 6
+      },
+      {
+        "name": "Bangladesh",
+        "causes": 3
+      },
+      {
+        "name": "Bhutan",
+        "causes": 1
+      },
+      {
+        "name": "Nepal",
+        "causes": 1
+      },
+      {
+        "name": "Iran",
+        "causes": 11364
+      },
+      {
+        "name": "Qatar",
+        "causes": 262
+      },
+      {
+        "name": "Bahrain",
+        "causes": 210
+      },
+      {
+        "name": "Kuwait",
+        "causes": 100
+      },
+      {
+        "name": "Egypt",
+        "causes": 93
+      },
+      {
+        "name": "Iraq",
+        "causes": 93
+      },
+      {
+        "name": "United Arab Emirates",
+        "causes": 85
+      },
+      {
+        "name": "Lebanon",
+        "causes": 77
+      },
+      {
+        "name": "Saudi Arabia",
+        "causes": 62
+      },
+      {
+        "name": "Pakistan",
+        "causes": 21
+      },
+      {
+        "name": "Oman",
+        "causes": 19
+      },
+      {
+        "name": "Tunisia",
+        "causes": 16
+      },
+      {
+        "name": "Afghanistan",
+        "causes": 7
+      },
+      {
+        "name": "Morocco",
+        "causes": 7
+      },
+      {
+        "name": "Jordan",
+        "causes": 1
+      },
+      {
+        "name": "Sudan",
+        "causes": 1
+      },
+      {
+        "name": "Palestina",
+        "causes": 35
+      },
+      {
+        "name": "USA",
+        "causes": 1678
+      },
+      {
+        "name": "Canada",
+        "causes": 176
+      },
+      {
+        "name": "Brazil",
+        "causes": 98
+      },
+      {
+        "name": "Chile",
+        "causes": 43
+      },
+      {
+        "name": "Argentina",
+        "causes": 34
+      },
+      {
+        "name": "Peru",
+        "causes": 28
+      },
+      {
+        "name": "Panama",
+        "causes": 27
+      },
+      {
+        "name": "Mexico",
+        "causes": 26
+      },
+      {
+        "name": "Costa Rica",
+        "causes": 23
+      },
+      {
+        "name": "Ecuator",
+        "causes": 23
+      },
+      {
+        "name": "Columbia",
+        "causes": 16
+      },
+      {
+        "name": "Jamaica",
+        "causes": 7
+      },
+      {
+        "name": "Guyana",
+        "causes": 6
+      },
+      {
+        "name": "Paraguay",
+        "causes": 6
+      },
+      {
+        "name": "Dominican Republic",
+        "causes": 5
+      },
+      {
+        "name": "Cuba",
+        "causes": 4
+      },
+      {
+        "name": "Bolivia",
+        "causes": 3
+      },
+      {
+        "name": "Puerto Rica",
+        "causes": 3
+      },
+      {
+        "name": "Honduras",
+        "causes": 2
+      },
+      {
+        "name": "Venezuela",
+        "causes": 2
+      },
+      {
+        "name": "Antigua and Barbuda",
+        "causes": 1
+      },
+      {
+        "name": "Guadelupa",
+        "causes": 1
+      },
+      {
+        "name": "Saint Vincent and the Grenadies",
+        "causes": 1
+      },
+      {
+        "name": "Trinidad and Tobago",
+        "causes": 1
+      },
+      {
+        "name": "French Guiana",
+        "causes": 6
+      },
+      {
+        "name": "Martinique",
+        "causes": 6
+      },
+      {
+        "name": "Saint Martin",
+        "causes": 2
+      },
+      {
+        "name": "Saint Barthelemy",
+        "causes": 1
+      },
+      {
+        "name": "Cayman Islands",
+        "causes": 1
+      },
+      {
+        "name": "Algeria",
+        "causes": 26
+      },
+      {
+        "name": "South Africa",
+        "causes": 17
+      },
+      {
+        "name": "Senegal",
+        "causes": 10
+      },
+      {
+        "name": "Burkina Faso",
+        "causes": 2
+      },
+      {
+        "name": "Cameroon",
+        "causes": 2
+      },
+      {
+        "name": "Democratic Republic of Congo",
+        "causes": 2
+      },
+      {
+        "name": "Nigeria",
+        "causes": 2
+      },
+      {
+        "name": "Cote d'Ivoire",
+        "causes": 1
+      },
+      {
+        "name": "Ethiapia",
+        "causes": 1
+      },
+      {
+        "name": "Gabon",
+        "causes": 1
+      },
+      {
+        "name": "Ghana",
+        "causes": 1
+      },
+      {
+        "name": "Guinea",
+        "causes": 1
+      },
+      {
+        "name": "Kenya",
+        "causes": 1
+      },
+      {
+        "name": "Togo",
+        "causes": 1
+      },
+      {
+        "name": "Reunion",
+        "causes": 5
+      },
+      {
+        "name": "International conveyance",
+        "causes": 697
+      }
+    ]
+  },
+  {
+    "date": "15 March 2020",
+    "countries": [
+      {"name": "China", "causes": 81048},
+      {"name": "Republic of Korea", "causes": 8162},
+      {"name": "Japan", "causes": 780},
+      {"name": "Australia", "causes": 249},
+      {"name": "Malaysia", "causes": 238},
+      {"name": "Singapore", "causes": 212},
+      {"name": "Philippines", "causes": 111},
+      {"name": "Vietnam ", "causes":53},
+      {"name": "Brunei Darussalam", "causes": 40},
+      {"name": "Cambodia", "causes": 7},
+      {"name": "New Zealand", "causes": 6},
+      {"name": "Mongolia", "causes": 1},
+
+      {"name": "French Polynesia", "causes": 3},
+
+      {"name": "Italy", "causes": 21157},
+      {"name": "Spain", "causes": 5753},
+      {"name": "France", "causes": 4469},
+      {"name": "Germany", "causes": 3795},
+      {"name": "Switzerland", "causes": 1359},
+      {"name": "United Kingdom", "causes": 1144},
+      {"name": "Netherlands", "causes": 959},
+      {"name": "Sweden", "causes": 924},
+      {"name": "Norway", "causes": 907},
+      {"name": "Denmark", "causes": 827},
+      {"name": "Austria", "causes": 800},
+      {"name": "Belgium", "causes": 689},
+      {"name": "Greece", "causes": 228},
+      {"name": "Czechia", "causes": 214},
+      {"name": "Finland", "causes": 210},
+      {"name": "Israel", "causes": 178},
+      {"name": "Slovenia", "causes": 141},
+      {"name": "Iceland", "causes": 138},
+      {"name": "Ireland", "causes": 129},
+      {"name": "Romania", "causes": 123},
+      {"name": "Portugal", "causes": 112},
+      {"name": "Poland", "causes": 111},
+      {"name": "San Marino", "causes": 92},
+      {"name": "Estonia", "causes": 79},
+      {"name": "Slovakia", "causes": 44},
+      {"name": "Bulgaria", "causes": 43},
+      {"name": "Serbia", "causes": 41},
+      {"name": "Albania", "causes": 38},
+      {"name": "Luxembourg", "causes": 38},
+      {"name": "Croatia", "causes": 37},
+      {"name": "Russia Federation", "causes": 37},
+      {"name": "Hungary", "causes": 32},
+      {"name": "Georgia", "causes": 30},
+      {"name": "Latvia", "causes": 30},
+      {"name": "Belarus", "causes": 21},
+      {"name": "Cyprus", "causes": 21},
+      {"name": "Azerbaijan", "causes": 19},
+      {"name": "Bosnia and Herzegovina", "causes": 18},
+      {"name": "North Macedonia", "causes": 13},
+      {"name": "Malta", "causes": 12},
+      {"name": "Republic of Moldova", "causes": 12},
+      {"name": "Lithuania", "causes": 9},
+      {"name": "Armenia", "causes": 8},
+      {"name": "Kazakhstan", "causes": 8},
+      {"name": "Turkey", "causes": 5},
+      {"name": "Liechtenstein", "causes": 4},
+      {"name": "Ukraine", "causes": 3},
+      {"name": "Andorra", "causes": 2},
+      {"name": "Monaco", "causes": 2},
+      {"name": "Holy See", "causes": 1},
+
+      {"name": "Faroe Islands", "causes": 9},
+      {"name": "Gibraltar", "causes": 1},
+      {"name": "Guernsey", "causes": 1},
+      {"name": "Jersey", "causes": 2},
+
+      {"name": "Indonesia", "causes": 117},
+      {"name": "India", "causes": 107},
+      {"name": "Thailand", "causes": 75},
+      {"name": "Sri Lanka", "causes": 11},
+      {"name": "Maldives", "causes": 10},
+      {"name": "Bangladesh", "causes": 3},
+      {"name": "Bhutan", "causes": 1},
+      {"name": "Nepal", "causes": 1},
+
+      {"name": "Iran", "causes": 12729},
+      {"name": "Qatar", "causes": 337},
+      {"name": "Bahrain", "causes": 211},
+      {"name": "Kuwait", "causes": 112},
+      {"name": "Saudi Arabia", "causes": 103},
+      {"name": "Egypt", "causes": 93},
+      {"name": "Iraq", "causes": 93},
+      {"name": "Lebanon", "causes": 93},
+      {"name": "United Arab Emirates", "causes": 85},
+      {"name": "Pakistan", "causes": 28},
+      {"name": "Oman", "causes": 20},
+      {"name": "Morocco", "causes": 18},
+      {"name": "Tunisia", "causes": 16},
+      {"name": "Afghanistan", "causes": 10},
+      {"name": "Jordan", "causes": 1},
+      {"name": "Sudan", "causes": 1},
+      {"name": "Palestina", "causes": 38},
+
+      {"name": "USA", "causes": 1678},
+      {"name": "Canada", "causes": 244},
+      {"name": "Brazil", "causes": 121},
+      {"name": "Chile", "causes": 61},
+      {"name": "Argentina", "causes": 45},
+      {"name": "Peru", "causes": 43},
+      {"name": "Mexico", "causes": 41},
+      {"name": "Panama", "causes": 27},
+      {"name": "Columbia", "causes": 24},
+      {"name": "Costa Rica", "causes": 23},
+      {"name": "Ecuator", "causes": 23},
+      {"name": "Jamaica", "causes": 8},
+      {"name": "Guyana", "causes": 6},
+      {"name": "Paraguay", "causes": 6},
+      {"name": "Dominican Republic", "causes": 5},
+      {"name": "Cuba", "causes": 4},
+      {"name": "Bolivia", "causes": 3},
+      {"name": "Puerto Rica", "causes": 3},
+      {"name": "Honduras", "causes": 2},
+      {"name": "Venezuela", "causes": 2},
+      {"name": "Antigua and Barbuda", "causes": 1},
+      {"name": "Guadelupa", "causes": 1},
+      {"name": "Saint Vincent and the Grenadies", "causes": 1},
+      {"name": "Trinidad and Tobago", "causes": 1},
+
+      {"name": "French Guiana", "causes": 7},
+      {"name": "Martinique", "causes": 10},
+      {"name": "Saint Martin", "causes": 2},
+      {"name": "Saint Barthelemy", "causes": 1},
+      {"name": "Cayman Islands", "causes": 1},
+      {"name": "Guadeloupe", "causes": 3},
+      {"name": "Curacao", "causes": 2},
+
+      {"name": "South Africa", "causes": 38},
+      {"name": "Algeria", "causes": 37},
+      {"name": "Senegal", "causes": 21},
+      {"name": "Burkina Faso", "causes": 3},
+      {"name": "Cameroon", "causes": 3},
+      {"name": "Cote d'Ivoire", "causes": 3},
+      {"name": "Democratic Republic of Congo", "causes": 2},
+      {"name": "Ghana", "causes": 2},
+      {"name": "Namibia", "causes": 2},
+      {"name": "Nigeria", "causes": 2},
+      {"name": "Central African Republic", "causes": 1},
+      {"name": "Congo", "causes": 1},
+      {"name": "Equatorial Guinea", "causes": 1},
+      {"name": "Eswatini", "causes": 1},
+      {"name": "Ethiapia", "causes": 1},
+      {"name": "Gabon", "causes": 1},
+      {"name": "Guinea", "causes": 1},
+      {"name": "Kenya", "causes": 1},
+      {"name": "Mauritania", "causes": 1},
+      {"name": "Togo", "causes": 1},
+
+      {"name": "Reunion", "causes": 5},
+      {"name": "Mayotte", "causes": 5},
+
+      {"name": "International conveyance", "causes": 697}
     ]
   }
 ]
