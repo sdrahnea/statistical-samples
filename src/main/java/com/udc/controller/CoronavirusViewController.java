@@ -1,6 +1,5 @@
 package com.udc.controller;
 
-import com.udc.model.Coronavirus;
 import com.udc.model.Covid19Country;
 import com.udc.service.CoronavirusService;
 import org.primefaces.model.chart.*;
@@ -13,10 +12,7 @@ import org.springframework.web.bind.annotation.RestController;
 import javax.annotation.PostConstruct;
 import javax.faces.bean.ManagedBean;
 import javax.faces.bean.RequestScoped;
-import java.util.Comparator;
-import java.util.LinkedList;
 import java.util.List;
-import java.util.stream.Collectors;
 
 /**
  * Created by sdrahnea
