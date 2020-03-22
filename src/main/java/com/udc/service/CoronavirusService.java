@@ -86,7 +86,17 @@ public class CoronavirusService extends AbstractService<Coronavirus> {
      * @return list of countries and causes
      */
     public List<Covid19Country> findByDateAndSortByCauses(final String text) {
-        return findCountriesByDate(text).stream().sorted(Comparator.comparing(Covid19Country::getCauses))
+        return findCountriesByDate(text).stream().sorted(Comparator.comparing(Covid19Country::getCauses).reversed())
                 .collect(Collectors.toList());
+    }
+
+    /**
+     * Returns first limit of objects from list
+     * @param list of object
+     * @param limit number of first objects
+     * @return list of objects
+     */
+    public List<Covid19Country> top(List<Covid19Country> list, Long limit) {
+        return list.stream().skip(0).limit(limit).collect(Collectors.toList());
     }
 }

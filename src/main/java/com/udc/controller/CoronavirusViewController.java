@@ -40,11 +40,11 @@ public class CoronavirusViewController {
     public void initialise() {
         List<String> datetimes = coronavirusService.findAvailableDate("March");
 
-        logger.info("Found %s items", datetimes.size());
-
         if(((index % 4) == 0) && (index / 4) < datetimes.size()){
             String dateTime = datetimes.get(index / 4);
-            horizontalBarModel = updateTheChart(dateTime, coronavirusService.findByDateAndSortByCauses(dateTime));
+            List<Covid19Country> countryPerDayList
+                    = coronavirusService.top(coronavirusService.findByDateAndSortByCauses(dateTime), 25L);
+            horizontalBarModel = updateTheChart(dateTime, countryPerDayList);
         }
         index++;
     }
