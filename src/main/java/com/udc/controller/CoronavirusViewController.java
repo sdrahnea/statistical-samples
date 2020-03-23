@@ -60,7 +60,7 @@ public class CoronavirusViewController {
 
         horizontalBarModel.addSeries(countries);
 
-        horizontalBarModel.setTitle("Coronovirus Dynamic (2019-nCoV)");
+        horizontalBarModel.setTitle("Top 25 countries, Coronovirus Dynamic (2019-nCoV)");
         horizontalBarModel.setLegendPosition("e");
         horizontalBarModel.setStacked(true);
         horizontalBarModel.setAnimate(true);
