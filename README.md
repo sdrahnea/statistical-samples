@@ -4,23 +4,24 @@ This is an application which provide charts based on information from sources. T
 We use the following frameworks: java, sql, spring framework, spring boot, spring jpa, hibernate, primefaces and MySQL as database. 
 
 ## Summary
-* Sources
-* Getting Started (Prerequisites, Installing)
-* Running the tests
-* Deployment
-* Built With
-* Do you have any issue?
-* Contributing
-* Versioning
-* Authors
-* License
-* Donation
+* 1. Sources
+* 2. Getting Started (Prerequisites, Installing)
+* 3. Running the tests
+* 4. Deployment
+* 5. Troubleshooting
+* 6. Built With
+* 7. Do you have any issue?
+* 8. Contributing
+* 9. Versioning
+* 10. Authors
+* 11. License
+* 12. Donation
 
 
-## Sources, data and charts
+## 1. Sources, data and charts
 All information is added or is created from open sources from Internet. The charts are created based on information.
 
-### Novel Coronavirus (2019-nCoV) dynamic charts
+### 1.1 Novel Coronavirus (2019-nCoV) dynamic charts
  * https://youtu.be/7tt85NplJ5A
  * https://youtu.be/By7QJZtnnOw 
  * https://youtu.be/JUt5QQiVEVk
@@ -29,17 +30,17 @@ All information is added or is created from open sources from Internet. The char
  * https://youtu.be/zCJgr8h7bbM
  * https://youtu.be/Mni1TtJYjRE
  * https://youtu.be/KJYBLNqgufg
-### Corruption Perceptions Index (in progress)
+### 1.2 Corruption Perceptions Index (in progress)
 
-## Getting Started
+## 2. Getting Started
 
 Clone or download a copy of this project.
 
-### Prerequisites
+### 2.1 Prerequisites
 
 This project requires Java 1.8, MySQL and Maven.
 
-### Installing
+### 2.2 Installing
 
 After MySQL instalation, it is required to create a dabase:
 
@@ -114,11 +115,11 @@ SDR:statistical-samples sdrahnea$ mvn clean compile package
 SDR:statistical-samples sdrahnea$ 
 ```
 
-## Running the tests
+## 3. Running the tests
 
 This project does not have any kind of tests :).
 
-## Deployment
+## 4. Deployment
 
 Once the build (the jar file) is ready the application can be run. Please, use the following command to run the application:
 ```
@@ -127,7 +128,21 @@ SDR:statistical-samples sdrahnea$ java -jar target/statistical-samples-0.0.1-SNA
 If was used default configuration then the application should be available at this url: http://localhost:8081/mytemplate/login.xhtml 
 Use the following credentials: username: admin, password: 123.
 
-## Built With
+## 5. Troubleshooting
+Possible solution when try to run the project.
+### 5.1 JPS incremental annotation processing is disabled.
+* Stacktrace sample:
+```
+....
+java: JPS incremental annotation processing is disabled. Compilation results on partial recompilation may be inaccurate. Use build process "jps.track.ap.dependencies" VM flag to enable/disable incremental annotation processing environment.
+java: java.lang.ExceptionInInitializerError
+Unable to make field private com.sun.tools.javac.processing.JavacProcessingEnvironment$DiscoveredProcessors com.sun.tools.javac.processing.JavacProcessingEnvironment.discoveredProcs accessible: module jdk.compiler does not "opens com.sun.tools.javac.processing" to unnamed module @2fb4bfb9
+java: java.lang.ExceptionInInitializerError
+.....
+```
+* Possible solution: take a look into project configuration and make sure to user proper java version (in my case 1.8) 
+
+## 6. Built With
 
 * [Java](https://www.java.com/en/download/) - Java technology allows you to work and play in a secure computing environment. Java allows you to play online games, chat with people around the world, calculate your mortgage interest, and view images in 3D, just to name a few.
 * [PrimeFaces](https://www.primefaces.org/) - PrimeFaces is a popular open source framework for JavaServer Faces featuring over 100 components, touch optimized mobilekit, client side validation, theme engine and more.
@@ -138,26 +153,26 @@ Use the following credentials: username: admin, password: 123.
 * [MySQL](https://www.mysql.com/) - MySQL is the world's most popular open source database. Whether you are a fast growing web property, technology ISV or large enterprise, MySQL can cost-effectively help you deliver high performance, scalable database applications.
 * [Maven](https://maven.apache.org/) - Apache Maven is a software project management and comprehension tool. Based on the concept of a project object model (POM), Maven can manage a project's build, reporting and documentation from a central piece of information. 
 
-## Do you have any issue?
+## 7. Do you have any issue?
 
 Please contact via LinkedIn account or drop an email (read [LICENSE.md](LICENSE.md) file).
 
-## Contributing
+## 8. Contributing
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
-## Versioning
+## 9. Versioning
 
 We use [SemVer](http://semver.org/) for versioning.
 
-## Authors
+## 10. Authors
 
 * **Sergiu Drahnea** - *Initial work* - [LinkedIn](https://www.linkedin.com/in/sergiu-drahnea)
 
-## License
+## 11. License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Donation
+## 12. Donation
 * [PayPal](https://www.paypal.me/sdrahnea) - any donation is welcomed in case that you was pleased with this work :p
 

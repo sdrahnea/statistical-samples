@@ -89,7 +89,6 @@
             <scope>test</scope>
         </dependency>
 
-
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
@@ -100,6 +99,13 @@
             <artifactId>poi</artifactId>
             <version>3.17</version>
         </dependency>
+
+        <dependency>
+            <groupId>com.opencsv</groupId>
+            <artifactId>opencsv</artifactId>
+            <version>5.5.1</version>
+        </dependency>
+
         <dependency>
             <groupId>org.apache.poi</groupId>
             <artifactId>poi-ooxml</artifactId>
@@ -116,7 +122,6 @@
             <artifactId>ChartistJSF</artifactId>
             <version>2.1</version>
         </dependency>
-
 
     </dependencies>
 
